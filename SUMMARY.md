@@ -38,26 +38,11 @@
 * [👩🔧 Livechat](install/livechat/README.md)
   * [Freshdesk](install/livechat/freshdesk.md)
   * [Microsoft Teams](install/livechat/microsoft-teams/README.md)
+    * [Agent commands](install/livechat/microsoft-teams/agent-commands.md)
+    * [App commands](install/livechat/microsoft-teams/app-commands.md)
     * [Permissions](install/livechat/microsoft-teams/permissions.md)
   * [Slack](install/livechat/slack.md)
   * [Multi Livechat support](install/livechat/multi-livechat-support.md)
-
-## Installation (Legacy) <a href="#install-legacy" id="install-legacy"></a>
-
-* [Chatbot](install-legacy/chatbot/README.md)
-  * [Watson Assistant](install-legacy/chatbot/watson-assistant.md)
-* [Channels](install-legacy/channels/README.md)
-  * [Alexa](install-legacy/channels/untitled.md)
-  * [Messenger](install-legacy/channels/messenger.md)
-  * [Slack](install-legacy/channels/slack.md)
-  * [Skype](install-legacy/channels/skype.md)
-  * [Twitter](install-legacy/channels/twitter.md)
-  * [Web Widget](install-legacy/channels/web-widget/README.md)
-    * [Installation](install-legacy/channels/web-widget/widget-installation.md)
-  * [WhatsApp](install-legacy/channels/whatsapp.md)
-* [Livechat](install-legacy/livechat/README.md)
-  * [Microsoft Teams](install-legacy/livechat/microsoft-teams.md)
-* [Hub](install-legacy/hub.md)
 
 ## Enterprise
 

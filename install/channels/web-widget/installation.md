@@ -47,7 +47,7 @@ Insert the web widget script before the `</body>`tag. be sure to change the `WID
 
 ### WordPress
 
-You can edit your theme and follow the [web](../../../install-legacy/channels/web-widget/widget-installation.md) instruction or install plugins such as Insert [Headers and Footers](https://wordpress.org/plugins/insert-headers-and-footers/) and paste the Embedded code to the footer. (Figure 1.0 / Video)
+You can edit your theme and follow the [web](broken-reference) instruction or install plugins such as Insert [Headers and Footers](https://wordpress.org/plugins/insert-headers-and-footers/) and paste the Embedded code to the footer. (Figure 1.0 / Video)
 
 ### Shopify
 

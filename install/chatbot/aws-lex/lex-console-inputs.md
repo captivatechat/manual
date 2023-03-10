@@ -22,7 +22,7 @@ Format and sample lambda event log for `sessionState`
 1. Chatbot developers can use the entirety of the session state in the connected Lambda function however necessary.
 2. Lex console can retrieve a session attribute by enclosing the property with square brackets. Using the session state in the event log above and configuring the closing response as in example below, the response message will be "Hello, John Doe".
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 #### References from AWS Lex Documentation
 
