@@ -6,25 +6,15 @@ To view status of the infrastructure please visit [https://status.captivat.io](h
 
 ### Support
 
-To send support ticket visit [https://www.captivat.io/support/](https://www.captivat.io/support/) or message us on our channels:
-
-Email: [support@captivat.io](mailto:support@captivat.io)
-
-Messenger: [http://m.me/captivatio](http://m.me/captivatio)
-
-Instagram: [https://www.instagram.com/captivatio](https://www.instagram.com/captivatio)
-
-WhatsApp: [https://api.whatsapp.com/send/?phone=%2B442045382554\&text\&app\_absent=0](https://api.whatsapp.com/send/?phone=%2B442045382554\&text\&app\_absent=0)
-
-Twitter: [https://twitter.com/messages/captivatio](https://twitter.com/messages/captivatio)
+Email: support@captivatechat.com
 
 ### Add new component request
 
-For new component request please visit [https://www.captivat.io/support/](https://www.captivat.io/support/) and book a support.
+For new component request please contact info@captivatechat.com and book for support.
 
 ### Contact
 
-[info@captivat.io](mailto:info@captivat.io)
+info@captivatechat.com
 
 [+44 (0) 20 7771 1100](tel:+44%20\(0\)%2020%207771%201100)
 
