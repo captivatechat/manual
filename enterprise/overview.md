@@ -1,6 +1,6 @@
 # Overview
 
-The Captivate Hub has four major components, one for the frontend and for backend, chatbot, channel gateway and live chat gateway and two microservice for handing Microsoft Teams connections and Widget for custom chatbot widget.
+The Captivate Chat has four major components, one for the frontend and for backend, chatbot, channel gateway and live chat gateway and two microservice for handing Microsoft Teams connections and Widget for custom chatbot widget.
 
 ### Frontend
 

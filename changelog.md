@@ -1,6 +1,6 @@
 # 📕 Changelog
 
-## v2.2.0-3 - 2022-05-18
+## v2.2.3 - 2023-04-13
 
 Changes will be added soon
 

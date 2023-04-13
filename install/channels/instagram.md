@@ -30,7 +30,7 @@ Figure 0: Summary of installing "The Captivate Hub" to Instagram
 
 4\. Click **"Sign in with facebook"** button
 
-5\. A new window will appear that redirect you to facebook, it will ask your password and ask you **"What Instagram Business Accounts do you want to use The Captivate Hub?".** select the Instagram account **** and **What pages do you want to use with The Captivate Hub?".** select the facebook page connected to the instagram and click next.
+5\. A new window will appear that redirect you to facebook, it will ask your password and ask you **"What Instagram Business Accounts do you want to use The Captivate Hub?".** select the Instagram account and **What pages do you want to use with The Captivate Hub?".** select the facebook page connected to the instagram and click next.
 
 ![Figure 4: Facebook asking for Instagram account to be installed](<../../.gitbook/assets/image (48).png>)
 

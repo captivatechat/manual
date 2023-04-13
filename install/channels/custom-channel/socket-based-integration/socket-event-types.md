@@ -293,7 +293,7 @@ Send this event to request for the conversation transcripts associated with a so
 
 ### conversation\_transcript
 
-The returned transcript in response to conversation\_transcript\_request __ event_._
+The returned transcript in response to conversation\_transcript\_request event_._
 
 **Emit** : No\
 **Receive** : Yes\

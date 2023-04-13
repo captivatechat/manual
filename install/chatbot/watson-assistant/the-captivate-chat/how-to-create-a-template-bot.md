@@ -30,7 +30,7 @@ as you can see in the Watson Screenshot 1 after welcome node triggered it jumped
 
 **As of now all templated bots are available to the public and all are applied through us manually. We are quickly making a User interface for this in our roadmap**
 
-****
+
 
 **CH User Profile**
 

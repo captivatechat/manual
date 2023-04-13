@@ -2,7 +2,7 @@
 
 ### Status
 
-To view status of the infrastructure please visit [https://status.captivat.io](https://status.captivat.io)
+To view the status of the infrastructure, please visit [https://status.captivat.io](https://status.captivat.io)
 
 ### Support
 
@@ -10,7 +10,7 @@ Email: support@captivatechat.com
 
 ### Add new component request
 
-For new component request please contact info@captivatechat.com and book for support.
+For new component requests, please get in touch with info@captivatechat.com and book support.
 
 ### Contact
 

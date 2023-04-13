@@ -25,11 +25,11 @@ By default, available customizable variables are:
 
 **Note: As of now all template bots are available to the public and all are applied through us manually. We are quickly making a User interface for this in our roadmap.**
 
-****
+
 
 **References from Watson Assistant Implementation**
 
-[CH Customizable Data](../watson-assistant/the-captivate-hub-integration/ch-customizable-data.md)
+[CH Customizable Data](../watson-assistant/the-captivate-chat/ch-customizable-data.md)
 
-[How to Create Template](../watson-assistant/the-captivate-hub-integration/how-to-create-a-template-bot.md)
+[How to Create Template](../watson-assistant/the-captivate-chat/how-to-create-a-template-bot.md)
 

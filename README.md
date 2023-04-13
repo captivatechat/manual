@@ -1,6 +1,6 @@
 # 📚 Overview
 
-### What is The Captivate Hub?
+### What is Captivate Chat
 
 Combine any live chat platform, any channel, any chatbot to expand collaboration inside the organization to those outside. Remove the distance between your brand and your customer’s reducing their frustration and churn and / or increasing sales.
 

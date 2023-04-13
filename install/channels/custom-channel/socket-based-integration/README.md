@@ -16,13 +16,13 @@ You can still toggle from Sockets mode to Webhooks mode by updating your channel
 
 To successfully connect to Captivate Hub using Socket Mode, you need a valid Websocket URL.
 
-Your **WebSocket URL** will consist of the Websockets Base URL of CH + your Channel API key **** as a query parameter. WebSockets Base URL will be either be displayed in the CH dashboard too or provided by the CH team.
+Your **WebSocket URL** will consist of the Websockets Base URL of CH + your Channel API key  as a query parameter. WebSockets Base URL will be either be displayed in the CH dashboard too or provided by the CH team.
 
 **Websocket URL Format**\
-****`<WebSockets Base wss:// URL>?apikey=<Your Custom Channel API Key>`
+`<WebSockets Base wss:// URL>?apikey=<Your Custom Channel API Key>`
 
 **Example Websocket URL**\
-****`wss://ch.channelgateway.com?apikey=sample-custom-channel-APIKey`
+`wss://ch.channelgateway.com?apikey=sample-custom-channel-APIKey`
 
 Here’s an example code of connecting to the WebSocket server. (another example implementation for a Flutter application in this [Flutter docs page](https://docs.flutter.dev/cookbook/networking/web-sockets).)
 

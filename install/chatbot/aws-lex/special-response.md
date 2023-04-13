@@ -110,4 +110,3 @@ If your special responses do not fit the 1000-charater limit even when minified,
 
 ![](<../../../.gitbook/assets/image (43).png>)
 
-****

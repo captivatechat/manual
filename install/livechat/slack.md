@@ -9,7 +9,7 @@ If you have any suggestions on this page please email us at support@captivat.io
 
 
 {% hint style="danger" %}
-The Captivate Hub Slack Apps requires [**Workspace Admins**](https://slack.com/help/articles/360018112273-Types-of-roles-in-Slack) **** permission to install
+The Captivate Hub Slack Apps requires [**Workspace Admins**](https://slack.com/help/articles/360018112273-Types-of-roles-in-Slack) permission to install
 {% endhint %}
 
 {% tabs %}
