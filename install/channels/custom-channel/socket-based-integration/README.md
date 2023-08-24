@@ -21,13 +21,13 @@ Your **WebSocket URL** will consist of the Websockets Base URL of CH + your Chan
 **Websocket URL Format**\
 `<WebSockets Base wss:// URL>?apikey=<Your Custom Channel API Key>`
 
-**Example Websocket URL**\
-`wss://channel.prod.captivat.io?apikey=sample-custom-channel-APIKey`
+**Captivate Chat Production WSS**\
+`wss://channel.wss.captivatechat.ai?apikey=sample-custom-channel-APIKey`
 
 Here’s an example code of connecting to the WebSocket server. (another example implementation for a Flutter application in this [Flutter docs page](https://docs.flutter.dev/cookbook/networking/web-sockets).)
 
 ```javascript
-let wssUrl = 'wss://channel.prod.captivat.io?apikey=sample-custom-channel-APIKey';
+let wssUrl = 'wss://channel.wss.captivatechat.ai?apikey=sample-custom-channel-APIKey';
 let socket = new WebSocket(wssUrl);
 
 socket.onopen = function(event) {
