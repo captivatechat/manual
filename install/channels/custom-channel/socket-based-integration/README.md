@@ -19,7 +19,7 @@ To successfully connect to Captivate Hub using Socket Mode, you need a valid Web
 Your **WebSocket URL** will consist of the Websockets Base URL of CH + your Channel API key  as a query parameter. WebSockets Base URL will be either be displayed in the CH dashboard too or provided by the CH team.
 
 **Websocket URL Format**\
-`<WebSockets Base wss:// URL>?apikey=<Your Custom Channel API Key>`
+`<WebSockets Base wss:// <URL>?apikey=<Your Custom Channel API Key>`
 
 **Captivate Chat Production WSS**\
 `wss://channel.wss.captivatechat.ai?apikey=sample-custom-channel-APIKey`
