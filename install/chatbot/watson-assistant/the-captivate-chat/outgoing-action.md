@@ -91,3 +91,13 @@ _This should not be confused with Watson's own action invoke which calls cloud f
 * For this example, files are accessible on $formdata.form1.file\[0], Index 0 for the first file. Index 1 for the second file if available.
 
 ![](https://lh4.googleusercontent.com/AIFko6M43xlufMThXIDZoSZH-QyRk8jiweZA-jAj6TlpFW2WDAA6sbUDq30XwPtrdNEoeb8PPZP475ahqA0WkWTBpz3DulBQkGXQHU8XNGBuLXmaQ7Sba0nYsbY0X1gkEZhhtDg)
+
+**Send transcript** - send transcript to user.
+
+* idChat, name and email are required.
+  * idchat - conversation ID.
+  * name - user's name.
+  * email - user's email.
+* The transcript will be sent to the email provided by the user.
+
+<figure><img src="broken-reference" alt="" width="379"><figcaption></figcaption></figure>
