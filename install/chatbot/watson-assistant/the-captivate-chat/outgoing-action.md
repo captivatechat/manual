@@ -100,4 +100,4 @@ _This should not be confused with Watson's own action invoke which calls cloud f
   * email - user's email.
 * The transcript will be sent to the email provided by the user.
 
-<figure><img src="broken-reference" alt="" width="379"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Capture.PNG" alt="" width="379"><figcaption></figcaption></figure>
