@@ -6,11 +6,13 @@ description: Connect your AI Assistant to your website
 
 After _**Select Channel > Web Widget**_, you will be taken to the **Configure Web Chat** view. This is where you will set up your Chatbot to make it compatible with your website.&#x20;
 
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+
 ## Configure Web Chat
 
 ### Text Options
 
-<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 Customize the basic text that appears with your Chatbot once it becomes a Web Widget. This portion has the following components:
 
@@ -20,7 +22,7 @@ Customize the basic text that appears with your Chatbot once it becomes a Web Wi
 
 ### Color Options
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 This is where you can get creative with your Web Widget! Customize how your Chatbot appears in your website with a wide array of color options, including:
 
@@ -31,7 +33,7 @@ This is where you can get creative with your Web Widget! Customize how your Chat
 
 ### Image Options
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 Customize your Chatbot further with options that add "personality" to them. These include:
 
@@ -48,7 +50,9 @@ Since your Chatbot is an extension of your branding, it's important to use high-
 
 ### Working Hours
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Determine your Chatbot's working hours. You can choose its **Start Time** and **End Time**, and specific days of the week you want it to function. &#x20;
 
@@ -56,7 +60,7 @@ If you want your Chatbot to connect users to Live Agents, try to set the Chatbot
 
 ### Embed Live Chat
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 After setting the above options, we'll create an **embed code** you can copy and paste into your website. Make sure it's pasted **before the closing \</body> tag** on pages of your website where you want the AI Assistant to show up.
 
@@ -76,21 +80,25 @@ You can either _**Close**_ it to make other changes, or you can _**View Widget**
 
 ### Widget Preview
 
-When you click _**View Widget**_, your browser will open a new window that says **Captivate Chat - Widget Preview**.&#x20;
+<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+When you click _**View Widget**_, your browser will open a new window that says **Captivate Chat - Widget Preview**.&#x20;
 
 This is the place where you can check how your Web Widget looks like even before you plug in the code to your actual website.&#x20;
 
 Notice how your Widget Icon is on the lower right of the screen.&#x20;
 
-Clicking your Widget Icon reveals a prototype of the Chatbot.&#x20;
+### Testing the Web Widget
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+
+Clicking your Widget Icon reveals a prototype of the Chatbot.&#x20;
 
 This prototype is fully functional, with both your set visual settings and included AI training. You can ask it questions and see its responses. Thanks to this process, you can see all aspects of your Chatbot before it's even deployed to your system.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+### Changing the Web Widget Preview
+
+<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
 Clicking the **Green Circle** on the upper right of the preview site will reveal more customization options. With this new window, you can:
 
@@ -100,7 +108,9 @@ Clicking the **Green Circle** on the upper right of the preview site will reveal
 
 <figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
-#### Background
+### Background
+
+<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 Under **Select Background Type**, you can choose either a **Web** or **Image** as the source of your Background Asset:
 

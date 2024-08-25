@@ -4,17 +4,19 @@ description: Set your AI Assistant as a Chatbot of an Instagram Page
 
 # Channel: Instagram
 
+<figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+
 After _**Select Channel > Instagram**_, you will be taken to **Configure Instagram**. This is where you can integrate your AI Assistant as the Chatbot of your Instagram Page.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="danger" %}
-**Make sure you have a Facebook Business Account!**
+**Make sure you have connected accounts**
 
-Our integration only works if you have a Facebook Business Account.
+Our integration only works if you have a **Professional Instagram Account** connected to a **Facebook Business Account.**
 {% endhint %}
 
 ## Configure Instagram
+
+<figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
 Before you can fully integrate your AI Assistant with your Instagram Page, you have to fill up the following information:
 
@@ -23,29 +25,15 @@ Before you can fully integrate your AI Assistant with your Instagram Page, you h
 
 ### Sign in with Facebook
 
-```
-image
-```
+<figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
 This is the most important step of the integration process. Click _**Sign in with Facebook.**_
 
-```
-image
-```
-
-You will encounter a separate window where you have to log in to Facebook.&#x20;
-
-```
-image
-```
-
-Upon logging in, you then have to give Captivate Chat permissions to make modifications to your profile.
+You will encounter a separate window where you have to log in to Facebook. Upon logging in, you then have to give Captivate Chat permissions to make modifications to your profile.
 
 ### Select the Business Account
 
-```
-image
-```
+<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
 Facebook will ask you the following:
 
@@ -58,13 +46,14 @@ You will encounter a drop-down box where you will choose which **page** you spec
 
 This will allow us to use our backend to automatically integrate your AI Assistant to your Instagram Page.&#x20;
 
-<pre><code><strong>image
-</strong></code></pre>
+### Fill up Instagram ID and Page Token
+
+<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
 Back in **Configure Instagram**_,_ fill in the following:
 
 * **Instagram Page Name:** When you start typing your target Facebook Page, it should appear as a drop-down. Select it.
-* **Page ID:** It should automatically appear.
+* **Instagram ID:** It should automatically appear.
 * **Page Token:** It should automatically appear.
 
 Click _**Next**_.

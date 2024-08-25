@@ -21,8 +21,8 @@
 * [Create a Chat Flow](start-creating/create-a-chat-flow/README.md)
   * [Channel: Web Widget](start-creating/create-a-chat-flow/channel-web-widget.md)
   * [Channel: Facebook](start-creating/create-a-chat-flow/channel-facebook.md)
-  * [Channel: WhatsApp](start-creating/create-a-chat-flow/channel-whatsapp.md)
   * [Channel: Instagram](start-creating/create-a-chat-flow/channel-instagram.md)
+  * [Channel: WhatsApp](start-creating/create-a-chat-flow/channel-whatsapp.md)
 * [Create a Custom Component](start-creating/create-a-custom-component.md)
 
 ## INSTALLATION

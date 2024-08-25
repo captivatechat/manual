@@ -29,8 +29,9 @@ Before you're able to integrate your AI Assistant into WhatsApp, you have to fil
 
 ### Join Twilio
 
-<pre><code><strong>image
-</strong></code></pre>
+```
+image
+```
 
 In order to fill up the Account SID and Authentication Token, you have to **sign up for a Twilio** account.
 
@@ -66,7 +67,8 @@ Twilio might ask you to **verify your phone number.** Just follow the on-screen 
 To do this, you have to:
 
 1. Click _**Messaging**_ in the left-hand menu.&#x20;
-2. Find and click the _**WhatsApp**_ button.
+2. From the drop down menu, find _**Senders > WhatsApp Senders**_
+3. Click _**Create New Sender**_
 
 <pre><code><strong>image
 </strong></code></pre>
@@ -90,7 +92,7 @@ Once your request to link Twilio and WhatsApp is approved, you need to **add a p
 In order to add a new number:
 
 1. In the Twilio Console (dashboard), click _**Messaging > Senders > WhatsApp Senders.**_
-2. Click _**New WhatsApp Sender**_.&#x20;
+2. Click _**Create New Sender**_.&#x20;
 
 This will reveal on-screen instructions on how to link a phone number to your WhatsApp account.
 
