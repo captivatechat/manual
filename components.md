@@ -10,9 +10,9 @@ With the Flow, you can easily manage all your bots for your channels without cre
 
 ***
 
-## Flow
+## The Captivate Flow
 
-![Figure 1.0: A diagram of how Captivate Flow works. Notice how a central Captivate Flow links separate Chatbots, Channels, and Live Chats.  ](<.gitbook/assets/Captivate Flow.png>)
+
 
 ```
 replace with SAAS version, i can also make my own basic graphic - if allowed

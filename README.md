@@ -8,13 +8,13 @@ description: Welcome to Captivate Chat!
 
 **Captivate Chat** revolutionizes customer engagement, seamlessly bridging brands and buyers to slash churn, supercharge sales, and skyrocket satisfaction.&#x20;
 
-Our cutting-edge **Captivate Flow** facilitates seamless chat transitions from customers to AI Assistants and, if needed, to Live Chat for human support. This ensures your GPT AI Assistant handles most tasks, involving human agents only when necessary, optimizing efficiency and cost.
+Our cutting-edge **Captivate Flow** facilitates seamless chat transitions from customers to AI Chatbots and, if needed, to Live Chat for human support. This ensures your GPT AI Chatbots handle most tasks, involving human agents only when necessary, optimizing efficiency and cost.
 
 ***
 
-## Introducing "Easy GPT"
+## Introducing "Easy AI"
 
-With Captivate Flow, you can bypass the complexities of building AI solutions from scratch. We deliver tailored solutions to address your business challenges. Here’s a brief overview:
+With Captivate Chat's **AI Chatbots** and **Chat Flows**, you can bypass the complexities of building AI solutions from scratch. We deliver tailored solutions to address your business challenges. Here’s a brief overview:
 
 #### Design & Build
 
