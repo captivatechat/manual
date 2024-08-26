@@ -12,7 +12,7 @@ Incoming actions are set by Captivate Hub to trigger specific action or intents 
 * JSON string format in `requestAttributes.incoming_action`, you may use this in your Lambda function after parsing.
 * A flattened version is also sent, so that the variables can be [used directly in Lex Console](https://docs.aws.amazon.com/lex/latest/dg/howitworks-manage-prompts.html#msg-prompts-msg-types) if needed.
 
-![Incoming action logs in requestAttributes of Lambda event](<../../../.gitbook/assets/image (38).png>)
+![Incoming action logs in requestAttributes of Lambda event](<../../../.gitbook/assets/image (38) (1).png>)
 
 ### Incoming Action in Lex Console
 
@@ -31,7 +31,7 @@ One way to check if incoming message is a legitimate user message or a CH System
 
 Along with Code Hooks, make sure that your Lex Bot has a Fallback Intent configured. Before sending the default response for unknown user messages, check first if the message is an incoming action.
 
-![Built-in Lex Fallback Intent](<../../../.gitbook/assets/image (62).png>)
+![Built-in Lex Fallback Intent](<../../../.gitbook/assets/image (62) (1).png>)
 
 For recommendations mentioned, you can verify if a message is a system action using the message and request attributes. Any CH message is prefixed with “CHSystemMessage” and if the message has an incoming action, you should be able to verify this in the Request Attributes.
 

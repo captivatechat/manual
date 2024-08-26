@@ -4,7 +4,7 @@
 
 1. On dashboard, click **"Create now"** or **"Create conversation"**
 
-![Figure 1: The Captivate Hub Dashboard](<../../../.gitbook/assets/image (41).png>)
+![Figure 1: The Captivate Hub Dashboard](<../../../.gitbook/assets/image (41) (1).png>)
 
 2\. Choose the **Web Chat** as channel
 

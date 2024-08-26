@@ -18,7 +18,7 @@ The Captivate Hub Slack Apps requires [**Workspace Admins**](https://slack.com/h
 If you are on the last step of the creation of the Hub (Figure 1.0), please follow the instruction below and do not close the page. If you haven't yet set up your Hub, please go to [Get Started](../../get-started.md). If it's easier there's a corresponding step by step video per instruction.
 {% endhint %}
 
-![Figure 1: Slack installation window after creating the hub](<../../.gitbook/assets/image (55).png>)
+![Figure 1: Slack installation window after creating the hub](<../../.gitbook/assets/image (55) (1).png>)
 
 ### App Installation.
 
@@ -32,13 +32,13 @@ If you are on the last step of the creation of the Hub (Figure 1.0), please foll
 
 * You will be see the **"The Captivate Hub"** on your apps. click the app and on the topside click the **"Messages"**. on the first message of the Slack app. click the **"Authorize"** button. The application will ask you another permission. please click allow.
 
-![Figure 2: Accessing the Captivate Hub for Authentication](<../../.gitbook/assets/image (56).png>)
+![Figure 2: Accessing the Captivate Hub for Authentication](<../../.gitbook/assets/image (56) (1).png>)
 
 ![Figure 3: Slack app is requesting again new permissions](<../../.gitbook/assets/image (93).png>)
 
 * After the authorization of the Slack app. type the command '/signin' to the Message and it will display **"Sign-in"** button. it will open a browser and login your account credentials on the Hub.
 
-![Figure 4: Output of /signin on the Slack app](<../../.gitbook/assets/image (46).png>)
+![Figure 4: Output of /signin on the Slack app](<../../.gitbook/assets/image (46) (1).png>)
 
 ### Hub Installation
 

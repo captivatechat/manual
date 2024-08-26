@@ -1,29 +1,41 @@
 ---
-description: Design your AI Assistants to perform specific tasks
+description: Design your AI Chatbots to perform specific tasks
 ---
 
 # My AI Assistants
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>The <strong>My AI Assistants</strong> view with a list of available Chatbots.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Clicking _**Setup > AI Assistant**_ reveals **My AI Assistants**. This view reveals a list of existing Chatbots you created under your account.&#x20;
 
 The **My AI Assistants** view has the following components:&#x20;
 
-* **+ AI Assistant:** This will take you through the Chatbot-creation process.
-* **Chatbot Icon:** This selects the Chatbot.
+### +AI Assistant
+
+Click on ![](<../../../.gitbook/assets/image (7).png>) to add a new AI Chatbot.&#x20;
+
+### AI Chatbot Tile
+
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+Each AI Chatbot in your account is represented by an AI Chatbot Tile. Selecting a tile allows you to modify it in a variety of ways.
 
 ***
 
-## Modifying the AI Assistant
+## Create your AI Chatbot
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p> Selecting a Chatbot and clicking its Settings reveals a list of options.</p></figcaption></figure>
+You can create your AI Chatbot by following the process here:
 
-**Clicking the Settings (Kebab Menu)** can modify the Chatbot using the following options:&#x20;
+{% content-ref url="../../../start-creating/create-an-ai-assistant/" %}
+[create-an-ai-assistant](../../../start-creating/create-an-ai-assistant/)
+{% endcontent-ref %}
 
-* **Edit:** Adjusts all parameters of the AI Assistant.
-* **Duplicate:** Creates a copy of the AI Assistant.
-* **Delete:** Permanently deletes the AI Assistant.
-* **Add Information:** Imports relevant information to the Chatbot's database.
-* **Add Integration:** Connects the Chatbot to another system.
-* **Train:** Improves the AI Assistant through training.&#x20;
+***
+
+## Modify your AI Chatbot
+
+You can modify and edit your AI Chatbot by following the instructions here:&#x20;
+
+{% content-ref url="../../../start-creating/create-an-ai-assistant/modify-your-ai-chatbots.md" %}
+[modify-your-ai-chatbots.md](../../../start-creating/create-an-ai-assistant/modify-your-ai-chatbots.md)
+{% endcontent-ref %}

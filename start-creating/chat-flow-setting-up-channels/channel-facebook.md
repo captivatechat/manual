@@ -16,7 +16,7 @@ Our integration only works if you have a **Facebook Business Account.**
 
 ## Configure Facebook Messenger
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 Before you can fully integrate your AI Assistant with your Facebook Page, you have to fill up the following information:
 

@@ -4,13 +4,13 @@ description: Check notable dialogue between Users, Agents, and AI Assistants
 
 # Transcripts
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption><p>The view of the Transcripts tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption><p>The view of the Transcripts tab</p></figcaption></figure>
 
 The **Transcripts** tab reveals captured notable dialogue between Users, Agents, and AI Assistants.&#x20;
 
 When people use the Chat Flows you create with Captivate Chat, useful dialogue is captured and stored within your account. You can review these in the **Transcripts** tab.
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption><p> Transcripts viewed up close</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption><p> Transcripts viewed up close</p></figcaption></figure>
 
 The **Transcripts** listed in the Transcripts Tab are arranged based on the following components:
 
@@ -26,7 +26,7 @@ The **Transcripts** listed in the Transcripts Tab are arranged based on the foll
 
 ## Clicking a Transcript
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p>When clicked, a Transcript reveals the relevant chat log</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37) (1).png" alt=""><figcaption><p>When clicked, a Transcript reveals the relevant chat log</p></figcaption></figure>
 
 Clicking a Transcript will reveal a **Transcript View**. This reveals the relevant dialogue captured by our system. It has the following components:
 

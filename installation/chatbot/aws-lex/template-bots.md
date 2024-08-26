@@ -9,7 +9,7 @@ CH Template Bots allow you to create these customizable messages, for example We
 
 Customizable data are accessible in the Lex Console or Lambda function through Session Attributes, the access instructions are available in [Lex Console Inputs](lex-console-inputs.md) - Lex Session Attributes and Metadata page.
 
-![Bot Template Customizable Messages](<../../../.gitbook/assets/image (49).png>)
+![Bot Template Customizable Messages](<../../../.gitbook/assets/image (49) (1).png>)
 
 The key name for each customizable variable is `metadata_internal_customizables_*.`This screenshot below shows the customizable messages in the sessionAttributes object of the sessionState of a Lex event.
 

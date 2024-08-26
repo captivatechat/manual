@@ -19,7 +19,7 @@ The following information explains why Captivate needs these permissions and wha
 
 The Captivate app has 13 permissions that need admin consent. Here's the list of permissions Captivate uses:
 
-<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption><p>Figure 1: Permission requested window of the teams application.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (57) (1).png" alt=""><figcaption><p>Figure 1: Permission requested window of the teams application.</p></figcaption></figure>
 
 
 

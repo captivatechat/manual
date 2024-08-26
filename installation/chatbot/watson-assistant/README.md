@@ -8,7 +8,7 @@ After configuring your channels, you will be asked to select what type of bot co
 
 Bot templates are ready to use bot that can be configure by the client. the bot is hosted on us.
 
-![Figure 1.1 - List of available templates](<../../../.gitbook/assets/image (47).png>)
+![Figure 1.1 - List of available templates](<../../../.gitbook/assets/image (47) (1).png>)
 
 ![Figure 1.2 - List of configurable messages on bot template](<../../../.gitbook/assets/image (63).png>)
 

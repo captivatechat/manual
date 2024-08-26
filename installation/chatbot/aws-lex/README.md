@@ -15,7 +15,7 @@ Captivate Hub supports [Amazon Lex V2](https://docs.aws.amazon.com/lexv2/latest/
   * User ID – part of IAM user credentials
   * Region – region where the bot exists
 
-![](<../../../.gitbook/assets/image (50).png>)
+![](<../../../.gitbook/assets/image (50) (1).png>)
 
 ## On multiple bot  languages and deployments
 

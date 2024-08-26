@@ -10,7 +10,7 @@ Figure 0: Video summary of installation of "The Captivate Hub" on Messenger
 
 1. On dashboard, click **"Create now"** or **"Create conversation"**
 
-![Figure 1: The Captivate Hub Dashboard](<../../.gitbook/assets/image (41).png>)
+![Figure 1: The Captivate Hub Dashboard](<../../.gitbook/assets/image (41) (1).png>)
 
 2\. Choose the **Messenger** as channel
 
@@ -22,7 +22,7 @@ Figure 0: Video summary of installation of "The Captivate Hub" on Messenger
 * Description - The description of the channel
 * Facebook Page Name - The name of the facebook page the app will be connected
 
-![Figure 3: Filling up information of the channel](<../../.gitbook/assets/image (48).png>)
+![Figure 3: Filling up information of the channel](<../../.gitbook/assets/image (48) (1).png>)
 
 4\. Click **"Sign in with facebook"** button
 
@@ -36,9 +36,9 @@ Figure 0: Video summary of installation of "The Captivate Hub" on Messenger
 
 7\. You are now done installing "The Captivate Hub" to your facebook page messenger. click ok and the Page ID and Page Token is now filled up. click the create button.
 
-![Figure 5: The Captivate Hub successfully installed at your facebook page](<../../.gitbook/assets/image (61).png>)
+![Figure 5: The Captivate Hub successfully installed at your facebook page](<../../.gitbook/assets/image (61) (1).png>)
 
-![Figure 6: All of information needed by the hub is filled.](<../../.gitbook/assets/image (42).png>)
+![Figure 6: All of information needed by the hub is filled.](<../../.gitbook/assets/image (42) (1).png>)
 
 The next step will redirect you to installing chatbot which you can find here:
 
