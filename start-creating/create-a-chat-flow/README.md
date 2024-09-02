@@ -49,11 +49,7 @@ You are offered two choices:
 
 <figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Select the Channel where you want your Chatbot to appear</p></figcaption></figure>
 
-After selecting the active Chatbot in your Chat Flow, it's time to choose your **Channel**. This is where your users will encounter your AI Chatbot.&#x20;
 
-We are offering different Channel Integrations into your Chat Flow, with different instructions how to set up each. Check each of them under the **\<Channel: \[Name]>** sub-pages, or through these links:
-
-&#x20;
 
 ***
 

@@ -34,7 +34,15 @@ Once you've made your choice, you can move forward by either:
 
 <figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 
-After creating your new AI Chatbot, click ![](<../../.gitbook/assets/image (163).png>).
+After going through the steps of [#create-an-ai-chatbot](ai-assistants.md#create-an-ai-chatbot "mention"), you will end up in the _**Select Integration**_ view. Click ![](<../../.gitbook/assets/image (163).png>).
+
+{% hint style="warning" %}
+**Select Integration, as of 9/2/2024**
+
+We haven't added options under _**Select Integration**_ yet. You may skip this step in the process.
+
+Stay tuned for more updates!
+{% endhint %}
 
 ### If you selected an existing AI Chatbot
 

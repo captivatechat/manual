@@ -13,9 +13,9 @@ description: How do we navigate the Captivate Chat platform?
 Access these functionalities on the left side of the Homepage:&#x20;
 
 * **Setup:** Create the tools you need for your Captivate Flows. It's divided into:
-  * **AI Assistants** for Chatbot creation, and
-  * **Chat Flows** to organize your elements into a single interface
-* **Reports:** Access various data about your Assistants, Chat Flows, and overall usage is collected.
+  * **AI Assistants** for AI Chatbot creation, and
+  * **Chat Flows** where you connect your AI Chatbots to Channels and Live Services
+* **Reports:** Access various data about your Assistants, Chat Flows, and overall usage is collected. **Coming soon!**
 * **Transcripts:** Read chat logs between your Agents and AI Assistants are stored for your reference.
-* **Tutorials:** Read and watch guides on how to use Captivate Chat - from basic tips to advanced methodologies.
+* **Tutorials:** Read and watch guides on how to use Captivate Chat - from basic tips to advanced methodologies. **Coming soon!**
 

@@ -11,9 +11,7 @@
   * [Setup](dashboard/homepage/setup/README.md)
     * [My AI Assistants](dashboard/homepage/setup/my-ai-assistants.md)
     * [Chat Flows](dashboard/homepage/setup/chat-flows.md)
-  * [Reports](dashboard/homepage/reports.md)
   * [Transcripts](dashboard/homepage/transcripts.md)
-  * [Tutorials](dashboard/homepage/tutorials.md)
 
 ## START CREATING
 

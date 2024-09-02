@@ -12,7 +12,7 @@ Select your AI Chatbot type by **clicking on the tile** you're interested in.
 
 ***
 
-### The different AI Chatbot types
+## The different AI Chatbot types
 
 <figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption><p>The many kinds of AI Assistants you can create</p></figcaption></figure>
 
@@ -37,7 +37,7 @@ You can always create more elaborate AI Assistants later!
 
 ***
 
-### Customize your AI Chatbot type
+## Customize your AI Chatbot type
 
 Modify your AI Chatbot even further by clicking ![](<../../.gitbook/assets/image (22).png>)  **after you've made your choice of AI Chatbot variant.** This brings you to a new window with customizable parameters, as seen below:&#x20;
 
@@ -62,7 +62,7 @@ While you've uploaded a lot of information in your AI Chatbot, they don't know h
 You can find some inspiration from the preset answers included in the AI Assistant Type you've chosen.
 {% endhint %}
 
-#### Customize Type (Free Format)
+### Customize Type (Free Format)
 
 <figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption><p>The Free Format layout of customizing your AI Assistant Type</p></figcaption></figure>
 
@@ -78,10 +78,33 @@ A **prompt** is a series of instructions that your AI Chatbot uses as a basis of
 We can create in-depth prompting guides to help you develop more elaborate Chatbots!
 {% endhint %}
 
+***
+
+### Testing your AI Chatbot Type
+
+<figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+
+While choosing your AI Chatbot Type and editing their prompts further under Customize (Structured/Free Format), you might notice the **Test Your AI Assistant** text box on the right.
+
+This is a live version of the AI Chatbot you are currently designing. You can plug in questions and wait for responses. Feel free to customize other parts of your AI Chatbot and see how it can affect its responses in real time.&#x20;
+
+By the time you used this testing box to create the "perfect" tone of voice for your AI Chatbot, now's the time to start training.
+
+{% hint style="info" %}
+**Experiment with your fully functional AI Chatbot**
+
+By the time you reach this step, your AI Chatbot is "technically" fully functional. The only steps missing are refining its responses through training and connecting it to your Live Chat.
+{% endhint %}
+
+***
+
+## After Testing your AI Chatbot Type
+
 You can proceed with the next step in two (2) ways:
 
 * From the original _**Select Type**_ view, choose ![](<../../.gitbook/assets/image (23).png>) on the lower right-hand corner.
 * In the _**Customize Type**_ view, choose ![](<../../.gitbook/assets/image (24).png>) on the lower right-hand corner.&#x20;
+* In either view, you can choose ![](<../../.gitbook/assets/image (168).png>) to save your changes and go back to _**Setup > My AI Assistants**_.
 
 ***
 
