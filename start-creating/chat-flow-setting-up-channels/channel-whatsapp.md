@@ -16,12 +16,12 @@ Our integration only works if you have a Facebook Business Account.
 
 ## Configure WhatsApp
 
-Before you're able to integrate your AI Assistant into WhatsApp, you have to fill up a few details:
+Before you're able to integrate your AIChatbot into WhatsApp, you have to fill up a few details:
 
 <pre><code><strong>image
 </strong></code></pre>
 
-* **Name:** This will be the assigned name of your AI Assistant once it appears live on WhatsApp.
+* **Name:** This will be the assigned name of your AI Chatbot once it appears live on WhatsApp.
 * **Description:** This is a short description assigned to your Chatbot.
 * **Provider: Twilio** is set as the preset.
 
@@ -40,7 +40,7 @@ Go to the **Twilio website** at [https://www.twilio.com/](https://www.twilio.com
 {% hint style="info" %}
 **What is Twilio?**
 
-Twilio is a platform that uses web APIs to perform communication functions, such as text messaging and calls. Captivate Chat will automatically facilitate the connection between Twilio and your AI Assistant.&#x20;
+Twilio is a platform that uses web APIs to perform communication functions, such as text messaging and calls. Captivate Chat will automatically facilitate the connection between Twilio and your AI Chatbot.&#x20;
 {% endhint %}
 
 <pre><code><strong>image

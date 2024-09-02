@@ -12,11 +12,11 @@ To create your AI Assistant, proceed with the following steps:
 
 ## Setting Up
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>The <em>+AI Assistant</em> button</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>The <em>+AI Assistant</em> button</p></figcaption></figure>
 
 Under the **Setup > AI Assistant** view, click _**+AI Assistant**_.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>You can give your new AI Assistant a Name and a Logo</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>You can give your new AI Assistant a Name and a Logo</p></figcaption></figure>
 
 A pop-up window should appear. Under **New AI Assistant**, fill up the following:
 
@@ -45,7 +45,7 @@ As you work through the steps to define your AI Chatbot you can edit its Name or
 
 ## Select AI Platform
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Available options for an AI Platform include OpenAI, AWS Lex, and IBM Watson Assistant</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Available options for an AI Platform include OpenAI, AWS Lex, and IBM Watson Assistant</p></figcaption></figure>
 
 After naming your AI Assistant, you will be taken to the **AI Assistant** view. This is where you will customize the features of your new Chatbot.&#x20;
 
@@ -69,7 +69,7 @@ We are currently only offering **OpenAI** as the AI Platform of our AI Assistant
 
 ## Import Your Own Information
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>The menu where you can view all information uploaded to your Chatbot</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>The menu where you can view all information uploaded to your Chatbot</p></figcaption></figure>
 
 Importing your own information is the most important step in AI Chatbot creation. This is what the bot uses to answer user questions.
 
@@ -87,7 +87,7 @@ To start adding data to your chatbot, click  ![](<../../.gitbook/assets/image (1
 
 ### Adding files and URLs to import
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Use the Import menu to add files and/or URLs to your Chatbot's database</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Use the Import menu to add files and/or URLs to your Chatbot's database</p></figcaption></figure>
 
 A pop-up window should appear. You can either:
 

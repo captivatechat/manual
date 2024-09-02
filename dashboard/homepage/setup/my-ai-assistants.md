@@ -12,7 +12,7 @@ The **My AI Assistants** view has the following components:&#x20;
 
 ### +AI Assistant
 
-Click on ![](<../../../.gitbook/assets/image (7).png>) to add a new AI Chatbot.&#x20;
+Click on ![](<../../../.gitbook/assets/image (7) (1).png>) to add a new AI Chatbot.&#x20;
 
 ### AI Chatbot Tile
 

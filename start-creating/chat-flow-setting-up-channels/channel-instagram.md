@@ -6,7 +6,7 @@ description: Set your AI Assistant as a Chatbot of an Instagram Page
 
 <figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
-After _**Select Channel > Instagram**_, you will be taken to **Configure Instagram**. This is where you can integrate your AI Assistant as the Chatbot of your Instagram Page.
+After _**Select Channel > Instagram**_, you will be taken to **Configure Instagram**. This is where you can integrate your AI Chatbot as the assigned bot of your Instagram Page.
 
 {% hint style="danger" %}
 **Make sure you have connected accounts**
@@ -18,10 +18,10 @@ Our integration only works if you have a **Professional Instagram Account** conn
 
 <figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
-Before you can fully integrate your AI Assistant with your Instagram Page, you have to fill up the following information:
+Before you can fully integrate your AI Chatbot with your Instagram Page, you have to fill in the following information:
 
-* **Name:** This is the name of the AI Assistant as it will appear on Instagram
-* **Description:** Give your AI Assistant a short description.
+* **Name:** This is the name of the AI Chatbot as it will appear on Instagram
+* **Description:** Give your AI Chatbot a short description.
 
 ### Sign in with Facebook
 
@@ -29,7 +29,7 @@ Before you can fully integrate your AI Assistant with your Instagram Page, you h
 
 This is the most important step of the integration process. Click _**Sign in with Facebook.**_
 
-You will encounter a separate window where you have to log in to Facebook. Upon logging in, you then have to give Captivate Chat permissions to make modifications to your profile.
+You will encounter a separate window where you have to log in to Facebook. Upon logging in, you must give Captivate Chat permissions to modify your profile.
 
 ### Select the Business Account
 
@@ -37,9 +37,9 @@ You will encounter a separate window where you have to log in to Facebook. Upon 
 
 Facebook will ask you the following:
 
-* **"What Instagram Business Accounts do you want to use with The Captivate Hub?"**&#x20;
+* **"What Instagram Professional Accounts do you want to use with Captivate Chat?"**&#x20;
   * Choose the correct Instagram account.
-* **"What pages do you want to use with The Captivate Hub?"**
+* **"What pages do you want to use with Captivate Chat?"**
   * Choose the correct page.&#x20;
 
 You will encounter a drop-down box where you will choose which **page** you specifically permit us to access. Choose the correct page and tick all the associated boxes.&#x20;
@@ -52,13 +52,19 @@ This will allow us to use our backend to automatically integrate your AI Assista
 
 Back in **Configure Instagram**_,_ fill in the following:
 
-* **Instagram Page Name:** When you start typing your target Facebook Page, it should appear as a drop-down. Select it.
+* **Instagram Page Name:** Type the username of your target Instagram account.&#x20;
 * **Instagram ID:** It should automatically appear.
 * **Page Token:** It should automatically appear.
 
 Click _**Next**_.
 
+{% hint style="warning" %}
+**Take note of your Instagram username**
 
+When typing the Instagram Page Name, use your **username** - the name you use for tagging (with @). In the case of Captivate Chat, it's _captivatechat_.&#x20;
+
+An easy reference is to check your Instagram Page via a web browser. The name located in the URL is your username. In the case of Captivate Chat, it's: [https://www.instagram.com/captivatechat/](https://www.instagram.com/captivatechat/)
+{% endhint %}
 
 ***
 

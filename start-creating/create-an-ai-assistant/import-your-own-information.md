@@ -1,6 +1,6 @@
 # Import Your Own Information
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>The menu where you can view all information uploaded to your Chatbot</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>The menu where you can view all information uploaded to your Chatbot</p></figcaption></figure>
 
 Importing your own information is the most important step in AI Chatbot creation. This is what the bot uses to answer user questions.
 
@@ -18,7 +18,7 @@ To start adding data to your chatbot, click  ![](<../../.gitbook/assets/image (1
 
 ### Adding files and URLs to import
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Use the Import menu to add files and/or URLs to your Chatbot's database</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Use the Import menu to add files and/or URLs to your Chatbot's database</p></figcaption></figure>
 
 A pop-up window should appear. You can either:
 

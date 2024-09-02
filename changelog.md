@@ -213,8 +213,8 @@ Before attempting integrations, please ensure that you're using an **Instagram B
 
 To add Instagram to the Hub, you click the link below:
 
-{% content-ref url="installation/channels/instagram.md" %}
-[instagram.md](installation/channels/instagram.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### ⚠️ Teams Application Permission

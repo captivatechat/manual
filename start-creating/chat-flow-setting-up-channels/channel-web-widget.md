@@ -89,6 +89,12 @@ After the **Embed Live Chat** of the _**Select Channel > Web Widget**_ process, 
 
 You can either _**Close**_ it to make other changes, or you can _**View Widget**_ to "see" your Chatbot in action.&#x20;
 
+{% hint style="warning" %}
+**Give the Widget Code to your Web Administrator!**
+
+If you want your web widget to appear on your live website, you must copy this Widget Code and give it to your Web Administrator.
+{% endhint %}
+
 ### Widget Preview
 
 <figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
@@ -101,7 +107,7 @@ Notice how your Widget Icon is on the lower right of the screen.&#x20;
 
 ### Testing the Web Widget
 
-<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption><p>A side-by-side edit of the Web Widget preview as it appears upon being clicked (left), when the user asks a question (center), and when the AI Chatbot responds (right). </p></figcaption></figure>
 
 Clicking your Widget Icon reveals a prototype of the Chatbot.&#x20;
 
@@ -109,7 +115,7 @@ This prototype is fully functional, with both your set visual settings and inclu
 
 ### Changing the Web Widget Preview
 
-<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption><p>A sample of the Web Widget preview with the default background (back), the normal settings (upper-left), choosing a Web as a new background (upper-right), and previewing the Web Widget using a URL (bottom)</p></figcaption></figure>
 
 Clicking the **Green Circle** on the upper right of the preview site will reveal more customization options. With this new window, you can:
 

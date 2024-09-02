@@ -4,7 +4,7 @@ description: Set your AI Assistant as a Chatbot of a Facebook Page
 
 # Channel: Facebook
 
-After _**Select Channel > Facebook Messenger**_, you will be taken to **Configure Facebook Messenger**. This is where you can integrate your AI Assistant as the Chatbot of your Facebook Page.
+After _**Select Channel > Facebook Messenger**_, you will be taken to **Configure Facebook Messenger**. This is where you can integrate your AI Chatbot as the dedicated chatbot of your Facebook Page.
 
 <figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
@@ -14,14 +14,22 @@ After _**Select Channel > Facebook Messenger**_, you will be taken to **Configur
 Our integration only works if you have a **Facebook Business Account.**
 {% endhint %}
 
+{% hint style="info" %}
+**Works with both Facebook Web and Messenger App**
+
+Since this integration adds an AI Chatbot to your Facebook Page, users can access the new chatbot with the **built-in chat of Facebook Web and the Messenger App.**&#x20;
+{% endhint %}
+
+***
+
 ## Configure Facebook Messenger
 
 <figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
-Before you can fully integrate your AI Assistant with your Facebook Page, you have to fill up the following information:
+Before you can fully integrate your AI Chatbot with your Facebook Page, you have to fill up the following information:
 
 * **Name:** This is the name of the AI Assistant as it will appear on Facebook.
-* **Description:** Give your AI Assistant a short description.
+* **Description:** Give your AI Chatbot a short description.
 
 ### Sign in with Facebook
 
@@ -40,9 +48,9 @@ Facebook will ask you the following:
 * **"What pages do you want to use with Captivate Chat?"**
   * Choose the correct page.&#x20;
 
-You will encounter a drop-down box where you will choose which page you specifically permit us to access. Choose the correct page and tick all the associated boxes.&#x20;
+You will encounter a drop-down box where you will choose which page you specifically permit us to access. Choose the correct page and tick all the appropriate options.&#x20;
 
-This will allow us to use our backend to automatically integrate your AI Assistant to your Facebook Page.&#x20;
+This will allow us to use our backend to automatically integrate your AI Chatbot to your Facebook Page.&#x20;
 
 ### Fill up Page ID and Page Token
 
@@ -60,20 +68,42 @@ Click _**Next**_.
 
 ### Testing Facebook Configuration
 
-<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Go to your Facebook Page. If the tab is currently open while integrating the AI Assistant into your Page, refresh the window.
+You can test your AI Chatbot in these ways:
 
-Click _**Message**_**.**
+#### Testing via Facebook Page
 
-<figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+Go to your Facebook Page.&#x20;
 
-Greet the AI Assistant.&#x20;
+Refresh the window if the tab was open while integrating the AI Chatbot into your Page. Click ![](<../../.gitbook/assets/image (4).png>) at the top of the Page. &#x20;
 
-If the integration is successful, then your Chatbot should be answering with a response.&#x20;
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+The AI Chatbot should pop out and present default options. Choose either of these questions.
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+If the integration is successful, your AI Chatbot should respond automatically. After this message, you can start talking to it.
+
+#### Testing via Facebook Messenger
+
+Go to your Facebook Messenger app.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+If you want to talk to your AI Chatbot for the first time, look for your Facebook Page via the Messenger search bar.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="188"><figcaption></figcaption></figure>
+
+When you click your Facebook Page name, your AI Chatbot will reveal a set of default questions. Click any of these questions.
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="188"><figcaption></figcaption></figure>
+
+If the integration is successful, your AI Chatbot should respond automatically. After this message, you can start talking to it.
 
 ***
 
 ## You're all set!
 
-Doing all the steps above should get your Chatbot ready to be used with your Facebook Page.
+Doing all the steps above should get your AI Chatbot ready to be used with your Facebook Page.

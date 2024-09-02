@@ -9,7 +9,7 @@ If you want to start creating your Flows, please do the following:
 1. **Register** and create a user account using [this link](https://hub.captivatechat.com/).
 2. **Login** with your Captivate Chat account.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## Need Assistance?
 
