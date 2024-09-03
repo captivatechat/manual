@@ -4,7 +4,7 @@ description: How do we navigate the Captivate Chat platform?
 
 # Homepage
 
-<figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption><p>The Captivate Chat Homepage.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (1) (1).png" alt=""><figcaption><p>The Captivate Chat Homepage.</p></figcaption></figure>
 
 **The Homepage** is the first thing you will see once you log into **Captivate Chat**. Everything you need to start creating your AI Assistants and integrations can be accessed here.&#x20;
 

@@ -107,32 +107,42 @@ Notice how your Widget Icon is on the lower right of the screen.&#x20;
 
 ### Testing the Web Widget
 
-<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption><p>A side-by-side edit of the Web Widget preview as it appears upon being clicked (left), when the user asks a question (center), and when the AI Chatbot responds (right). </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Chatbots (1).png" alt=""><figcaption></figcaption></figure>
 
 Clicking your Widget Icon reveals a prototype of the Chatbot.&#x20;
 
 This prototype is fully functional, with both your set visual settings and included AI training. You can ask it questions and see its responses. Thanks to this process, you can see all aspects of your Chatbot before it's even deployed to your system.&#x20;
 
-### Changing the Web Widget Preview
+### Customizing the Web Widget Preview
 
-<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption><p>A sample of the Web Widget preview with the default background (back), the normal settings (upper-left), choosing a Web as a new background (upper-right), and previewing the Web Widget using a URL (bottom)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Clicking the **Green Circle** on the upper right of the preview site will reveal more customization options. With this new window, you can:
+Clicking the **Green Circle (** ![](../../.gitbook/assets/image.png) **)**on the upper right of the preview site will reveal more customization options. With this new window, you can:
 
 * **Share URL:** Copy the URL of this Widget Preview so you can share it with your teammates.
 * **API Key:** The API Key of the Web Widget.
 * **Background:** You can customize the Background of this Widget Preview.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
-
 ### Background
 
-<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
 Under **Select Background Type**, you can choose either a **Web** or **Image** as the source of your Background Asset:
 
 * **Web:** You can enter any URL to "copy" its background. This reveals how the Web Widget can appear in a live website.
 * **Image:** You can upload an image that becomes the background of the Web Widget. This is useful if you're still designing your website.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Click ![](<../../.gitbook/assets/image (1).png>) once you're ready to apply the new background. This shows a static (non-moving) version of your source URL or image. You can still interact with your Web Widget prototype like in the first version of the preview. However, this time you can now see how your Web Widget looks like when placed in your website.
+
+{% hint style="info" %}
+**Use the static preview to change the colors of your Web Widget!**
+
+You can use the static preview as a "reference" on how your Web Widget looks like in action. Check whether your chosen Options (Text, Color, Image) fit your overall aesthetic and branding.&#x20;
+
+Use this opportunity to make the appropriate changes before you implement this Web Widget in your live website.&#x20;
+{% endhint %}
 
 ***
 

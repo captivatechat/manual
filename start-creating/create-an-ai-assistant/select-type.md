@@ -6,7 +6,7 @@ Check our list if there's any template that corresponds to the kind of AI Chatbo
 
 We've already prepared AI Chatbot types you can select to meet specific functionalities. They are pre-programmed with behaviors to help them approach questions and tasks a specific way, making them "plug-and-play" for your convenience.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select your AI Chatbot type by **clicking on the tile** you're interested in.
 
@@ -39,13 +39,13 @@ You can always create more elaborate AI Assistants later!
 
 ## Customize your AI Chatbot type
 
-Modify your AI Chatbot even further by clicking ![](<../../.gitbook/assets/image (22).png>)  **after you've made your choice of AI Chatbot variant.** This brings you to a new window with customizable parameters, as seen below:&#x20;
+Modify your AI Chatbot even further by clicking ![](<../../.gitbook/assets/image (22) (1).png>)  **after you've made your choice of AI Chatbot variant.** This brings you to a new window with customizable parameters, as seen below:&#x20;
 
 #### Customize Type (Structured)
 
 <figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption><p>The Structured format of customizing your AI Assistant</p></figcaption></figure>
 
-Clicking ![](<../../.gitbook/assets/image (22).png>) allows you to modify the parameters of the AI Chatbot type you've chosen. This allows you to dictate exactly how you want your AI Chatbot to "think" and engage users.&#x20;
+Clicking ![](<../../.gitbook/assets/image (22) (1).png>) allows you to modify the parameters of the AI Chatbot type you've chosen. This allows you to dictate exactly how you want your AI Chatbot to "think" and engage users.&#x20;
 
 Under the **Structured tab**, we have prepared forms you can fill out with more specific instructions that you want the Chatbot to follow:&#x20;
 
@@ -102,8 +102,8 @@ By the time you reach this step, your AI Chatbot is "technically" fully function
 
 You can proceed with the next step in two (2) ways:
 
-* From the original _**Select Type**_ view, choose ![](<../../.gitbook/assets/image (23).png>) on the lower right-hand corner.
-* In the _**Customize Type**_ view, choose ![](<../../.gitbook/assets/image (24).png>) on the lower right-hand corner.&#x20;
+* From the original _**Select Type**_ view, choose ![](<../../.gitbook/assets/image (23) (1).png>) on the lower right-hand corner.
+* In the _**Customize Type**_ view, choose ![](<../../.gitbook/assets/image (24) (1).png>) on the lower right-hand corner.&#x20;
 * In either view, you can choose ![](<../../.gitbook/assets/image (168).png>) to save your changes and go back to _**Setup > My AI Assistants**_.
 
 ***

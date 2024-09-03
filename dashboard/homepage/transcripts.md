@@ -4,7 +4,7 @@ description: Check notable dialogue between Users, Agents, and AI Assistants
 
 # Transcripts
 
-<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption><p>The view of the Transcripts tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1) (1).png" alt=""><figcaption><p>The view of the Transcripts tab</p></figcaption></figure>
 
 The **Transcripts** tab reveals captured notable dialogue between Users, Agents, and AI Assistants.&#x20;
 

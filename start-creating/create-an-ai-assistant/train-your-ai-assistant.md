@@ -16,11 +16,11 @@ The **Train your AI Assistant** has these major components:&#x20;
 
 ### Enter your test question
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 Write a test question that will gauge the Chatbot's response based on the current information in its knowledge base.
 
-Once done, click ![](<../../.gitbook/assets/image (35).png>)
+Once done, click ![](<../../.gitbook/assets/image (35) (1).png>)
 
 ### **Current Answer**
 
@@ -38,7 +38,7 @@ Once done, click ![](<../../.gitbook/assets/image (38).png>)
 
 ### Trained Questions and Answers
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>The list of trained Questions, Answers, and Messages will be listed here</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>The list of trained Questions, Answers, and Messages will be listed here</p></figcaption></figure>
 
 The **Trained Questions and Anwers** contain the list of Questions, Correct Answers, and Messages that have been inserted by the user.&#x20;
 
@@ -46,7 +46,7 @@ The **Trained Questions and Anwers** contain the list of Questions, Correct Answ
 
 Insert your own list of questions and answers as a CSV file instead of manually typing them.  To do this, click ![](<../../.gitbook/assets/image (40).png>).
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Submit more specific Q&#x26;A files using this menu </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Submit more specific Q&#x26;A files using this menu </p></figcaption></figure>
 
 After clicking ![](<../../.gitbook/assets/image (41).png>), a pop-up window should appear.
 

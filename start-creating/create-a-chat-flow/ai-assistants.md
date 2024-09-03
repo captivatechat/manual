@@ -1,6 +1,6 @@
 # AI Assistants
 
-<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Select your AI Assistant that you want to use for this Chat Flow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption><p>Select your AI Assistant that you want to use for this Chat Flow</p></figcaption></figure>
 
 Once you name your Chat Flow, you will be taken to **Step 1: AI Assistant.**&#x20;
 

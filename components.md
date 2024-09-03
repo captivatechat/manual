@@ -28,7 +28,7 @@ In the platform, you can create different **Chat Flows** that connect these comp
 
 ## AI Chatbots
 
-<figure><img src=".gitbook/assets/Chatbots.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Chatbots (2).png" alt=""><figcaption></figcaption></figure>
 
 An **AI Chatbot** is a computer program designed to simulate human conversations through text or voice interactions. Utilizing predefined scripts and natural language processing (NLP), AI Chatbots can understand and respond to user inputs.
 

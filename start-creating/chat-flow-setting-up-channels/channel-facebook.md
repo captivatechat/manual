@@ -24,7 +24,7 @@ Since this integration adds an AI Chatbot to your Facebook Page, users can acces
 
 ## Configure Facebook Messenger
 
-<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Before you can fully integrate your AI Chatbot with your Facebook Page, you have to fill up the following information:
 
@@ -68,7 +68,7 @@ Click _**Next**_.
 
 ### Testing Facebook Configuration
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can test your AI Chatbot in these ways:
 
@@ -76,13 +76,13 @@ You can test your AI Chatbot in these ways:
 
 Go to your Facebook Page.&#x20;
 
-Refresh the window if the tab was open while integrating the AI Chatbot into your Page. Click ![](<../../.gitbook/assets/image (4).png>) at the top of the Page. &#x20;
+Refresh the window if the tab was open while integrating the AI Chatbot into your Page. Click ![](<../../.gitbook/assets/image (4) (1).png>) at the top of the Page. &#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 The AI Chatbot should pop out and present default options. Choose either of these questions.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 If the integration is successful, your AI Chatbot should respond automatically. After this message, you can start talking to it.
 
@@ -90,15 +90,15 @@ If the integration is successful, your AI Chatbot should respond automatically. 
 
 Go to your Facebook Messenger app.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you want to talk to your AI Chatbot for the first time, look for your Facebook Page via the Messenger search bar.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 When you click your Facebook Page name, your AI Chatbot will reveal a set of default questions. Click any of these questions.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 If the integration is successful, your AI Chatbot should respond automatically. After this message, you can start talking to it.
 

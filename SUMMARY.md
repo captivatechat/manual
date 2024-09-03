@@ -16,6 +16,7 @@
 ## START CREATING
 
 * [Create an AI Assistant](start-creating/create-an-ai-assistant/README.md)
+  * [Setting Up](start-creating/create-an-ai-assistant/setting-up.md)
   * [Select AI Platform](start-creating/create-an-ai-assistant/select-ai-platform.md)
   * [Import Your Own Information](start-creating/create-an-ai-assistant/import-your-own-information.md)
   * [Select Type](start-creating/create-an-ai-assistant/select-type.md)
@@ -24,6 +25,7 @@
   * [Finishing Touches](start-creating/create-an-ai-assistant/finishing-touches.md)
   * [Modify your AI Chatbots](start-creating/create-an-ai-assistant/modify-your-ai-chatbots.md)
 * [Create a Chat Flow](start-creating/create-a-chat-flow/README.md)
+  * [Setting Up](start-creating/create-a-chat-flow/setting-up.md)
   * [AI Assistants](start-creating/create-a-chat-flow/ai-assistants.md)
   * [Select Channel](start-creating/create-a-chat-flow/select-channel.md)
   * [Select Live Chat Vendor](start-creating/create-a-chat-flow/select-live-chat-vendor.md)

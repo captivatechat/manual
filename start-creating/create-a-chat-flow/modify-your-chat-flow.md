@@ -16,7 +16,7 @@ You can maintain an existing Chat Flow through these steps:
 
 <figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
-You can modify your Chat Flow by **clicking settings (** ![](<../../.gitbook/assets/image (13).png>) **)** and choosing an action you want accomplish:&#x20;
+You can modify your Chat Flow by **clicking settings (** ![](<../../.gitbook/assets/image (13) (1).png>) **)** and choosing an action you want accomplish:&#x20;
 
 * **Edit Chat Flow:** Adjust all parameters of the Chat Flow.
 * **Rename Chat Flow**
@@ -38,7 +38,7 @@ You can delete a Chat Flow using these steps:
 
 <figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
-You can delete your Chat Flow by **clicking settings (** ![](<../../.gitbook/assets/image (13).png>) **)** and choosing _**Delete**_ from the options.
+You can delete your Chat Flow by **clicking settings (** ![](<../../.gitbook/assets/image (13) (1).png>) **)** and choosing _**Delete**_ from the options.
 
 ### Using the checkbox to delete a Chat Flow
 

@@ -4,7 +4,7 @@ description: Design your AI Chatbots to perform specific tasks
 
 # My AI Assistants
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Clicking _**Setup > AI Assistant**_ reveals **My AI Assistants**. This view reveals a list of existing Chatbots you created under your account.&#x20;
 
@@ -12,11 +12,11 @@ The **My AI Assistants** view has the following components:&#x20;
 
 ### +AI Assistant
 
-Click on ![](<../../../.gitbook/assets/image (7) (1).png>) to add a new AI Chatbot.&#x20;
+Click on ![](<../../../.gitbook/assets/image (7) (1) (1).png>) to add a new AI Chatbot.&#x20;
 
 ### AI Chatbot Tile
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Each AI Chatbot in your account is represented by an AI Chatbot Tile. Selecting a tile allows you to modify it in a variety of ways.
 
