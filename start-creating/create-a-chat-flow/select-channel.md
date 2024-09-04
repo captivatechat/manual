@@ -10,8 +10,8 @@ After selecting the active Chatbot in your Chat Flow, it's time to choose your *
 
 We are offering different Channel Integrations into your Chat Flow, with different instructions how to set up each. They are accessible via [chat-flow-setting-up-channels](../chat-flow-setting-up-channels/ "mention") or in these pages:
 
-{% content-ref url="../chat-flow-setting-up-channels/channel-web-widget.md" %}
-[channel-web-widget.md](../chat-flow-setting-up-channels/channel-web-widget.md)
+{% content-ref url="../chat-flow-setting-up-channels/channel-web-widget/" %}
+[channel-web-widget](../chat-flow-setting-up-channels/channel-web-widget/)
 {% endcontent-ref %}
 
 {% content-ref url="../chat-flow-setting-up-channels/channel-facebook.md" %}

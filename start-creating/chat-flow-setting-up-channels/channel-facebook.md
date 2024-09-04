@@ -68,7 +68,7 @@ Click _**Next**_.
 
 ### Testing Facebook Configuration
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can test your AI Chatbot in these ways:
 
@@ -76,13 +76,13 @@ You can test your AI Chatbot in these ways:
 
 Go to your Facebook Page.&#x20;
 
-Refresh the window if the tab was open while integrating the AI Chatbot into your Page. Click ![](<../../.gitbook/assets/image (4) (1).png>) at the top of the Page. &#x20;
+Refresh the window if the tab was open while integrating the AI Chatbot into your Page. Click ![](<../../.gitbook/assets/image (4) (1) (1).png>) at the top of the Page. &#x20;
 
 <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 The AI Chatbot should pop out and present default options. Choose either of these questions.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If the integration is successful, your AI Chatbot should respond automatically. After this message, you can start talking to it.
 

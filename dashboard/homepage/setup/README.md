@@ -4,7 +4,7 @@ description: Locate your AI Chatbots and Chat Flows here
 
 # Setup
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Setup** is where the magic happens!
 
@@ -12,11 +12,11 @@ Clicking the drop-down arrow will reveal the following components:
 
 ### AI Assistants
 
-Create and edit all your AI Chatbots in  ![](<../../../.gitbook/assets/image (2) (1) (1).png>).
+Create and edit all your AI Chatbots in  ![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>).
 
 ### Chat Flows
 
-Create and edit your Chat Flows in  ![](<../../../.gitbook/assets/image (4) (1) (1).png>).&#x20;
+Create and edit your Chat Flows in  ![](<../../../.gitbook/assets/image (4) (1) (1) (1).png>).&#x20;
 
 ***
 

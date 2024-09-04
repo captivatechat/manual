@@ -26,7 +26,7 @@ You cannot use Captivate Chat to integrate your AI Chatbots to WhatsApp without 
 
 ## Configure WhatsApp
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Before you're able to integrate your AI Chatbot into WhatsApp, you have to fill up a few details:
 
