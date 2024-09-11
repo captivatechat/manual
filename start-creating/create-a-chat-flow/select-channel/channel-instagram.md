@@ -4,7 +4,7 @@ description: Set your AI Assistant as a Chatbot of an Instagram Page
 
 # Channel: Instagram
 
-<figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
 After _**Select Channel > Instagram**_, you will be taken to **Configure Instagram**. This is where you can integrate your AI Chatbot as the assigned bot of your Instagram Page.
 
@@ -16,7 +16,7 @@ Our integration only works if you have a **Professional Instagram Account** conn
 
 ## Configure Instagram
 
-<figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
 Before you can fully integrate your AI Chatbot with your Instagram Page, you have to fill in the following information:
 
@@ -25,7 +25,7 @@ Before you can fully integrate your AI Chatbot with your Instagram Page, you hav
 
 ### Sign in with Facebook
 
-<figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
 This is the most important step of the integration process. Click _**Sign in with Facebook.**_
 
@@ -33,7 +33,7 @@ You will encounter a separate window where you have to log in to Facebook. Upon 
 
 ### Select the Business Account
 
-<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
 Facebook will ask you the following:
 
@@ -48,7 +48,7 @@ This will allow us to use our backend to automatically integrate your AI Assista
 
 ### Fill up Instagram ID and Page Token
 
-<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
 Back in **Configure Instagram**_,_ fill in the following:
 

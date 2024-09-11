@@ -6,7 +6,7 @@ description: Set up your AI Assistant as a WhatsApp Chatbot
 
 After _**Select Channel > WhatsApp**_, you will be taken to **Configure WhatsApp**. This is where you can start integrating your AI Assistant into WhatsApp as a Chatbot that people can converse with.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (28) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Make sure you have a Facebook Business Account!**
@@ -26,7 +26,7 @@ You cannot use Captivate Chat to integrate your AI Chatbots to WhatsApp without 
 
 ## Configure WhatsApp
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Before you're able to integrate your AI Chatbot into WhatsApp, you have to fill up a few details:
 
@@ -38,7 +38,7 @@ Before you're able to integrate your AI Chatbot into WhatsApp, you have to fill 
 
 ### Join Twilio
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 In order to fill up the Account SID and Authentication Token, you have to **sign up for a Twilio** account.
 
@@ -50,14 +50,14 @@ Go to the **Twilio website** at [https://www.twilio.com/](https://www.twilio.com
 Twilio is a platform that uses web APIs to perform communication functions, such as text messaging and calls. Captivate Chat will automatically facilitate the connection between Twilio and your AI Chatbot.&#x20;
 {% endhint %}
 
-Click ![](<../../.gitbook/assets/image (6).png>) and follow the instructions to register a new account. You’ll need to provide your email address and set a password. Afterwards, you have to:
+Click ![](<../../../.gitbook/assets/image (6).png>) and follow the instructions to register a new account. You’ll need to provide your email address and set a password. Afterwards, you have to:
 
 * **Verify your email.** Check your email for a verification link from Twilio and click on it to verify your account.&#x20;
 * Twilio might ask you to **verify your phone number.** Just follow the on-screen instructions.&#x20;
 
 ### Go to the Twilio Console (Dashboard)
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Log into Twilio. This will bring you to the **Twilio Console**, which serves as your main dashboard.
 
@@ -65,19 +65,19 @@ Alternatively, you can access the Twilio Console via [https://console.twilio.com
 
 ### Create your WhatsApp Sender
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 With your Twilio Paid Account, go to your Twilio Console and look for _**WhatsApp Senders**_. To do this, you have to:
 
-1. Click ![](<../../.gitbook/assets/image (10).png>) in the left-hand menu.&#x20;
-2. From the drop-down menu, find ![](<../../.gitbook/assets/image (11).png>) _**>**_ ![](<../../.gitbook/assets/image (12).png>)
-3. Click ![](<../../.gitbook/assets/image (13).png>)
+1. Click ![](<../../../.gitbook/assets/image (10).png>) in the left-hand menu.&#x20;
+2. From the drop-down menu, find ![](<../../../.gitbook/assets/image (11).png>) _**>**_ ![](<../../../.gitbook/assets/image (12).png>)
+3. Click ![](<../../../.gitbook/assets/image (13).png>)
 
 Follow the on-screen instructions to apply for WhatsApp access. These steps will mostly involve filling up the required details about your business so you can request access to the WhatsApp API.&#x20;
 
 #### Client Information
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 Fill up your company's information.&#x20;
 
@@ -93,13 +93,13 @@ You can locate the Meta Business Manager ID via the Meta Business Suite. On the 
 
 #### Select a Phone Number
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Choose a phone number. This will be **your company's designated WhatsApp number specifically for talking to your AI Chatbot.**
 
 You have two options:
 
-* You can **buy a Twilio phone number**. Access Twilio's list of available numbers via ![](<../../.gitbook/assets/image (18).png>), then clicking ![](<../../.gitbook/assets/image (19).png>) and selecting ![](<../../.gitbook/assets/image (20).png>).
+* You can **buy a Twilio phone number**. Access Twilio's list of available numbers via ![](<../../../.gitbook/assets/image (18).png>), then clicking ![](<../../../.gitbook/assets/image (19).png>) and selecting ![](<../../../.gitbook/assets/image (20).png>).
 * You can **use your own number**. Twilio calls this process as **BYON (Bring Your Own Number)**. Please follow the instructions in [this Twilio guide](https://help.twilio.com/articles/360052171393-Can-I-register-my-own-phone-number-for-WhatsApp-on-Twilio-?\_gl=1\*br9h2a\*\_gcl\_au\*MTY0OTYxMjg3OC4xNzI0MjQ2Mzc5\*\_ga\*NjAwMDE0NDcuMTcyNDI0NjM3OQ..\*\_ga\_RRP8K4M4F3\*MTcyNTM3MzY2MS43LjEuMTcyNTM3Mzg0Ni4wLjAuMA..).
 
 Twilio has its own [Guided Onboarding document](https://www.twilio.com/docs/whatsapp/guided-onboarding) for a more in-depth look on this process, especially for steps outside Captivate Chat.
@@ -127,7 +127,7 @@ Since we are going to integrate an AI Chatbot with WhatsApp, prioritize choosing
 
 #### Fill Out Your Public WhatsApp Sender Profile Information
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Fill up your business information. This data will be **submitted in order to request for WhatsApp to provide API access**.
 
@@ -162,30 +162,30 @@ Before submitting your request, make sure you're submitting the right informatio
 
 ### Accept the Request from Twilio in your Meta Business Suite
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 After setting up your **WhatsApp Sender**, you will receive a notification in your Meta Business Suite that says Twilio is asking for permissions to send messages on your behalf.&#x20;
 
 To access this, go to your **Meta Business Suite**. From here:
 
-1. Click ![](<../../.gitbook/assets/image (23).png>)
-2. Go to ![](<../../.gitbook/assets/image (24).png>)
+1. Click ![](<../../../.gitbook/assets/image (23).png>)
+2. Go to ![](<../../../.gitbook/assets/image (24).png>)
 3. Find and **accept** the Twilio request.&#x20;
 
 ***
 
 ### Configure the Endpoint for Integration
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 Once you have your WhatsApp number approved, they should appear in the WhatsApp Senders list. Access this again by going to your Twilio Console and:
 
-1. Click ![](<../../.gitbook/assets/image (10).png>) in the left-hand menu.&#x20;
-2. From the drop-down menu, find ![](<../../.gitbook/assets/image (11).png>) _**>**_ ![](<../../.gitbook/assets/image (12).png>)
+1. Click ![](<../../../.gitbook/assets/image (10).png>) in the left-hand menu.&#x20;
+2. From the drop-down menu, find ![](<../../../.gitbook/assets/image (11).png>) _**>**_ ![](<../../../.gitbook/assets/image (12).png>)
 
 From this list, click the WhatsApp number you dedicated to your AI Chatbot.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 Find the section called **Endpoint Configuration**. Under the **Webhook URL for Incoming Messages**, paste the following:
 
@@ -197,15 +197,15 @@ After entering the URL, click _**Save**_ or _**Update**_ to apply the changes.&#
 
 ### Copy the Account SID and Authentication Token
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Back in the Twilio Console, locate your **Account SID** and **Auth Token.**
 
-They should be located on the ![](<../../.gitbook/assets/image (31).png>).
+They should be located on the ![](<../../../.gitbook/assets/image (31).png>).
 
 ### Paste the Account SID and Authentication Token in Captivate Chat
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 Go back to Captivate Chat.&#x20;
 
@@ -216,7 +216,7 @@ Go back to Captivate Chat.&#x20;
 
 ### Testing WhatsApp Configuration
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 You should be ready to use WhatsApp on Twilio, thanks to Captivate Chat integration!
 

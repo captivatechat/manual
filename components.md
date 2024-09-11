@@ -12,7 +12,9 @@ With the Flow, you can easily manage all your bots for your channels without cre
 
 ## The Captivate Flow
 
-<figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/1.png" alt=""><figcaption><p>The Captivate Chat Flow allows Brands to connect to Users by seamlessly integrating AI Chatbots with Live Chat services and brand Channels.</p></figcaption></figure>
 
 The **Captivate Flow** is the core of Captivate Chat. It seamlessly brings together AI Chatbots, Channels, and Live Chat into one cohesive system.
 
@@ -28,7 +30,9 @@ In the platform, you can create different **Chat Flows** that connect these comp
 
 ## AI Chatbots
 
-<figure><img src=".gitbook/assets/Chatbots (2).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/2.png" alt=""><figcaption><p>Captivate Chat uses AI Chatbots powered by IBM Watson, AWS Lex, and OpenAI. </p></figcaption></figure>
 
 An **AI Chatbot** is a computer program designed to simulate human conversations through text or voice interactions. Utilizing predefined scripts and natural language processing (NLP), AI Chatbots can understand and respond to user inputs.
 
@@ -43,7 +47,9 @@ Within the Captivate Flow, you can integrate your existing AI Chatbots or create
 
 ## Channel
 
-<figure><img src=".gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/4.png" alt=""><figcaption><p>Captivate Chat can integrate AI Chatbots into Channels such as Messenger, Instagram, WhatsApp, and Web Widgets.</p></figcaption></figure>
 
 A **Channel** is the platform or tool used by end users to access your AI Chatbot. They serve as the point(s) of engagement to your AI Chatbot.
 
@@ -61,7 +67,9 @@ Your Chat Flow gives users access to your AI Assistant across all of the Channel
 
 ## Live Chats
 
-<figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/3.png" alt=""><figcaption><p>Captivate Chat can work with Live Chat service providers such as MS Teams and Slack.</p></figcaption></figure>
 
 **Live Chats** enable real-time communication between agents and clients, facilitated by AI Chatbots. These systems ensure seamless interaction, with AI Chatbots handling routine inquiries and escalating complex issues to human agents.
 

@@ -4,7 +4,7 @@ description: Locate your AI Chatbots and Chat Flows here
 
 # Setup
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Setup on the left side of the Captivate Chat platform.</p></figcaption></figure>
 
 **Setup** is where the magic happens!
 

@@ -6,7 +6,7 @@ description: Connect your AI Assistant to your website
 
 After _**Select Channel > Web Widget**_, you will be taken to the **Configure Web Chat** view. This is where you will set up your Chatbot to make it compatible with your website.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -14,7 +14,7 @@ After _**Select Channel > Web Widget**_, you will be taken to the **Configure We
 
 ### Text Options
 
-<figure><img src="../../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
 Customize the basic text that appears with your Chatbot once it becomes a Web Widget. This portion has the following components:
 
@@ -24,7 +24,7 @@ Customize the basic text that appears with your Chatbot once it becomes a Web Wi
 
 ### Color Options
 
-<figure><img src="../../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
 
 Customize how your AI Chatbot appears in your website using a wide array of color options:
 
@@ -41,7 +41,7 @@ Switch up your Web Widget colors to match your branding. Select the square icon 
 
 ### Image Options
 
-<figure><img src="../../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
 
 Customize your Chatbot further with options that add "personality" to them. These include:
 
@@ -58,11 +58,11 @@ Since your Chatbot is an extension of your branding, it's important to use high-
 
 ### Working Hours
 
-<figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
 Determine your Chatbot's working hours. You can choose its **Start Time** and **End Time**, and specific days of the week you want it to function. Here are your main considerations:
 
-* **Disable Working Hours:** Toggling ![](<../../../.gitbook/assets/image (169).png>) off means the Web Widget won't follow a schedule and **provide 24/7 coverage**. This is perfect if your Web Widget is designed solely to answer questions and not connect users with live agents.
+* **Disable Working Hours:** Toggling ![](<../../../../.gitbook/assets/image (169).png>) off means the Web Widget won't follow a schedule and **provide 24/7 coverage**. This is perfect if your Web Widget is designed solely to answer questions and not connect users with live agents.
 *
 
 
@@ -71,7 +71,7 @@ If you want your Chatbot to connect users to Live Agents, try to set the Chatbot
 
 ### Embed Live Chat
 
-<figure><img src="../../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 After setting the above options, we'll create an **embed code** you can copy and paste into your website.&#x20;
 

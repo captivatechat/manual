@@ -4,6 +4,8 @@ description: Welcome to Captivate Chat!
 
 # 📚 Overview
 
+<figure><img src=".gitbook/assets/Captivate Chat Logo All Dark.png" alt=""><figcaption></figcaption></figure>
+
 ## What is Captivate Chat?
 
 **Captivate Chat** harnesses the power of AI alongside your organization’s documentation, processes, expertise, and data to create customized **AI Chatbots**.&#x20;
