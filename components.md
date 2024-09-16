@@ -1,22 +1,22 @@
 ---
-description: How does the Captivate Flow work?
+description: How does the Chat Flow work?
 ---
 
 # 💻 Components
 
-Connecting your business to the **Captivate Flow** provides a way to integrate your live chats, chatbot programs, and external channels into a single interface.&#x20;
+Connecting your business to the **Chat Flow** provides a way to integrate your live chats, chatbot programs, and external channels into a single interface.&#x20;
 
-With the Flow, you can easily manage all your bots for your channels without creating new ones. Here’s how each component of our Flow works together:
+With the Chat Flow, you can easily manage all your bots for your channels without creating new ones. Here’s how each component of our Flow works together:
 
 ***
 
-## The Captivate Flow
+## The Chat Flow
 
 
 
-<figure><img src=".gitbook/assets/1.png" alt=""><figcaption><p>The Captivate Chat Flow allows Brands to connect to Users by seamlessly integrating AI Chatbots with Live Chat services and brand Channels.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1.png" alt=""><figcaption><p>The Chat Flow allows Brands to connect to Users by seamlessly integrating AI Chatbots with Live Chat services and brand Channels.</p></figcaption></figure>
 
-The **Captivate Flow** is the core of Captivate Chat. It seamlessly brings together AI Chatbots, Channels, and Live Chat into one cohesive system.
+The **Chat Flow** is the core of Captivate Chat. It seamlessly brings together AI Chatbots, Channels, and Live Chat into one cohesive system.
 
 When you create a Chat Flow with Captivate, it manages all necessary integrations—ensuring that all human-machine conversations across its connections are compatible and interchangeable.
 
@@ -36,7 +36,7 @@ In the platform, you can create different **Chat Flows** that connect these comp
 
 An **AI Chatbot** is a computer program designed to simulate human conversations through text or voice interactions. Utilizing predefined scripts and natural language processing (NLP), AI Chatbots can understand and respond to user inputs.
 
-Within the Captivate Flow, you can integrate your existing AI Chatbots or create new ones. Our platform supports the following AI Chatbot infrastructures:
+Within Captivate Chat, you can integrate your existing AI Chatbots or create new ones. Our platform supports the following AI Chatbot infrastructures:
 
 * **IBM Watson Assistant**: Developed by IBM, this advanced Chatbot infrastructure is renowned for its flexibility and compatibility across various services and industries.
 * **AWS Lex**: Created by Amazon Web Services (AWS), AWS Lex is ideal for users within the Amazon ecosystem or the e-commerce sector.
@@ -73,7 +73,7 @@ Your Chat Flow gives users access to your AI Assistant across all of the Channel
 
 **Live Chats** enable real-time communication between agents and clients, facilitated by AI Chatbots. These systems ensure seamless interaction, with AI Chatbots handling routine inquiries and escalating complex issues to human agents.
 
-Your Flow is programmed to analyze incoming messages from various Channels, directing them to Chatbots for general responses and to Live Chat agents for specialized answers. Captivate Chat currently supports these Live Chat services:
+Your Chat Flow is programmed to analyze incoming messages from various Channels, directing them to Chatbots for general responses and to Live Chat agents for specialized answers. Captivate Chat currently supports these Live Chat services:
 
 * **Microsoft Teams**: A collaboration platform that integrates chat, video conferencing, and file sharing within the Microsoft 365 suite.&#x20;
 * **Slack**: A messaging platform focused on team communication through organized channels. It integrates with numerous third-party apps, making it highly flexible and suitable for diverse workflows.
