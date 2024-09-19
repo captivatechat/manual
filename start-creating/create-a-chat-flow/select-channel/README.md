@@ -8,7 +8,7 @@ description: Bring your AI Assistants, Live Chats, and Channels together in one 
 
 After selecting the active Chatbot in your Chat Flow, it's time to choose your **Channel**. This is where your users will encounter your AI Chatbot.&#x20;
 
-We are offering different Channel Integrations into your Chat Flow, with different instructions how to set up each. They are accessible via [Broken link](broken-reference "mention") or in these pages:
+We are offering different Channel Integrations into your Chat Flow, with different instructions how to set up each. They are accessible via [.](./ "mention")or in these pages:
 
 {% content-ref url="channel-web-widget/" %}
 [channel-web-widget](channel-web-widget/)
