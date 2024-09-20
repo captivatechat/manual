@@ -22,8 +22,8 @@ We are offering different Channel Integrations into your Chat Flow, with differe
 [channel-instagram.md](channel-instagram.md)
 {% endcontent-ref %}
 
-{% content-ref url="channel-whatsapp.md" %}
-[channel-whatsapp.md](channel-whatsapp.md)
+{% content-ref url="channel-whatsapp/" %}
+[channel-whatsapp](channel-whatsapp/)
 {% endcontent-ref %}
 
 {% hint style="info" %}
