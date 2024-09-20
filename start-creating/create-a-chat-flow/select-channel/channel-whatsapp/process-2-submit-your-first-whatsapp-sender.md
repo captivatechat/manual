@@ -8,6 +8,14 @@ description: Set up your AI Assistant as a WhatsApp Chatbot
 
 In this new **Guided Signup** window, click ![](<../../../../.gitbook/assets/image (13).png>).&#x20;
 
+{% hint style="warning" %}
+**This is the same form when you create new senders**
+
+The process below has the same forms to fill out when creating new senders beyond your first.&#x20;
+{% endhint %}
+
+***
+
 ### Request WhatsApp Senders
 
 Follow the on-screen instructions to apply for WhatsApp access. These steps will mostly involve filling up the required details about your business so you can request access to the WhatsApp API.&#x20;
