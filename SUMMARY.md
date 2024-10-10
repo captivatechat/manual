@@ -38,6 +38,8 @@
       * [Configure the Endpoint for Integration](start-creating/create-a-chat-flow/select-channel/channel-whatsapp/configure-the-endpoint-for-integration.md)
   * [Select Live Chat Vendor](start-creating/create-a-chat-flow/select-live-chat-vendor.md)
   * [Modify your Chat Flow](start-creating/create-a-chat-flow/modify-your-chat-flow.md)
+* [Connect a Live Chat](start-creating/connect-a-live-chat/README.md)
+  * [Microsoft Teams](start-creating/connect-a-live-chat/microsoft-teams.md)
 * [Create a Custom Component](start-creating/create-a-custom-component.md)
 
 ***
