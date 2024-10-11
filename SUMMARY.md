@@ -40,6 +40,9 @@
   * [Modify your Chat Flow](start-creating/create-a-chat-flow/modify-your-chat-flow.md)
 * [Connect a Live Chat](start-creating/connect-a-live-chat/README.md)
   * [Microsoft Teams](start-creating/connect-a-live-chat/microsoft-teams.md)
+  * [MS Teams App Chat Prompts](start-creating/connect-a-live-chat/ms-teams-app-chat-prompts.md)
+  * [Microsoft Teams integration](start-creating/connect-a-live-chat/microsoft-teams-integration.md)
+  * [Copy of Copy of Copy of Microsoft Teams](start-creating/connect-a-live-chat/copy-of-copy-of-copy-of-microsoft-teams.md)
 * [Create a Custom Component](start-creating/create-a-custom-component.md)
 
 ***

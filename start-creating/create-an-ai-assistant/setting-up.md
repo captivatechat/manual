@@ -1,6 +1,6 @@
 # Setting Up
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>The <em>+AI Assistant</em> button</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The <em>+AI Assistant</em> button</p></figcaption></figure>
 
 Under the **Setup > AI Assistant** view, click _**+AI Assistant**_.&#x20;
 
