@@ -85,10 +85,10 @@ With your Twilio Paid Account, go to your Twilio Console and look for _**WhatsAp
 
 Depending on the window that appears, follow either of these steps:&#x20;
 
-{% content-ref url="process-1-getting-started-with-whatsapp.md" %}
-[process-1-getting-started-with-whatsapp.md](process-1-getting-started-with-whatsapp.md)
+{% content-ref url="setting-up-more-whatsapp-senders.md" %}
+[setting-up-more-whatsapp-senders.md](setting-up-more-whatsapp-senders.md)
 {% endcontent-ref %}
 
-{% content-ref url="process-2-submit-your-first-whatsapp-sender.md" %}
-[process-2-submit-your-first-whatsapp-sender.md](process-2-submit-your-first-whatsapp-sender.md)
+{% content-ref url="submit-your-first-whatsapp-sender.md" %}
+[submit-your-first-whatsapp-sender.md](submit-your-first-whatsapp-sender.md)
 {% endcontent-ref %}

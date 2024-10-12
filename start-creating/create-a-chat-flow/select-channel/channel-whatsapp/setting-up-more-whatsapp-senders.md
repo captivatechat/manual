@@ -1,12 +1,12 @@
----
-description: Set up your AI Assistant as a WhatsApp Chatbot
----
+# Setting up more WhatsApp Senders
 
-# Process 1: Getting started with WhatsApp
+
 
 <figure><img src="../../../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
-After going to the WhatsApp Senders menu, begin the process of creating your first WhatsApp Sender. To do this, you have to:&#x20;
+
+
+After going to the WhatsApp Senders menu, begin the process of creating your WhatsApp Sender. To do this, you have to:&#x20;
 
 1. Click ![](<../../../../.gitbook/assets/image (179).png>)
 2. Acknowledge and accept the Terms & Conditions presented in the new window.
