@@ -6,9 +6,9 @@ After creating your Web Widget, you can preview how it looks like right from the
 
 ### Accessing your Web Widget
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-From your list of Chat Flows, hover your cursor over the ![](<../../../../.gitbook/assets/image (2) (1).png>) icon. It should become clickable. Once you press it, the Widget Code should appear.
+From your list of Chat Flows, hover your cursor over the ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) icon. It should become clickable. Once you press it, the Widget Code should appear.
 
 ***
 
@@ -71,9 +71,9 @@ Under **Select Background Type**, you can choose either a **Web** or **Image** a
 * **Web:** You can enter any URL to "copy" its background. This reveals how the Web Widget can appear in a live website.
 * **Image:** You can upload an image that becomes the background of the Web Widget. This is useful if you're still designing your website.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Click ![](<../../../../.gitbook/assets/image (1) (1) (1) (1).png>) once you're ready to apply the new background. This shows a static (non-moving) version of your source URL or image. You can still interact with your Web Widget prototype like in the first version of the preview. However, this time you can now see how your Web Widget looks like when placed in your website.
+Click ![](<../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png>) once you're ready to apply the new background. This shows a static (non-moving) version of your source URL or image. You can still interact with your Web Widget prototype like in the first version of the preview. However, this time you can now see how your Web Widget looks like when placed in your website.
 
 {% hint style="info" %}
 **Use the static preview to change the colors of your Web Widget!**

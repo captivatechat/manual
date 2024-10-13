@@ -25,7 +25,11 @@ A pop-up window should appear. You can either:
 * **Import:** Click or drag **PDF files** (up to 100MB) that contains important information that your Chatbot should know. You can drag multiple files at once by selecting a group of files and dragging them all to the file import area.
 * **URL(s):** List a set of URLs (one URL per line) that will become the basis of the knowledge of your Chatbot.&#x20;
 
-Once you have completed the files or webpages you want to import click on the ![](<../../.gitbook/assets/image (25) (1).png>)button.&#x20;
+Once you have completed the files or webpages you want to import click on the ![](<../../.gitbook/assets/image (25) (1).png>)button.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+You will be asked to pay a number of tokens to ingest the URL or PDF you've just uploaded. Click ![](<../../.gitbook/assets/image (255).png>) to proceed.
 
 {% hint style="danger" %}
 **Import limit**
