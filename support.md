@@ -6,11 +6,11 @@ description: Need assistance with anything? We're here to help!
 
 ## Contact Details
 
-If you want to get in touch with the **Captivate Hub** team, you may do so through the following channels:
+If you want to get in touch with the **Captivate Chat** team, you may do so through the following channels:
 
 ✉️ **Email:** info@captivatechat.com
 
-📞 **Mobile:** [+44 (0) 20 7771 1100](tel:+44%20\(0\)%2020%207771%201100)
+📞 **Mobile:** +44 (0) 20 4538 2554
 
 🗺️ **Office:** 147 Station Road North Chingford London, E4 6AG
 
