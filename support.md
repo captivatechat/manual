@@ -20,10 +20,6 @@ If you want to get in touch with the **Captivate Chat** team, you may do so thro
 
 Do you have any specific concerns? Please check out different ways to contact our team below:&#x20;
 
-### Status
-
-To view the status of the **Captivate Hub** infrastructure, please visit our **Status Page** [here](https://status.captivat.io) or via [https://status.captivat.io](https://status.captivat.io).&#x20;
-
 ### Support
 
 For immediate customer support, you may reach out to us via our email:
