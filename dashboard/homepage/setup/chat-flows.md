@@ -4,7 +4,7 @@ description: Create Chat Flows that integrate AI Assistants and Chatbots into a 
 
 # Chat Flows
 
-<figure><img src="../../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
 Clicking _**Setup > Chat Flows**_ reveals **Chat Flows**. This view reveals a list of existing Chat Flows you organized under your account.&#x20;
 

@@ -4,7 +4,7 @@ description: Edit the parameters of your Chat Flows
 
 # Modify your Chat Flow
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
 
 After you create your Chat Flow, you will return to the _**Setup > Chat Flows**_ view. Your newest Chat Flow will be displayed as the first tile from the top of your list.
 

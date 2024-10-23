@@ -1,6 +1,6 @@
 # Setting Up
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
 
 Under the _**Setup > Chat Flow** view_, click ![](<../../.gitbook/assets/image (44).png>).&#x20;
 

@@ -1,6 +1,6 @@
 # Select Type
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption><p>Select the kind of AI Assistant you want to create</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
 
 Check our list if there's any template that corresponds to the kind of AI Chatbot you want to create.&#x20;
 
@@ -82,7 +82,7 @@ We can create in-depth prompting guides to help you develop more elaborate Chatb
 
 ### Testing your AI Chatbot Type
 
-<figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 
 While choosing your AI Chatbot Type and editing their prompts further under Customize (Structured/Free Format), you might notice the **Test Your AI Assistant** text box on the right.
 
@@ -102,9 +102,9 @@ By the time you reach this step, your AI Chatbot is "technically" fully function
 
 You can proceed with the next step in two (2) ways:
 
-* From the original _**Select Type**_ view, choose ![](<../../.gitbook/assets/image (23) (1).png>) on the lower right-hand corner.
+* From the original _**Select Type**_ view, choose ![](<../../.gitbook/assets/image (269).png>) on the lower right-hand corner.
 * In the _**Customize Type**_ view, choose ![](<../../.gitbook/assets/image (24) (1).png>) on the lower right-hand corner.&#x20;
-* In either view, you can choose ![](<../../.gitbook/assets/image (168).png>) to save your changes and go back to _**Setup > My AI Assistants**_.
+* In either view, you can choose ![](<../../.gitbook/assets/image (168).png>) to save your changes and go back to _**Setup > My AI Chatbots**_.
 
 ***
 

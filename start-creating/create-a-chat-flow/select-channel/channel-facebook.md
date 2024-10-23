@@ -4,9 +4,9 @@ description: Set your AI Assistant as a Chatbot of a Facebook Page
 
 # Channel: Facebook
 
-After _**Select Channel > Facebook Messenger**_, you will be taken to **Configure Facebook Messenger**. This is where you can integrate your AI Chatbot as the dedicated chatbot of your Facebook Page.
+<figure><img src="../../../.gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+After _**Select Channel > Facebook Messenger**_, you will be taken to **Configure Facebook Messenger**. This is where you can integrate your AI Chatbot as the dedicated chatbot of your Facebook Page.
 
 {% hint style="danger" %}
 **Make sure you have a Facebook Business Account**

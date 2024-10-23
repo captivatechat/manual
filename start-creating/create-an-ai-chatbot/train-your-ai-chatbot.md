@@ -1,6 +1,6 @@
-# Train your AI Assistant
+# Train your AI Chatbot
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption><p>Train your Chatbot using the <em>Train your AI Assistant</em> menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
 
 Help your AI Chatbot learn and evolve from its knowledge base through **training**. Similar to how muscles are trained and "practiced" to get used to new activities, a AI Chatbot new interactions to "practice" its responses and learn from new knowledge.
 
@@ -12,7 +12,7 @@ Our AI Chatbots are capable of performing what's called **NLP** or natural langu
 Providing new questions and answers, as well as feedback, to your AI Chatbot slowly "shapes" its thought processes - allowing it to perform exactly how you need it to.&#x20;
 {% endhint %}
 
-The **Train your AI Assistant** has these major components:&#x20;
+The **Train your AI Chatbot** has these major components:&#x20;
 
 ### Enter your test question
 

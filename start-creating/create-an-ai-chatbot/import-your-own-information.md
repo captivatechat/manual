@@ -1,6 +1,6 @@
 # Import Your Own Information
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>The menu where you can view all information uploaded to your Chatbot</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
 Importing your own information is the most important step in AI Chatbot creation. This is what the bot uses to answer user questions.
 
@@ -57,6 +57,14 @@ After clicking the ![](<../../.gitbook/assets/image (25) (1).png>)button, you wi
 
 Please be patient. The time taken to import a PDF file or URL is dependent upon the size of the file or webpage.  You can return to import further information or remove information at any time. &#x20;
 
+{% hint style="warning" %}
+**Import again whenever you make updates!**
+
+When you upload your resources to an AI Chatbot, they are only ingested **in their instance as of that moment.** This means the AI Chatbot doesn't auto-ingest your URL or PDF if you make any updates.
+
+If you make any major changes to your resources, disable their original iteration and import the updated versions to your AI Chatbot.
+{% endhint %}
+
 ### Focus only on ingested data
 
 <figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
@@ -65,7 +73,7 @@ One additional feature is the ability to focus your AI Chatbot on just the data 
 
 The underlying AI Platform will take note of this and behave as requested in most circumstances but like us humans may not be able to help itself sometimes.
 
-Once your data has been imported, click ![](<../../.gitbook/assets/image (20) (1).png>)
+Once your data has been imported, click ![](<../../.gitbook/assets/image (267).png>).
 
 ***
 
