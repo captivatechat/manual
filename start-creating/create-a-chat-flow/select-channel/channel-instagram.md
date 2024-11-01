@@ -4,7 +4,7 @@ description: Set your AI Assistant as a Chatbot of an Instagram Page
 
 # Channel: Instagram
 
-<figure><img src="../../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (296).png" alt="The &#x22;Step 2: Select Channel&#x22; page will have Instagram highlighted in blue when you click it."><figcaption><p>The "Step 2: Select Channel" page will have Instagram highlighted in blue when you click it.</p></figcaption></figure>
 
 After _**Select Channel > Instagram**_, you will be taken to **Configure Instagram**. This is where you can integrate your AI Chatbot as the assigned bot of your Instagram Page.
 
@@ -16,7 +16,7 @@ Our integration only works if you have a **Professional Instagram Account** conn
 
 ## Configure Instagram
 
-<figure><img src="../../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (151).png" alt="Clicking  &#x22;Instagram&#x22; in &#x22;Step 2: Select Channel&#x22; and clicking &#x22;Next&#x22; will take users to &#x22;Configure Instagram.&#x22; You have to fill out the information on this page (Name, Description, Instagram Page Name, Instagram ID, Page Token) to finish the setup process."><figcaption><p>Clicking  "Instagram" in "Step 2: Select Channel" and clicking "Next" will take users to "Configure Instagram." You have to fill out the information on this page (Name, Description, Instagram Page Name, Instagram ID, Page Token) to finish the setup process.</p></figcaption></figure>
 
 Before you can fully integrate your AI Chatbot with your Instagram Page, you have to fill in the following information:
 
@@ -25,7 +25,7 @@ Before you can fully integrate your AI Chatbot with your Instagram Page, you hav
 
 ### Sign in with Facebook
 
-<figure><img src="../../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (155).png" alt="After writing the name of your Instagram Chat Flow under &#x22;Name&#x22; of &#x22;Configure Instagram,&#x22; click &#x22;Sign in with Facebook&#x22; to be taken to a separate window. You will be instructed to sign in with your Facebook account."><figcaption><p>After writing the name of your Instagram Chat Flow under "Name" of "Configure Instagram," click "Sign in with Facebook" to be taken to a separate window. You will be instructed to sign in with your Facebook account.</p></figcaption></figure>
 
 This is the most important step of the integration process. Click _**Sign in with Facebook.**_
 
@@ -33,7 +33,7 @@ You will encounter a separate window where you have to log in to Facebook. Upon 
 
 ### Select the Business Account
 
-<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption><p>After logging in to Facebook using the "Sign in with Facebook" button of "Configure Instagram." you will be asked to choose which Instagram Professional Account you want to connect to Captivate Chat.</p></figcaption></figure>
 
 Facebook will ask you the following:
 
@@ -48,7 +48,7 @@ This will allow us to use our backend to automatically integrate your AI Assista
 
 ### Fill up Instagram ID and Page Token
 
-<figure><img src="../../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (157).png" alt=""><figcaption><p>After selecting the right Instagram Professional Page in "Sign in with Facebook," the window will close automatically and return you to "Configure Instagram." Write the correct page name in "Instagram Page Name," and the "Instagram ID" and "Page Token" boxes will automatically be filled out. </p></figcaption></figure>
 
 Back in **Configure Instagram**_,_ fill in the following:
 

@@ -4,7 +4,7 @@ description: Set your AI Assistant as a Chatbot of a Facebook Page
 
 # Channel: Facebook
 
-<figure><img src="../../../.gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (295).png" alt="The &#x22;Step 2: Select Channel&#x22; page will have Facebook Messenger highlighted in blue when you click it."><figcaption><p>The "Step 2: Select Channel" page will have Facebook Messenger highlighted in blue when you click it.</p></figcaption></figure>
 
 After _**Select Channel > Facebook Messenger**_, you will be taken to **Configure Facebook Messenger**. This is where you can integrate your AI Chatbot as the dedicated chatbot of your Facebook Page.
 
@@ -24,7 +24,7 @@ Since this integration adds an AI Chatbot to your Facebook Page, users can acces
 
 ## Configure Facebook Messenger
 
-<figure><img src="../../../.gitbook/assets/image (27) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (1) (1).png" alt="Clicking  &#x22;Facebook Messenger&#x22; in &#x22;Step 2: Select Channel&#x22; and clicking &#x22;Next&#x22; will take users to &#x22;Configure Facebook Messenger.&#x22; You have to fill out the information on this page (Name, Description, Facebook Page Name, Page ID, Page Token) to finish the setup process."><figcaption><p>Clicking  "Facebook Messenger" in "Step 2: Select Channel" and clicking "Next" will take users to "Configure Facebook Messenger." You have to fill out the information on this page (Name, Description, Facebook Page Name, Page ID, Page Token) to finish the setup process.</p></figcaption></figure>
 
 Before you can fully integrate your AI Chatbot with your Facebook Page, you have to fill up the following information:
 
@@ -33,7 +33,7 @@ Before you can fully integrate your AI Chatbot with your Facebook Page, you have
 
 ### Sign in with Facebook
 
-<figure><img src="../../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (156).png" alt="After writing the name of your Facebook Messenger Chat Flow under &#x22;Name&#x22; of &#x22;Configure Facebook Messenger,&#x22; click &#x22;Sign in with Facebook&#x22; to be taken to a separate window. You will be instructed to sign in with your Facebook account."><figcaption><p>After writing the name of your Facebook Messenger Chat Flow under "Name" of "Configure Facebook Messenger," click "Sign in with Facebook" to be taken to a separate window. You will be instructed to sign in with your Facebook account.</p></figcaption></figure>
 
 This is the most important step of the integration process. Click _**Sign in with Facebook.**_
 
@@ -41,7 +41,7 @@ You will encounter a separate window where you have to log in. Upon logging in, 
 
 ### Select the Business Account
 
-<figure><img src="../../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (147).png" alt="After logging in to Facebook using the &#x22;Sign in with Facebook&#x22; button of &#x22;Configure Facebook Messenger.&#x22; you will be asked to choose which Facebook Page you want to connect to Captivate Chat."><figcaption><p>After logging in to Facebook using the "Sign in with Facebook" button of "Configure Facebook Messenger." you will be asked to choose which Facebook Page you want to connect to Captivate Chat.</p></figcaption></figure>
 
 Facebook will ask you the following:
 
@@ -54,7 +54,7 @@ This will allow us to use our backend to automatically integrate your AI Chatbot
 
 ### Fill up Page ID and Page Token
 
-<figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (144).png" alt="After selecting the right Facebook Page in &#x22;Sign in with Facebook,&#x22; the window will close automatically. Write the correct page name in &#x22;Facebook Page Name&#x22; and the &#x22;Page ID&#x22; and &#x22;Page Token&#x22; boxes will automatically be filled out. "><figcaption><p>After selecting the right Facebook Page in "Sign in with Facebook," the window will close automatically and return you to "Configure Facebook Messenger." Write the correct page name in "Facebook Page Name," and the "Page ID" and "Page Token" boxes will automatically be filled out. </p></figcaption></figure>
 
 Back in **Configure Facebook Messenger**_,_ fill in the following:
 
@@ -68,7 +68,7 @@ Click _**Next**_.
 
 ### Testing Facebook Configuration
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="After setting up your Facebook Chat Flow, go to the Facebook Page you just connected to Captivate Chat. Refresh the page and click the &#x22;Message&#x22; button. You should have automated responses as the AI Chatbot had just been deployed there."><figcaption><p>After setting up your Facebook Chat Flow, go to the Facebook Page you just connected to Captivate Chat. </p></figcaption></figure>
 
 You can test your AI Chatbot in these ways:
 
@@ -78,11 +78,11 @@ Go to your Facebook Page.&#x20;
 
 Refresh the window if the tab was open while integrating the AI Chatbot into your Page. Click ![](<../../../.gitbook/assets/image (4) (1) (1).png>) at the top of the Page. &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (35).png" alt="After clicking the &#x22;Message&#x22; button, you should receive automated responses, as the AI Chatbot has just been deployed there."><figcaption><p>After clicking the "Message" button, you should receive automated responses, as the AI Chatbot has just been deployed there.</p></figcaption></figure>
 
 The AI Chatbot should pop out and present default options. Choose either of these questions.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="Test your new Facebook Chat Flow by typing a message. The page should automatically respond."><figcaption><p>Test your new Facebook Chat Flow by typing a message. The page should automatically respond.</p></figcaption></figure>
 
 If the integration is successful, your AI Chatbot should respond automatically. After this message, you can start talking to it.
 
@@ -90,15 +90,15 @@ If the integration is successful, your AI Chatbot should respond automatically. 
 
 Go to your Facebook Messenger app.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt="In Facebook Messenger, type the name of your Facebook Page."><figcaption><p>In Facebook Messenger, type the name of your Facebook Page.</p></figcaption></figure>
 
 If you want to talk to your AI Chatbot for the first time, look for your Facebook Page via the Messenger search bar.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt="After clicking the name of your Facebook Page, you should see automated responses in your chat. This means your AI Chatbot has been deployed successfully.  " width="188"><figcaption><p>After clicking the name of your Facebook Page, you should see automated responses in your chat. This means your AI Chatbot has been deployed successfully.  </p></figcaption></figure>
 
 When you click your Facebook Page name, your AI Chatbot will reveal a set of default questions. Click any of these questions.
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt="Type a question in your conversation with your AI Chatbot in Facebook Messenger. You should receive an automated response." width="188"><figcaption><p>Type a question in your conversation with your AI Chatbot in Facebook Messenger. You should receive an automated response.</p></figcaption></figure>
 
 If the integration is successful, your AI Chatbot should respond automatically. After this message, you can start talking to it.
 
