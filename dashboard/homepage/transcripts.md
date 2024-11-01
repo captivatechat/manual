@@ -4,34 +4,64 @@ description: Check notable dialogue between Users, Agents, and AI Assistants
 
 # Transcripts
 
-<figure><img src="../../.gitbook/assets/image (35) (1) (1).png" alt=""><figcaption><p>The view of the Transcripts tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (300).png" alt="The &#x22;Transcripts&#x22; view lists potentially useful and relevant conversations between users and a particular Chat Flow. The view reveals the Hub Name (refers to Chat Flow used), the Name of the user, the Channel involved, and the Date and Time the conversation took place."><figcaption><p>The "Transcripts" view lists potentially useful and relevant conversations between users and a particular Chat Flow. The view reveals the Hub Name (refers to Chat Flow used), the Name of the user, the Channel involved, and the Date and Time the conversation took place.</p></figcaption></figure>
 
-The **Transcripts** tab reveals captured notable dialogue between Users, Agents, and AI Assistants.&#x20;
+The **Transcripts** tab reveals captured dialogue between Users, Agents, and AI Chatbots.&#x20;
 
-When people use the Chat Flows you create with Captivate Chat, useful dialogue is captured and stored within your account. You can review these in the **Transcripts** tab.
+When people use the Chat Flows you create with Captivate Chat, useful dialogue is captured and stored within your account.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption><p> Transcripts viewed up close</p></figcaption></figure>
+You can review these in the **Transcripts** tab.
 
 The **Transcripts** listed in the Transcripts Tab are arranged based on the following components:
 
 * **Hub Name:** This is the name of the Chat Flow where the intelligent dialogue occurred.
 * **Name:** This is the User who interacted with the Channel.
-* **Channel:** This is the Channel used in the interaction - either an automated Chatbot or an agent via Live Chat.
-* **Date and Time**
-* **Options**
-  * **Export PDF**
-  * **Report Issues:** Escalate an issue you encountered with the Transcript to the Captivate team.
+* **Channel:** This is the Channel used in the interaction - either an automated AI Chatbot or an agent via Live Chat.
+* **Date and Time:** This refers to a date and time of a particular interaction between the Chat Flow (AI Chatbot inside a Channel) and the user.
+
+{% hint style="info" %}
+**What kinds of dialogue are captured?**
+
+Dialogue is stored within the Transcripts tab whenever your AI Chatbot encounters a unique conversation after the user accesses its Chat Flow. This can come in different forms, some examples of which are:
+
+* A user asking intelligent questions that challenged the AI Chatbot's knowledge
+* A user providing new information that the AI Chatbot might deem useful in the future
+* A user requesting for information or actions that are not available in the AI Chatbot's programming
+* A user demonstrating different emotions throughout the exchange
+{% endhint %}
 
 ***
 
 ## Clicking a Transcript
 
-<figure><img src="../../.gitbook/assets/image (37) (1).png" alt=""><figcaption><p>When clicked, a Transcript reveals the relevant chat log</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (302).png" alt=""><figcaption><p>The Conversation View reveals information about the Chat Flow used, the user who interacted with the AI Chatbot, and a transcript of their conversation. </p></figcaption></figure>
 
-Clicking a Transcript will reveal a **Transcript View**. This reveals the relevant dialogue captured by our system. It has the following components:
+Clicking a Transcript will reveal a **Conversation View**. This reveals the relevant dialogue captured by our system. It has the following components:
 
-* **Name:** The name of the Channel involved. In this case, it's a Chatbot named "GoldenFred."
-* **Last Activity:** The last activity of the Channel.
-* **Channel:** The Channel implementation type, in this case a Web Widget.&#x20;
-* **Chat Log:** A replication of the conversation involving the relevant Chatbot and the user.
+* **Name:** The name of the Chat Flow involved. In this case, it's a Chatbot named "Chatbot - Guidebot V2."
+  * **Last Activity:** The last activity of the Channel.
+  * **Channel:** The Channel implementation type, in this case a Web Widget.&#x20;
+* **First Name/Last Name:** The name of the user. They are given a default name if they don't provide them to the AI Chatbot.
+* **IP Address:** The IP Address where the AI Chatbot was accessed.
+* **Device:** The kind of device used to converse with the AI Chatbot.
+* **Phone Number:** The phone number of the user.
+* **Email:** The email address of the user.
 
+<figure><img src="../../.gitbook/assets/image (303).png" alt="Additional options for transcripts in the Conversation View. Users can use the search bar to look for a specific message, or click the hamburger toggle to export the conversation into a PDF or report issues to the Captivate Chat team."><figcaption><p>Additional options for transcripts in the Conversation View. Users can use the search bar to look for a specific message, or click the hamburger toggle to export the conversation into a PDF or report issues to the Captivate Chat team.</p></figcaption></figure>
+
+On the upper right of the Conversation View are other settings:
+
+* **Search Message:** Lets users find a specific text, phrase, or message in the transcript.
+* **Settings:** The hamburger menu has additional options
+  * **Export PDF:** Exports the conversation as a PDF file
+  * **Report Issues:** Lets you describe an issue with the conversation that the Captivate Chat team can review.
+
+***
+
+## Modifying a Transcript
+
+<figure><img src="../../.gitbook/assets/image (301).png" alt="Clicking a specific Transcript conversation gives the option to Delete it, as seen by the &#x22;Delete&#x22; button."><figcaption><p>Clicking a specific Transcript conversation gives the option to Delete it, as seen by the "Delete" button.</p></figcaption></figure>
+
+If you click the checkbox beside the conversation of your choice, the system will select it. You can then click the **Delete** button to permanently remove this transcript from your account.&#x20;
+
+Deleting a Transcript conversation is permanent and irreversible. &#x20;

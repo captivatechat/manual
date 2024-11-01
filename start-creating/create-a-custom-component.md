@@ -4,23 +4,13 @@ description: Want to create a Custom Component? We've got you covered!
 
 # Create a Custom Component
 
-On the likelihood that you want a **specific Custom Component** that you want to incorporate into your business, the Captivate Chat team can certainly help you out.&#x20;
-
-
-
-{% hint style="info" %}
-**Be as precise and creative as you want!**
-
-Don't worry if you think your idea might be too "complex" when pitching something in _**Add One for Me.**_&#x20;
-
-Feel free to be as elaborate and as creative as you want, especially with the product details. We'll reach out regarding the specifics!&#x20;
-{% endhint %}
+If you want a **specific Custom Component** to incorporate into your business, the Captivate Chat team can certainly help you out!
 
 ***
 
 ## Contacting Captivate Chat&#x20;
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (50).png" alt="The &#x22;Add one for me&#x22; button is present in many pages of Captivate Chat. This lets users contact the Captivate Chat team to request for a specific service or product to be created for them that the platform doesn&#x27;t have."><figcaption><p>The "Add one for me" button is present in many pages of Captivate Chat. This lets users contact the Captivate Chat team to request for a specific service or product to be created for them that the platform doesn't have.</p></figcaption></figure>
 
 Whenever we ask you to choose a type of service for your needs (AI Chatbot, Channel, Live Chat), you might encounter an option called _**+Add One for Me.**_&#x20;
 
@@ -32,7 +22,7 @@ You can also access _Add One for Me_ through this link: [https://www.captivatech
 
 ## Add One for Me
 
-<figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (122).png" alt="The &#x22;Add One for Me&#x22; menu has items that users have to fill out in order to provide as much context as possible to the Captivate Chat team. This enables them to work on their dream component much easier."><figcaption><p>The "Add One for Me" menu has items that users have to fill out in order to provide as much context as possible to the Captivate Chat team. This enables them to work on their dream component much easier.</p></figcaption></figure>
 
 Clicking _**+Add One for Me**_ or the link will bring you to this window.
 
@@ -48,11 +38,19 @@ Fill up the following information so we can reach out regarding your idea:
 * **Please Select the Service/s You Require:** Tick the boxes of the kind of component you think fits your idea the best. See our available components below!
 * **A Bit More Detail, Please:** Describe the functionality of the tool you want us to create.&#x20;
 
+{% hint style="info" %}
+**Be as precise and creative as you want!**
+
+Don't worry if you think your idea might be too "complex" when pitching something in _**Add One for Me.**_&#x20;
+
+Feel free to be as elaborate and as creative as you want, especially with the product details. We'll reach out regarding the specifics!&#x20;
+{% endhint %}
+
 ***
 
 ## Available Components
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (49).png" alt="Users can select a specific service they want Captivate Chat to create for them. They can choose a Channel, AI Assistant, Live Chat, Bespoke AI, or something more specific. They can choose one or multiple options, especially if their software has different functionalities."><figcaption><p>Users can select a specific service they want Captivate Chat to create for them. They can choose a Channel, AI Assistant, Live Chat, Bespoke AI, or something more specific. They can choose one or multiple options, especially if their software has different functionalities.</p></figcaption></figure>
 
 Here are the kinds of custom components our clients often ask us to make:
 

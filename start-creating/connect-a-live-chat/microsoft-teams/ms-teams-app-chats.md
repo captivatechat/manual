@@ -1,6 +1,6 @@
 # MS Teams App Chats
 
-<figure><img src="../../../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (215).png" alt="When users connect a Chat Flow to MS Teams via the Captivate Chat MS Teams App, users should see two new chats in their MS Teams interface."><figcaption><p>When users connect a Chat Flow to MS Teams via the Captivate Chat MS Teams App, users should see two new chats in their MS Teams interface.</p></figcaption></figure>
 
 After you linked your Chat Flow to the Captivate Chat MS Teams App, look at the left-side dashboard of Microsoft Teams.
 

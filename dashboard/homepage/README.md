@@ -4,9 +4,9 @@ description: How do we navigate the Captivate Chat platform?
 
 # Homepage
 
-<figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (256).png" alt="The Captivate Chat homepage that contains the core features of the platform: AI Chatbots, Chat Flows, Reports, Transcripts, Tutorials, Tokens, User Subscription Plans, and User Settings."><figcaption><p>The Captivate Chat homepage that contains the core features of the platform: AI Chatbots, Chat Flows, Reports, Transcripts, Tutorials, Tokens, User Subscription Plans, and User Settings.</p></figcaption></figure>
 
-**The Homepage** is the first thing you will see once you log into **Captivate Chat**. Everything you need to start creating your AI Chatbots and integrations can be accessed here.&#x20;
+**The Homepage** is the first thing you will see once you log into **Captivate Chat**. Everything you need to start creating your AI Chatbots. Chat Flows, and integrations can be accessed here.&#x20;
 
 ## Homepage Components
 

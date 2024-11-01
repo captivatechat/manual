@@ -14,7 +14,7 @@ With the Chat Flow, you can easily manage all your bots for your channels withou
 
 
 
-<figure><img src=".gitbook/assets/1.png" alt=""><figcaption><p>The Chat Flow allows Brands to connect to Users by seamlessly integrating AI Chatbots with Live Chat services and brand Channels.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1.png" alt="Use Chat Flow to connect Users to Brands, Companies, and Services in a seamless fashion by facilitating integrations between their AI Chatbots, brand presence Channels, and Live Chat services."><figcaption><p>Use Chat Flow to connect Users to Brands, Companies, and Services in a seamless fashion by facilitating integrations between their AI Chatbots, brand presence Channels, and Live Chat services.</p></figcaption></figure>
 
 The **Chat Flow** is the core of Captivate Chat. It seamlessly brings together AI Chatbots, Channels, and Live Chat into one cohesive system.
 
@@ -23,7 +23,7 @@ When you create a Chat Flow with Captivate, it manages all necessary integration
 {% hint style="info" %}
 **The Chat Flow**
 
-In the platform, you can create different **Chat Flows** that connect these components in ways that work for your business!
+Use the Captivate Chat platform to create different **Chat Flows** that connect AI Chatbots, Channels, and Live Chats in ways that work for your business!
 {% endhint %}
 
 ***
@@ -32,9 +32,9 @@ In the platform, you can create different **Chat Flows** that connect these comp
 
 
 
-<figure><img src=".gitbook/assets/2.png" alt=""><figcaption><p>Captivate Chat uses AI Chatbots powered by IBM Watson, AWS Lex, and OpenAI. </p></figcaption></figure>
+<figure><img src=".gitbook/assets/2.png" alt="Captivate Chat uses AI Chatbots powered by IBM Watson, AWS Lex, and OpenAI. "><figcaption><p>Captivate Chat uses AI Chatbots powered by IBM Watson, AWS Lex, and OpenAI. </p></figcaption></figure>
 
-An **AI Chatbot** is a computer program designed to simulate human conversations through text or voice interactions. Utilizing predefined scripts and natural language processing (NLP), AI Chatbots can understand and respond to user inputs.
+An **AI Chatbot** is a computer program designed to simulate human conversations through text or voice interactions. Utilizing instructions from prompts and natural language processing (NLP), AI Chatbots can understand and respond to user inputs.
 
 Within Captivate Chat, you can integrate your existing AI Chatbots or create new ones. Our platform supports the following AI Chatbot infrastructures:
 
@@ -49,11 +49,11 @@ Within Captivate Chat, you can integrate your existing AI Chatbots or create new
 
 
 
-<figure><img src=".gitbook/assets/4.png" alt=""><figcaption><p>Captivate Chat can integrate AI Chatbots into Channels such as Messenger, Instagram, WhatsApp, and Web Widgets.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/4.png" alt="Captivate Chat can integrate AI Chatbots into Channels such as Messenger, Instagram, WhatsApp, and Web Widgets."><figcaption><p>Captivate Chat can integrate AI Chatbots into Channels such as Messenger, Instagram, WhatsApp, and Web Widgets.</p></figcaption></figure>
 
-A **Channel** is the platform or tool used by end users to access your AI Chatbot. They serve as the point(s) of engagement to your AI Chatbot.
+A **Channel** is basically the platform that your users access to get information about your company and avail your services. Using a Chat Flow, you can deploy your AI Chatbot in these Channels to assist users about their concerns.
 
-Your Chat Flow gives users access to your AI Assistant across all of the Channels and Live Chat tools you enable. Among available Channels you can use with our platform are the following:&#x20;
+Among available Channels you can use with our platform are the following:&#x20;
 
 * **Web Widget**
 * **Messaging Services**
@@ -61,7 +61,7 @@ Your Chat Flow gives users access to your AI Assistant across all of the Channel
 * **Social Media**
   * Messenger (Facebook/Meta)
   * Instagram (Meta)
-* **Custom Channel:** We can create a personalized Channel for your Captivate Flow, especially if you have a preferred deployment area outside web widgets and messaging services.
+* **Custom Channel:** Our team at Captivate Chat can create a personalized Channel, especially if you have a preferred deployment area outside web widgets and messaging services.
 
 ***
 
@@ -69,13 +69,13 @@ Your Chat Flow gives users access to your AI Assistant across all of the Channel
 
 
 
-<figure><img src=".gitbook/assets/3.png" alt=""><figcaption><p>Captivate Chat can work with Live Chat service providers such as MS Teams and Slack.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/3.png" alt="Captivate Chat can work with Live Chat service providers such as MS Teams and Sla"><figcaption><p>Captivate Chat can work with Live Chat service providers such as MS Teams and Slack.</p></figcaption></figure>
 
-**Live Chats** enable real-time communication between agents and clients, facilitated by AI Chatbots. These systems ensure seamless interaction, with AI Chatbots handling routine inquiries and escalating complex issues to human agents.
+**Live Chats** pertain to messaging platforms with special app integration features. Thanks to Chat Flows, we can use Live Chats to provide real-time contact between your agents and the users that your AI Chatbots are conversing with. Captivate Chat ensures seamless interactions between users and agents, with AI Chatbots handling general questions and escalating complex issues to human agents.
 
 Your Chat Flow is programmed to analyze incoming messages from various Channels, directing them to Chatbots for general responses and to Live Chat agents for specialized answers. Captivate Chat currently supports these Live Chat services:
 
 * **Microsoft Teams**: A collaboration platform that integrates chat, video conferencing, and file sharing within the Microsoft 365 suite.&#x20;
 * **Slack**: A messaging platform focused on team communication through organized channels. It integrates with numerous third-party apps, making it highly flexible and suitable for diverse workflows.
-* **Custom Live Chat:** We can create a custom-tailored Live Chat for your team.&#x20;
+* **Custom Live Chat:** The Captivate Chat team can create a custom-tailored Live Chat for your team.&#x20;
 

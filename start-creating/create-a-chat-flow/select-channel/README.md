@@ -4,7 +4,7 @@ description: Bring your AI Chatbots, Live Chats, and Channels together in one sy
 
 # Select Channel
 
-<figure><img src="../../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (281).png" alt=""><figcaption><p>The "Select Channel" window inside the </p></figcaption></figure>
 
 After selecting the active Chatbot in your Chat Flow, it's time to choose your **Channel**. This is where your users will encounter your AI Chatbot.&#x20;
 
