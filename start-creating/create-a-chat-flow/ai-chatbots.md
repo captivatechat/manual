@@ -1,6 +1,6 @@
 # AI Chatbots
 
-<figure><img src="../../.gitbook/assets/image (277).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (277).png" alt="After setup, the &#x22;My AI Chatbots&#x22; window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the &#x22;+AI Chatbot&#x22; button."><figcaption><p>After setup, the "My AI Chatbots" window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the "+AI Chatbot" button.</p></figcaption></figure>
 
 Once you name your Chat Flow, you will be taken to **Step 1: AI Chatbots.**&#x20;
 
@@ -10,7 +10,9 @@ You are offered two choices:
 
 ## Create an AI Chatbot
 
-You can create an AI Chatbot from scratch. Click ![](<../../.gitbook/assets/image (278).png>), and you will be taken to the same steps of this page:&#x20;
+If players create an AI Chatbot from scratch while making a Chat Flow, the AI Chatbot they will create will automatically be assigned to the Chat Flow they are setting up.&#x20;
+
+Click ![The "+AI Chatbot" button inside the "Step 1: My AI Chatbots" window of creating a Chat Flow will take users to the steps of creating an AI Chatbot that will automatically be assigned to the Chat Flow.](<../../.gitbook/assets/image (278).png>), and you will be taken to the same steps of this page:&#x20;
 
 {% content-ref url="../create-an-ai-chatbot/" %}
 [create-an-ai-chatbot](../create-an-ai-chatbot/)
@@ -20,7 +22,7 @@ You can create an AI Chatbot from scratch. Click ![](<../../.gitbook/assets/imag
 
 Click the Chatbot you want to use. Make sure it is fully functional.&#x20;
 
-If you want to check its details, click ![](<../../.gitbook/assets/image (160).png>). It will take you to the same steps of this page:
+If you want to check its details, click ![If you select an existing AI Chatbot during the "Step 1: My AI Chatbots" of the Chat Flow set up process, you can click the "Next: Import your Information" button to upload data to be ingested. ](<../../.gitbook/assets/image (160).png>). It will take you to the same steps of this page:
 
 {% content-ref url="../create-an-ai-chatbot/import-your-own-information.md" %}
 [import-your-own-information.md](../create-an-ai-chatbot/import-your-own-information.md)
