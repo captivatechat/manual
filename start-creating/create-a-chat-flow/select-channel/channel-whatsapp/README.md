@@ -36,7 +36,7 @@ Unlike other Chat Flows, connecting your AI Chatbot to WhatsApp needs you to use
 
 ## Configure WhatsApp
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Before you're able to integrate your AI Chatbot into WhatsApp, you have to fill up a few details:
 
