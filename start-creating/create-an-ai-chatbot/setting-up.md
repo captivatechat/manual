@@ -6,11 +6,11 @@ description: Give your new AI Chatbot a name and logo before setting up its para
 
 <figure><img src="../../.gitbook/assets/image (264).png" alt="In Setup > My AI Chatbots, you will be taken to a &#x22;My AI Chatbots&#x22; page that lists your current AI Chatbots. Click the blue &#x22;+AI Chatbot&#x22; button to start the AI Chatbot-creation process."><figcaption><p>In Setup > My AI Chatbots, you will be taken to a "My AI Chatbots" page that lists your current AI Chatbots. Click the blue "+AI Chatbot" button to start the AI Chatbot-creation process.</p></figcaption></figure>
 
-Under the **Setup > AI Chatbot** view, click ![Click the blue "+AI Chatbot" button to start the AI Chatbot-creation process.](<../../.gitbook/assets/image (262).png>).&#x20;
+Under the _**Setup > AI Chatbot**_ view, click ![Click the blue "+AI Chatbot" button to start the AI Chatbot-creation process.](<../../.gitbook/assets/image (262).png>).&#x20;
 
 <figure><img src="../../.gitbook/assets/image (263).png" alt="A &#x22;New AI Chatbot&#x22; window appears after clicking the &#x22;+AI Chatbot&#x22; button in the &#x22;My AI Chatbots&#x22; page. "><figcaption><p>A "New AI Chatbot" window appears after clicking the "+AI Chatbot" button in the "My AI Chatbots" page.</p></figcaption></figure>
 
-A pop-up window should appear. Under **New AI Chatbot**, fill up the following:
+A pop-up window should appear. Under the _**New AI Chatbot**_ window, fill up the following:
 
 * **Name Your AI Chatbot:** Assign a name to your AI Chatbot that corresponds to your needs.&#x20;
 * **Upload Logo:** This will remind you the purpose of the bot. Your logo should be square and of moderate resolution (e.g. 100 pixels x 100 pixels). You can remove the logo by clicking on the ![Use the Trashbin icon to delete the current uploaded logo in the "New AI Chatbot" menu.](<../../.gitbook/assets/image (60).png>) and replace it at any time.&#x20;

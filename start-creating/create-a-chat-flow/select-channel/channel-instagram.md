@@ -6,7 +6,7 @@ description: Set your AI Assistant as a Chatbot of an Instagram Page
 
 <figure><img src="../../../.gitbook/assets/image (296).png" alt="The &#x22;Step 2: Select Channel&#x22; page will have Instagram highlighted in blue when you click it."><figcaption><p>The "Step 2: Select Channel" page will have Instagram highlighted in blue when you click it.</p></figcaption></figure>
 
-After _**Select Channel > Instagram**_, you will be taken to **Configure Instagram**. This is where you can integrate your AI Chatbot as the assigned bot of your Instagram Page.
+After _**Select Channel > Instagram**_, you will be taken to _**Configure Instagram**_. This is where you can integrate your AI Chatbot as the assigned bot of your Instagram Page.
 
 {% hint style="danger" %}
 **REQUIREMENTS**
@@ -21,7 +21,7 @@ Before proceeding with the rest of the Instagram integration process, make sure 
 
 <figure><img src="../../../.gitbook/assets/image (151).png" alt="Clicking  &#x22;Instagram&#x22; in &#x22;Step 2: Select Channel&#x22; and clicking &#x22;Next&#x22; will take users to &#x22;Configure Instagram.&#x22; You have to fill out the information on this page (Name, Description, Instagram Page Name, Instagram ID, Page Token) to finish the setup process."><figcaption><p>Clicking  "Instagram" in "Step 2: Select Channel" and clicking "Next" will take users to "Configure Instagram." You have to fill out the information on this page (Name, Description, Instagram Page Name, Instagram ID, Page Token) to finish the setup process.</p></figcaption></figure>
 
-Before you can fully integrate your AI Chatbot with your Instagram Page, you have to fill in the following information:
+Before you can fully integrate your AI Chatbot with your Instagram Page, you have to fill in the following information in _**Configure Instagram**_:
 
 * **Name:** This is the name of the AI Chatbot as it will appear on Instagram
 * **Description:** Give your AI Chatbot a short description.
@@ -53,7 +53,7 @@ This will allow us to use our backend to automatically integrate your AI Assista
 
 <figure><img src="../../../.gitbook/assets/image (157).png" alt=""><figcaption><p>After selecting the right Instagram Professional Page in "Sign in with Facebook," the window will close automatically and return you to "Configure Instagram." Write the correct page name in "Instagram Page Name," and the "Instagram ID" and "Page Token" boxes will automatically be filled out. </p></figcaption></figure>
 
-Back in **Configure Instagram**_,_ fill in the following:
+Back in _**Configure Instagram**,_ fill in the following:
 
 * **Instagram Page Name:** Type the username of your target Instagram account.&#x20;
 * **Instagram ID:** It should automatically appear.

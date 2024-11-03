@@ -6,7 +6,7 @@ description: Set up your AI Assistant as a WhatsApp Chatbot
 
 <figure><img src="../../../../.gitbook/assets/image (30).png" alt="When users create a WhatsApp sender in Twilio for the first time, they will be taken to a Guided Signup window."><figcaption><p>When users create a WhatsApp sender in Twilio for the first time, they will be taken to a Guided Signup window.</p></figcaption></figure>
 
-In this new **Guided Signup** window, click ![The "Create new sender" button in the Messaging > Senders > WhatsApp Senders page of Twilio will take users to the process of creating a WhatsApp Sender.](<../../../../.gitbook/assets/image (13).png>).&#x20;
+In this new _**Guided Signup**_ window, click ![The "Create new sender" button in the Messaging > Senders > WhatsApp Senders page of Twilio will take users to the process of creating a WhatsApp Sender.](<../../../../.gitbook/assets/image (13).png>).&#x20;
 
 {% hint style="warning" %}
 **This is the same form when you create new senders**
@@ -16,7 +16,7 @@ The process below has the same forms to fill out when creating new senders beyon
 
 ***
 
-### Request WhatsApp Senders
+## Request WhatsApp Senders
 
 Follow the on-screen instructions to apply for WhatsApp access. These steps will mostly involve filling up the required details about your business so you can request access to the WhatsApp API.&#x20;
 
@@ -36,7 +36,7 @@ Fill up your company's information.&#x20;
 You can locate the Meta Business Manager ID via the Meta Business Suite. On the lower-left part of the screen, click _**Settings**_. When the new window loads, click the _**Business Portfolio Info**_ on the upper part of the screen. Copy the code under _**Business Portfolio ID**_.&#x20;
 {% endhint %}
 
-#### Select a Phone Number
+## Select a Phone Number
 
 <figure><img src="../../../../.gitbook/assets/image (15).png" alt="The second step of creating a first WhatsApp sender in Twilio is to Select a Phone Number. Users can choose an existing WhatsApp number by following special instructions or buy a new Twilio number."><figcaption><p>The second step of creating a first WhatsApp sender in Twilio is to Select a Phone Number. Users can choose an existing WhatsApp number by following special instructions or buy a new Twilio number.</p></figcaption></figure>
 
@@ -70,7 +70,7 @@ If you plan on purchasing a Twilio number, do take note that the service allows 
 Since we are going to integrate an AI Chatbot with WhatsApp, prioritize choosing a number with SMS enabled.&#x20;
 {% endhint %}
 
-#### Fill Out Your Public WhatsApp Sender Profile Information
+## Fill Out Your Public WhatsApp Sender Profile Information
 
 <figure><img src="../../../../.gitbook/assets/image (16).png" alt="The third step of creating a first WhatsApp sender in Twilio is to fill up public WhatsApp Sender profile information with the company&#x27;s display name, address, email, websites, vertical, logo link, and an about statement."><figcaption><p>The third step of creating a first WhatsApp sender in Twilio is to fill up public WhatsApp Sender profile information with the company's display name, address, email, websites, vertical, logo link, and an about statement.</p></figcaption></figure>
 
@@ -107,7 +107,7 @@ Before submitting your request, make sure you're submitting the right informatio
 
 ***
 
-### Accept the Request from Twilio in your Meta Business Suite
+## Accept the Request from Twilio in your Meta Business Suite
 
 <figure><img src="../../../../.gitbook/assets/image (21).png" alt="After completing the form to create a first WhatsApp sender in Twilio, users should go to their Meta Business Suite and accept the request from Twilio. "><figcaption><p>After completing the form to create a first WhatsApp sender in Twilio, users should go to their Meta Business Suite and accept the request from Twilio. </p></figcaption></figure>
 
@@ -121,7 +121,7 @@ To access this, go to your **Meta Business Suite**. From here:
 
 ***
 
-### Find your new WhatsApp Sender
+## Find your new WhatsApp Sender
 
 <figure><img src="../../../../.gitbook/assets/image (176).png" alt=""><figcaption><p>After accepting the request from Twilio in Meta Business Suite, users can go back to the Twilio dashboard and go to Messaging > Senders > WhatsApp Senders page. Their first WhatsApp sender should appear. </p></figcaption></figure>
 

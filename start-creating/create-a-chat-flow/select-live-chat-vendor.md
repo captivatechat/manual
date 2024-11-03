@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/image (298).png" alt="The &#x22;Select Live Chat Vendor&#x22; screen allows users to select their preferred Live Chat to connect customers to agents."><figcaption><p>The "Select Live Chat Vendor" screen allows users to select their preferred Live Chat to connect customers to agents.</p></figcaption></figure>
 
-After deciding on your AI Chatbot and Channel, you can now choose your **Live Chat Vendor**. This determines what internal messaging platform your will use to connect your Live Agents to your customers.
+After deciding on your AI Chatbot and Channel, you can now choose your **Live Chat** in the _**Step 3: Select Live Chat Vendor**_ page. This determines what internal messaging platform your will use to connect your Live Agents to your customers.
 
 Doing this will tie this specific Chat Flow to the Live Chat service you selected.&#x20;
 

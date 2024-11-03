@@ -10,7 +10,7 @@ In order to do this, you have to do the following:
 
 Go to the Channel assigned to the Chat Flow you just connected.&#x20;
 
-In this case, we used a Web Widget for "_**Roof Buddy v2 ChatFlow."**_&#x20;
+In this case, we used a Web Widget for `"Roof Buddy v2".`
 
 This means we can preview it straight from the My Chat Flow list in the Captivate Chat website.
 
@@ -24,7 +24,7 @@ If you forgot how to preview a Web Widget, refer to [preview-your-web-widget.md]
 
 Start a conversation with the AI Chatbot assigned to that Channel. Ask for a Live Agent. You can do this using these methods:
 
-* **Type the request directly.** Write _“I want to talk to an agent”_ or another derivative you can think of.
+* **Type the request directly.** Write `"I want to talk to an agent"` or another derivative you can think of.
 * **Click** ![The "Chat to person" link in the Channel of a Chat Flow will allow users to connect to a Live Agent after providing specific requirements.](<../../../.gitbook/assets/image (219).png>)**.** This option is available as a separate command on the Web Widget but can be an interactive button in other Channels (Facebook, Instagram, WhatsApp).
 
 <figure><img src="../../../.gitbook/assets/image (221).png" alt="After telling the AI Chatbot that the user wants to talk to a Live Agent, the AI Chatbot is instructed to ask them for their name and their email address. This will be sent over to MS Teams."><figcaption><p>After telling the AI Chatbot that the user wants to talk to a Live Agent, the AI Chatbot is instructed to ask them for their name and their email address. This will be sent over to MS Teams.</p></figcaption></figure>
@@ -64,7 +64,7 @@ After greeting the user, Captivate Chat will transition your conversation into a
 
 Check the Channel to view the conversation between the AI Chatbot and your test user.&#x20;
 
-There should be a message that says "_**Agent (Your Name) joins the conversation**_," alongside the greeting you sent over via Microsoft Teams.
+There should be a message that says `"Agent (Your Name) joins the conversation,"` alongside the greeting you sent over via Microsoft Teams.
 
 ## Wait for the MS Teams App to load your current conversation
 

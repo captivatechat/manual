@@ -12,7 +12,7 @@ Wait for the response. A new message called ![This white "Connect your team to a
 
 <figure><img src="../../../.gitbook/assets/image (253).png" alt="After clicking the purple &#x22;Link&#x22; button, a drop down menu appears with a list of Chat Flows that are currently assigned to MS Teams back in Captivate Chat - Setup > Chat Flows."><figcaption><p>After clicking the purple "Link" button, a drop down menu appears with a list of Chat Flows that are currently assigned to MS Teams back in Captivate Chat - Setup > Chat Flows.</p></figcaption></figure>
 
-Choose the Chat Flow you want to connect to your Microsoft Teams account. In this example, we've chosen _**"Roof Buddy v2 ChatFlow."**_
+Choose the Chat Flow you want to connect to your Microsoft Teams account. In this example, we've chosen _`"`_`Roof Buddy v2 Chat Flow."`
 
 Click ![A purple "Submit" button is clickable after users click the purple "Link" button, which only appears if they type "link" with a logged in account in Captivate Chat MS Teams App. After selecting a Chat Flow to connect to MS Teams, click this purple "Submit" button to submit the Chat Flow for linking to MS Teams.](<../../../.gitbook/assets/image (204).png>).
 

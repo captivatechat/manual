@@ -6,7 +6,7 @@ description: Finish setting up your WhatsApp Chat Flow
 
 <figure><img src="../../../../.gitbook/assets/image (29).png" alt="Clicking a specific WhatsApp Sender in the Messaging > Senders > WhatsApp Senders list in Twilio will reveal various technical information about this WhatsApp Sender."><figcaption><p>Clicking a specific WhatsApp Sender in the Messaging > Senders > WhatsApp Senders list in Twilio will reveal various technical information about this WhatsApp Sender.</p></figcaption></figure>
 
-Once you have your WhatsApp number approved, they should appear in the WhatsApp Senders list. Access this again by going to your Twilio Console and:
+Once you have your WhatsApp number approved, they should appear in the _WhatsApp Senders_ list. Access this again by going to your Twilio Console and:
 
 1. Click ![The Messaging dropdown in the Twilio dashboard appears on the left-hand menu.](<../../../../.gitbook/assets/image (10).png>) in the left-hand menu.&#x20;
 2. From the drop-down menu, find ![After clicking the Messaging dropdown button, find the Senders drop down button and click it.](<../../../../.gitbook/assets/image (11).png>) _**>**_ ![After going to Messaging > Senders in the Twilio Dashboard, find WhatsApp senders. Click it to open the WhatsApp senders page in Twilio.](<../../../../.gitbook/assets/image (12).png>)
@@ -25,7 +25,7 @@ After entering the URL, click _**Save**_ or _**Update**_ to apply the changes.&#
 
 ***
 
-### Copy the Account SID and Authentication Token
+## Copy the Account SID and Authentication Token
 
 <figure><img src="../../../../.gitbook/assets/image (27).png" alt="Go to your Twilio dashboard. On the bottom side of the Twilio dashboard is an Account SID and Auth Token. Copy both these values and paste them in your WhatsApp Chat Flow in Captivate Chat."><figcaption><p>Go to your Twilio dashboard. On the bottom side of the Twilio dashboard is an Account SID and Auth Token. Copy both these values and paste them in your WhatsApp Chat Flow in Captivate Chat.</p></figcaption></figure>
 
@@ -35,7 +35,7 @@ They should be located on the ![The "Account Dashboard" button in Twilio takes u
 
 ***
 
-### Paste the Account SID and Authentication Token in Captivate Chat
+## Paste the Account SID and Authentication Token in Captivate Chat
 
 <figure><img src="../../../../.gitbook/assets/image (32).png" alt="In the WhatsApp Chat Flow in Captivate Chat, go to the &#x22;Configure WhatsApp&#x22; page as found in &#x22;Step 2: Channel&#x22; and paste the other information in the Account SID and Authentication Token from Twilio."><figcaption><p>In the WhatsApp Chat Flow in Captivate Chat, go to the "Configure WhatsApp" page as found in "Step 2: Channel" and paste the other information in the Account SID and Authentication Token from Twilio.</p></figcaption></figure>
 
@@ -46,7 +46,7 @@ Go back to Captivate Chat.&#x20;
 
 ***
 
-### Testing WhatsApp Configuration
+## Testing WhatsApp Configuration
 
 <figure><img src="../../../../.gitbook/assets/image (34).png" alt=""><figcaption><p>After the WhatsApp Chat Flow has been finished, users can test the configuration by inputting their Twilio WhatsApp Sender's phone number in WhatsApp. The integration is working if the AI Chatbot is responding automatically.</p></figcaption></figure>
 

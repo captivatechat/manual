@@ -6,13 +6,13 @@ description: Check notable dialogue between Users, Agents, and AI Assistants
 
 <figure><img src="../../.gitbook/assets/image (300).png" alt="The &#x22;Transcripts&#x22; view lists potentially useful and relevant conversations between users and a particular Chat Flow. The view reveals the Hub Name (refers to Chat Flow used), the Name of the user, the Channel involved, and the Date and Time the conversation took place."><figcaption><p>The "Transcripts" view lists potentially useful and relevant conversations between users and a particular Chat Flow. The view reveals the Hub Name (refers to Chat Flow used), the Name of the user, the Channel involved, and the Date and Time the conversation took place.</p></figcaption></figure>
 
-The **Transcripts** tab reveals captured dialogue between Users, Agents, and AI Chatbots.&#x20;
+The _**Transcripts**_ page reveals captured dialogue between Users, Agents, and AI Chatbots.&#x20;
 
 When people use the Chat Flows you create with Captivate Chat, useful dialogue is captured and stored within your account.&#x20;
 
 You can review these in the **Transcripts** tab.
 
-The **Transcripts** listed in the Transcripts Tab are arranged based on the following components:
+Each **transcript** listed in the _Transcripts_ page are arranged based on the following components:
 
 * **Hub Name:** This is the name of the Chat Flow where the intelligent dialogue occurred.
 * **Name:** This is the User who interacted with the Channel.
@@ -22,7 +22,7 @@ The **Transcripts** listed in the Transcripts Tab are arranged based on the foll
 {% hint style="info" %}
 **What kinds of dialogue are captured?**
 
-Dialogue is stored within the Transcripts tab whenever your AI Chatbot encounters a unique conversation after the user accesses its Chat Flow. This can come in different forms, some examples of which are:
+Dialogue in the transcripts are stored within the _Transcripts_ page whenever your AI Chatbot encounters a unique conversation after the user accesses its Chat Flow. This can come in different forms, some examples of which are:
 
 * A user asking intelligent questions that challenged the AI Chatbot's knowledge
 * A user providing new information that the AI Chatbot might deem useful in the future

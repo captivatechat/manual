@@ -32,7 +32,7 @@ If you want your web widget to appear on your live website, you must copy this W
 
 <figure><img src="../../../../.gitbook/assets/image (289).png" alt="The Widget Preview shows a live preview of a Web Widget in a sample webpage within Captivate Chat. "><figcaption><p>The Widget Preview shows a live preview of a Web Widget in a sample webpage within Captivate Chat. </p></figcaption></figure>
 
-When you click _**View Widget**_, your browser will open a new window that says **Captivate Chat - Widget Preview**.&#x20;
+When you click _**View Widget**_, your browser will open a new window that says _**Captivate Chat - Widget Preview**._&#x20;
 
 This is the place where you can check how your Web Widget looks like even before you plug in the code to your actual website.&#x20;
 
@@ -66,7 +66,7 @@ Clicking the ![Click the "Page Settings" button on the upper right of the Web Wi
 
 <figure><img src="../../../../.gitbook/assets/image (294).png" alt="The &#x22;Background Type&#x22; section of the &#x22;Page Settings&#x22; window of the Web Widget Preview webpage can let users paste a URL of their choice or upload an image that can act as a static sample background for their Web Widget."><figcaption><p>The "Background Type" section of the "Page Settings" window of the Web Widget Preview webpage can let users paste a URL of their choice or upload an image that can act as a static sample background for their Web Widget.</p></figcaption></figure>
 
-Under **Select Background Type**, you can choose either a **Web** or **Image** as the source of your Background Asset:
+Under _**Select Background Type**_, you can choose either a **Web** or **Image** as the source of your Background Asset:
 
 * **Web:** You can enter any URL to "copy" its background. This reveals how the Web Widget can appear in a live website.
 * **Image:** You can upload an image that becomes the background of the Web Widget. This is useful if you're still designing your website. Its resolution should be 1980 x 1080.

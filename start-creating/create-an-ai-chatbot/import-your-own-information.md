@@ -6,7 +6,7 @@ description: Upload data for your AI Chatbot to ingest as part of its knowledgeb
 
 <figure><img src="../../.gitbook/assets/image (266).png" alt=""><figcaption><p>After giving your AI Chatbot a name and logo, you will be taken to "Import Your Own Information." This menu contains a list of resources you uploaded, and the option to upload new data.</p></figcaption></figure>
 
-It's in the _**"Import Your Own Information"**_ page where you will establish your AI Chatbot's knowledgebase by uploading data.&#x20;
+It's in the _**Import Your Own Information**_ page where you will establish your AI Chatbot's knowledgebase by uploading data.&#x20;
 
 Importing your own information or uploading your data is the most important step in AI Chatbot creation. This is what the bot uses to answer user questions.
 
@@ -26,7 +26,7 @@ To start adding data to your chatbot, click  !["Import Your Own Information" but
 
 <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt="Use the blue &#x22;Import&#x22; button to open the &#x22;Import&#x22; menu in order to add files and/or URLs to your Chatbot&#x27;s database"><figcaption><p>Use the blue "Import" button to open the "Import" menu in order to add files and/or URLs to your Chatbot's database</p></figcaption></figure>
 
-A pop-up window should appear. You can either:
+An _**Import**_ pop-up window should appear. You can either:
 
 * **Import:** Click or drag **PDF files** (up to 100MB) that contains important information that your Chatbot should know. You can drag multiple files at once by selecting a group of files and dragging them all to the file import area.
 * **URL(s):** List a set of URLs (one URL per line) that will become the basis of the knowledge of your Chatbot.&#x20;

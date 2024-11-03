@@ -2,11 +2,11 @@
 
 <figure><img src="../../.gitbook/assets/image (277).png" alt="After setup, the &#x22;My AI Chatbots&#x22; window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the &#x22;+AI Chatbot&#x22; button."><figcaption><p>After setup, the "My AI Chatbots" window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the "+AI Chatbot" button.</p></figcaption></figure>
 
-Once you name your Chat Flow, you will be taken to **Step 1: AI Chatbots.**&#x20;
+Once you name your Chat Flow, you will be taken to _**Step 1: AI Chatbots**_**.**&#x20;
 
 Select the AI Chatbot you want to be involved in this particular Chat Flow. Think of it as choosing the AI Chatbot that will interact with your audiences through your platform (your website or social media platform, to name a few). &#x20;
 
-You are offered two choices:
+You can proceed with _Step 1: AI Chatbots_ in two ways:
 
 ## Create an AI Chatbot
 

@@ -6,7 +6,7 @@ description: Set up your AI Assistant as a WhatsApp Chatbot
 
 <figure><img src="../../../../.gitbook/assets/image (297).png" alt="After selecting an AI Chatbot in &#x22;Step 1: Select Chatbot,&#x22; choose &#x22;WhatsApp&#x22; in &#x22;Step 2: Select Channel&#x22; in the Chat Flow creation process. The button will be highlighted blue. Click &#x22;Next&#x22; to proceed."><figcaption><p>After selecting an AI Chatbot in "Step 1: Select Chatbot," choose "WhatsApp" in "Step 2: Select Channel" in the Chat Flow creation process. The button will be highlighted blue. Click "Next" to proceed.</p></figcaption></figure>
 
-After _**Select Channel > WhatsApp**_, you will be taken to **Configure WhatsApp**. This is where you can start integrating your AI Assistant into WhatsApp as a Chatbot that people can converse with.&#x20;
+After _**Select Channel > WhatsApp**_, you will be taken to _**Configure WhatsApp**_. This is where you can start integrating your AI Assistant into WhatsApp as a Chatbot that people can converse with.&#x20;
 
 {% hint style="danger" %}
 **REQUIREMENTS**
@@ -38,7 +38,7 @@ Unlike other Chat Flows, connecting your AI Chatbot to WhatsApp needs you to use
 
 <figure><img src="../../../../.gitbook/assets/image (28) (1) (1).png" alt=""><figcaption><p>After selecting WhatsApp and clicking "Next" in "Step 2: Select Channel" of the Chat Flow creation process, you will go to the "Configure WhatsApp" page.</p></figcaption></figure>
 
-You will be taken to a _**"Configure WhatsApp"**_ page after selecting WhatsApp in _**"Step 2: Select Channel."**_&#x20;
+You will be taken to a _**Configure WhatsApp**_ page after selecting WhatsApp in _**Step 2: Select Channel.**_&#x20;
 
 This window contains the necessary information that have to be filled out before WhatsApp becomes integrated to your Chat Flow.
 

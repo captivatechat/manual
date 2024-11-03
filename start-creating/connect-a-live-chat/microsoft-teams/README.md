@@ -37,13 +37,13 @@ Log into your Microsoft Teams.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (194).png" alt="The &#x22;Apps&#x22; in Microsoft Teams is located on the lower-right side of the main toolbar."><figcaption><p>The "Apps" in Microsoft Teams is located on the lower-right side of the main toolbar.</p></figcaption></figure>
 
-On the left-side toolbar, click **Apps**.&#x20;
+On the left-side toolbar, click _**Apps**_.&#x20;
 
 A new window will load that contains available applications you can integrate to your Microsoft Teams.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (196).png" alt="Search for &#x22;Captivate Chat&#x22; in the Apps page to reveal the Captivate Chat MS Teams App. Click &#x22;Add&#x22; to install it."><figcaption><p>Search for "Captivate Chat" in the Apps page to reveal the Captivate Chat MS Teams App. Click "Add" to install it.</p></figcaption></figure>
 
-On the search bar, look for “Captivate Chat.”
+On the search bar, look for `"Captivate Chat"`.
 
 Wait for the screen to load. An app called Captivate Chat should appear and look like the one in the picture above. Click ![The MS Teams App store has the "Add" button to install the Captivate Chat MS Teams App to your organization's MS Teams](<../../../.gitbook/assets/image (199).png>) on the upper right side of the application.&#x20;
 

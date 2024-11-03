@@ -6,7 +6,7 @@ description: Set your AI Assistant as a Chatbot of a Facebook Page
 
 <figure><img src="../../../.gitbook/assets/image (295).png" alt="The &#x22;Step 2: Select Channel&#x22; page will have Facebook Messenger highlighted in blue when you click it."><figcaption><p>The "Step 2: Select Channel" page will have Facebook Messenger highlighted in blue when you click it.</p></figcaption></figure>
 
-After _**Select Channel > Facebook Messenger**_, you will be taken to **Configure Facebook Messenger**. This is where you can integrate your AI Chatbot as the dedicated chatbot of your Facebook Page.
+After _**Select Channel > Facebook Messenger**_, you will be taken to _**Configure Facebook Messenger**_. This is where you can integrate your AI Chatbot as the dedicated chatbot of your Facebook Page.
 
 {% hint style="danger" %}
 **REQUIREMENTS**
@@ -29,7 +29,7 @@ Since this integration adds an AI Chatbot to your Facebook Page, users can acces
 
 <figure><img src="../../../.gitbook/assets/image (27) (1) (1).png" alt="Clicking  &#x22;Facebook Messenger&#x22; in &#x22;Step 2: Select Channel&#x22; and clicking &#x22;Next&#x22; will take users to &#x22;Configure Facebook Messenger.&#x22; You have to fill out the information on this page (Name, Description, Facebook Page Name, Page ID, Page Token) to finish the setup process."><figcaption><p>Clicking  "Facebook Messenger" in "Step 2: Select Channel" and clicking "Next" will take users to "Configure Facebook Messenger." You have to fill out the information on this page (Name, Description, Facebook Page Name, Page ID, Page Token) to finish the setup process.</p></figcaption></figure>
 
-Before you can fully integrate your AI Chatbot with your Facebook Page, you have to fill up the following information:
+Before you can fully integrate your AI Chatbot with your Facebook Page, you have to fill up the following information in _**Configure Facebook Messenger**_:
 
 * **Name:** This is the name of the AI Assistant as it will appear on Facebook.
 * **Description:** Give your AI Chatbot a short description.
@@ -59,7 +59,7 @@ This will allow us to use our backend to automatically integrate your AI Chatbot
 
 <figure><img src="../../../.gitbook/assets/image (144).png" alt="After selecting the right Facebook Page in &#x22;Sign in with Facebook,&#x22; the window will close automatically. Write the correct page name in &#x22;Facebook Page Name&#x22; and the &#x22;Page ID&#x22; and &#x22;Page Token&#x22; boxes will automatically be filled out. "><figcaption><p>After selecting the right Facebook Page in "Sign in with Facebook," the window will close automatically and return you to "Configure Facebook Messenger." Write the correct page name in "Facebook Page Name," and the "Page ID" and "Page Token" boxes will automatically be filled out. </p></figcaption></figure>
 
-Back in **Configure Facebook Messenger**_,_ fill in the following:
+Back in _**Configure Facebook Messenger**,_ fill in the following:
 
 * **Facebook Page Name:** When you start typing your target Facebook Page, it should appear as a drop-down. Select it.
 * **Page ID:** It should automatically appear.
@@ -69,13 +69,13 @@ Click _**Next**_.
 
 ***
 
-### Testing Facebook Configuration
+## Testing Facebook Configuration
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="After setting up your Facebook Chat Flow, go to the Facebook Page you just connected to Captivate Chat. Refresh the page and click the &#x22;Message&#x22; button. You should have automated responses as the AI Chatbot had just been deployed there."><figcaption><p>After setting up your Facebook Chat Flow, go to the Facebook Page you just connected to Captivate Chat. </p></figcaption></figure>
 
 You can test your AI Chatbot in these ways:
 
-#### Testing via Facebook Page
+### Testing via Facebook Page
 
 Go to your Facebook Page.&#x20;
 
@@ -89,7 +89,7 @@ The AI Chatbot should pop out and present default options. Choose either of thes
 
 If the integration is successful, your AI Chatbot should respond automatically. After this message, you can start talking to it.
 
-#### Testing via Facebook Messenger
+### Testing via Facebook Messenger
 
 Go to your Facebook Messenger app.&#x20;
 
