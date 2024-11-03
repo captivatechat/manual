@@ -8,6 +8,19 @@ description: Set your AI Assistant as a Chatbot of an Instagram Page
 
 After _**Select Channel > Instagram**_, you will be taken to _**Configure Instagram**_. This is where you can integrate your AI Chatbot as the assigned bot of your Instagram Page.
 
+{% hint style="info" %}
+**SUMMARY**
+
+Creating an Instagram Chat Flow involves these steps:
+
+1. **Choose Instagram:** In _Step 2: Select Channel_, choose "Instagram." This brings you to the _Configure Instagram_ window.
+2. **Give your Chat Flow a name and description:** Provide a public name and description for your Chat Flow - these will appear when interacted with as an AI Chatbot on Instagram.
+3. **Connect your Facebook Account:** Click the _Sign in with Facebook_ button to log into your Facebook Business Account in a new window.
+4. **Choose your Instagram Professional Account:** In the same new window, select your Instagram Professional Account and accept permissions.
+5. **Type your Instagram Page Name:** Back in _Configure Instagram_, type your Instagram username. This is the one you use with the at (@) sign.
+6. **Wait for Instagram ID and Page Token to fill:** If you've written the right page name, the Instagram ID and Page Token will automatically be filled out. &#x20;
+{% endhint %}
+
 {% hint style="danger" %}
 **REQUIREMENTS**
 
@@ -16,6 +29,8 @@ Before proceeding with the rest of the Instagram integration process, make sure 
 * **Instagram Professional Account:** Your business or brand must have a **Professional Instagram Account**. It cannot be a personal account.&#x20;
 * **Facebook Business Account:** Your **Professional Instagram Account** must be connected to a Facebook Business Account. Make sure it is a **verified** account by following the steps in this [guide from Meta](https://www.facebook.com/business/help/2058515294227817?id=180505742745347).
 {% endhint %}
+
+***
 
 ## Configure Instagram
 
@@ -56,8 +71,7 @@ This will allow us to use our backend to automatically integrate your AI Assista
 Back in _**Configure Instagram**,_ fill in the following:
 
 * **Instagram Page Name:** Type the username of your target Instagram account.&#x20;
-* **Instagram ID:** It should automatically appear.
-* **Page Token:** It should automatically appear.
+* **Instagram ID and Page Token:** They should automatically appear after entering your Instagram Page Name.
 
 Click _**Next**_.
 

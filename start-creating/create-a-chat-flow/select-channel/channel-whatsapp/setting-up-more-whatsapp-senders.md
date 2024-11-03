@@ -6,7 +6,7 @@
 
 
 
-After going to the _WhatsApp Senders_ menu, begin the process of creating your WhatsApp Sender. To do this, you have to:&#x20;
+After going to the _WhatsApp Senders_ menu on Twilio, begin the process of creating your WhatsApp Sender. To do this, you have to:&#x20;
 
 1. Click ![The "Get Started" button will appear in the "Get started with WhatsApp" page after if "Click New Sender" in Messaging > Senders > WhatsApp Senders is clicked by a user who already made their first WhatsApp sender.](<../../../../.gitbook/assets/image (179).png>)
 2. Acknowledge and accept the Terms & Conditions presented in the new window.
@@ -15,7 +15,7 @@ After going to the _WhatsApp Senders_ menu, begin the process of creating your W
 
 <figure><img src="../../../../.gitbook/assets/image (181).png" alt="The first step to create a new WhatsApp Sender for users who already have existing senders is to select a phone number to register. They can use their own number by following special instructions or buy a Twilio phone number."><figcaption><p>The first step to create a new WhatsApp Sender for users who already have existing senders is to select a phone number to register. They can use their own number by following special instructions or buy a Twilio phone number.</p></figcaption></figure>
 
-Choose a phone number. This will be **your company's designated WhatsApp number specifically for talking to your AI Chatbot.**
+Choose a phone number in this Twilio page This will be **your company's designated WhatsApp number specifically for talking to your AI Chatbot.**
 
 You have two options:
 
@@ -49,7 +49,7 @@ Since we are going to integrate an AI Chatbot with WhatsApp, prioritize choosing
 
 <figure><img src="../../../../.gitbook/assets/image (182).png" alt="The second step to create a new WhatsApp Sender for users who already have existing senders is to link their chosen number to a WhatsApp business account."><figcaption><p>The second step to create a new WhatsApp Sender for users who already have existing senders is to link their chosen number to a WhatsApp business account.</p></figcaption></figure>
 
-The next stage in the process involves **creating or select a pre-made WhatsApp Business Account** and verifying it to be used with Twilio.
+The next stage in the Twilio process involves **creating or select a pre-made WhatsApp Business Account** and verifying it to be used with Twilio.
 
 ### 1. Link your WhatsApp Business Account
 
@@ -59,17 +59,15 @@ You will be prompted to connect your chosen number to a WhatsApp Business Accoun
 
 ### 2. Copy the phone number you want to register
 
-###
-
 <figure><img src="../../../../.gitbook/assets/image (185).png" alt="After &#x22;Continue with Facebook&#x22; button opens Facebook in a pop-up window, users can copy their selected phone number into the clipboard by clicking the &#x22;Copy&#x22; button beside it."><figcaption><p>After "Continue with Facebook" button opens Facebook in a pop-up window, users can copy their selected phone number into the clipboard by clicking the "Copy" button beside it.</p></figcaption></figure>
 
-Part of the verification process will involve copying your designated phone number over to the Facebook pop-up window. Click ![After "Continue with Facebook" button opens Facebook in a pop-up window, users can copy their selected phone number into the clipboard by clicking the "Copy" button beside it.](<../../../../.gitbook/assets/image (186).png>) to place your chosen number in the clipboard.
+Part of the verification process in this Twilio page will involve copying your designated phone number over to the Facebook pop-up window. Click ![After "Continue with Facebook" button opens Facebook in a pop-up window, users can copy their selected phone number into the clipboard by clicking the "Copy" button beside it.](<../../../../.gitbook/assets/image (186).png>) to place your chosen number in the clipboard.
 
 ### 3. Verify the selected number with WhatsApp
 
 <figure><img src="../../../../.gitbook/assets/image (187).png" alt="Users should press the &#x22;Send Code&#x22; in the Facebook pop-up window to send a verification code to the selected phone number. The code automatically appears in the blank spaces in the Twilio page of the WhatsApp Sender creation process."><figcaption><p>Users should press the "Send Code" in the Facebook pop-up window to send a verification code to the selected phone number. The code automatically appears in the blank spaces in the Twilio page of the WhatsApp Sender creation process.</p></figcaption></figure>
 
-Press the **Send Code** over in the Faceobok pop-up window. A verification code should automatically appear on the blank spaces below.&#x20;
+Press the **Send Code** over in the Facebook pop-up window that appeared. A verification code should automatically appear on the blank spaces in this part of the Twilio page.&#x20;
 
 Twilio should be attempting to register the phone number to WhatsApp. The process generally takes a few moments. The upper-right of the screen will provide these status messages:
 
@@ -81,6 +79,6 @@ Twilio should be attempting to register the phone number to WhatsApp. The proces
 
 <figure><img src="../../../../.gitbook/assets/image (177).png" alt="After verifying the new WhatsApp number in the separate window, users will be redirected to the WhatsApp Senders page. Their new WhatsApp sender should appear. "><figcaption><p>After verifying the new WhatsApp number in the separate window, users will be redirected to the WhatsApp Senders page. Their new WhatsApp sender should appear. </p></figcaption></figure>
 
-After verifying your new WhatsApp number, you will be redirected to your list of WhatsApp Senders. Your new WhatsApp sender should be in this list and ready to be integrated in a Captivate Chat Flow.
+After verifying your new WhatsApp number on Twilio, you will be redirected to your list of WhatsApp Senders. Your new WhatsApp sender should be in this list and ready to be integrated in a Captivate Chat Flow.
 
-To create another WhatsApp sender, click ![The "Create new sender" button in the Messaging > Senders > WhatsApp Senders page of Twilio will take users to the process of creating a WhatsApp Sender.](<../../../../.gitbook/assets/image (180).png>) on the upper-right part of the menu.
+To create another WhatsApp sender, click ![The "Create new sender" button in the Messaging > Senders > WhatsApp Senders page of Twilio will take users to the process of creating a WhatsApp Sender.](<../../../../.gitbook/assets/image (180).png>) on the upper-right part of the Twilio menu.

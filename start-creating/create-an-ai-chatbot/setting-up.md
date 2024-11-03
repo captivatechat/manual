@@ -6,6 +6,8 @@ description: Give your new AI Chatbot a name and logo before setting up its para
 
 <figure><img src="../../.gitbook/assets/image (264).png" alt="In Setup > My AI Chatbots, you will be taken to a &#x22;My AI Chatbots&#x22; page that lists your current AI Chatbots. Click the blue &#x22;+AI Chatbot&#x22; button to start the AI Chatbot-creation process."><figcaption><p>In Setup > My AI Chatbots, you will be taken to a "My AI Chatbots" page that lists your current AI Chatbots. Click the blue "+AI Chatbot" button to start the AI Chatbot-creation process.</p></figcaption></figure>
 
+Before you create your AI Chatbot, you have to set it up first.&#x20;
+
 Under the _**Setup > AI Chatbot**_ view, click ![Click the blue "+AI Chatbot" button to start the AI Chatbot-creation process.](<../../.gitbook/assets/image (262).png>).&#x20;
 
 <figure><img src="../../.gitbook/assets/image (263).png" alt="A &#x22;New AI Chatbot&#x22; window appears after clicking the &#x22;+AI Chatbot&#x22; button in the &#x22;My AI Chatbots&#x22; page. "><figcaption><p>A "New AI Chatbot" window appears after clicking the "+AI Chatbot" button in the "My AI Chatbots" page.</p></figcaption></figure>

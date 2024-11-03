@@ -1,10 +1,10 @@
 # Connect your Captivate Chat account
 
-
-
 <figure><img src="../../../.gitbook/assets/image (232).png" alt="Opening the Captivate Chat MS Teams App for the first time will walk users through a sign-in process. They will be prompted to agree to terms and conditions and sign in using their preferred method."><figcaption><p>Opening the Captivate Chat MS Teams App for the first time will walk users through a sign-in process. They will be prompted to agree to terms and conditions and sign in using their preferred method.</p></figcaption></figure>
 
-In the textbox below, type `signin` to start the login process.
+When you open the **Captivate Chat MS Teams App**, you should first log into your Captivate Chat account before you can connect your Chat Flows.
+
+In the textbox of the Captivate Chat MS Teams App, type `signin` to start the login process.
 
 Under the first response, click ![This white "I Agree" button appears when opening Captivate Chat MS Teams App for the first time. Only click this after reading the terms and conditions.](<../../../.gitbook/assets/image (245).png>). &#x20;
 

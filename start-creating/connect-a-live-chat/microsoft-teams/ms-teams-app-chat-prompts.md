@@ -1,8 +1,10 @@
 # MS Teams App Chat Prompts
 
-With the Captivate Chat MS Teams App, you can start linking and unlinking Chat Flows directly into the Microsoft Teams of your organization. You can do these, among other things, through the built-in **prompts** in the app.
+
 
 <figure><img src="../../../.gitbook/assets/image (231).png" alt="The view of the Captivate Chat MS Teams App when opened. There are various commands that players can type such as Start, Signin, Signout, Link, Unlink, and Help."><figcaption><p>The view of the Captivate Chat MS Teams App when opened. There are various commands that players can type such as Start, Signin, Signout, Link, Unlink, and Help.</p></figcaption></figure>
+
+With the Captivate Chat MS Teams App, you can start linking and unlinking Chat Flows directly into the Microsoft Teams of your organization. You can do these, among other things, through the built-in **prompts** in the app.
 
 When you start a conversation with the Captivate Chat MS Teams App, you can perform various actions through its different prompts:
 

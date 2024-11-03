@@ -6,16 +6,16 @@ description: Finish setting up your WhatsApp Chat Flow
 
 <figure><img src="../../../../.gitbook/assets/image (29).png" alt="Clicking a specific WhatsApp Sender in the Messaging > Senders > WhatsApp Senders list in Twilio will reveal various technical information about this WhatsApp Sender."><figcaption><p>Clicking a specific WhatsApp Sender in the Messaging > Senders > WhatsApp Senders list in Twilio will reveal various technical information about this WhatsApp Sender.</p></figcaption></figure>
 
-Once you have your WhatsApp number approved, they should appear in the _WhatsApp Senders_ list. Access this again by going to your Twilio Console and:
+Once you have your WhatsApp Sender approved, they should appear in the _WhatsApp Senders_ list on Twilio. Access this again by going to your Twilio Console and:
 
 1. Click ![The Messaging dropdown in the Twilio dashboard appears on the left-hand menu.](<../../../../.gitbook/assets/image (10).png>) in the left-hand menu.&#x20;
 2. From the drop-down menu, find ![After clicking the Messaging dropdown button, find the Senders drop down button and click it.](<../../../../.gitbook/assets/image (11).png>) _**>**_ ![After going to Messaging > Senders in the Twilio Dashboard, find WhatsApp senders. Click it to open the WhatsApp senders page in Twilio.](<../../../../.gitbook/assets/image (12).png>)
 
-From this list, click the WhatsApp number you dedicated to your AI Chatbot.
+From this list on Twilio, click the WhatsApp number you dedicated to your AI Chatbot.
 
 <figure><img src="../../../../.gitbook/assets/image (28).png" alt="In the WhatsApp Sender&#x27;s profile page in Messaging > Senders > WhatsApp Senders, go to &#x22;Endpoint Configuration&#x22; section and paste a specific Webhook URL from the Captivate Chat guide in the &#x22;Webhook URL for Incoming Messages.&#x22;"><figcaption><p>In the WhatsApp Sender's profile page in Messaging > Senders > WhatsApp Senders, go to "Endpoint Configuration" section and paste a specific Webhook URL from the Captivate Chat guide in the "Webhook URL for Incoming Messages."</p></figcaption></figure>
 
-Find the section called **Endpoint Configuration**. Under the **Webhook URL for Incoming Messages**, paste the following:
+Find the section called **Endpoint Configuration** in the WhatsApp Sender's settings. Under the **Webhook URL for Incoming Messages**, paste the following:
 
 ```
 https://channel.prod.captivat.io/api/whatsapp/twilio/integration 
@@ -29,7 +29,7 @@ After entering the URL, click _**Save**_ or _**Update**_ to apply the changes.&#
 
 <figure><img src="../../../../.gitbook/assets/image (27).png" alt="Go to your Twilio dashboard. On the bottom side of the Twilio dashboard is an Account SID and Auth Token. Copy both these values and paste them in your WhatsApp Chat Flow in Captivate Chat."><figcaption><p>Go to your Twilio dashboard. On the bottom side of the Twilio dashboard is an Account SID and Auth Token. Copy both these values and paste them in your WhatsApp Chat Flow in Captivate Chat.</p></figcaption></figure>
 
-Back in the Twilio Console, locate your **Account SID** and **Auth Token.**
+Back on the Twilio Console, locate your **Account SID** and **Auth Token.**
 
 They should be located on the ![The "Account Dashboard" button in Twilio takes users to the main Twilio dashboard.](<../../../../.gitbook/assets/image (31).png>).
 

@@ -2,7 +2,9 @@
 
 <figure><img src="../../.gitbook/assets/image (268).png" alt="The &#x22;Select Type&#x22; page in the AI Chatbot creation phase reveals a list of templates users can apply to their AI Chatbots to estalbish their base personality and functionalities."><figcaption><p>The "Select Type" page in the AI Chatbot creation phase reveals a list of templates users can apply to their AI Chatbots to estalbish their base personality and functionalities.</p></figcaption></figure>
 
-Check our list of templates in the _**Select Type**_ page to see if there's any personality type that corresponds to the kind of AI Chatbot you want to create.&#x20;
+After your AI Chatbot had ingested information as part of its database, you can assign it a personality that dictates how your AI Chatbot responds to queries and questions.
+
+Check our list of templates in the _**Select Type**_ page to see if any of them corresponds to the kind of AI Chatbot you want to create.&#x20;
 
 We've already prepared AI Chatbot types you can select to meet specific functionalities. They are pre-programmed with behaviors to help them approach questions and tasks a specific way, making them "plug-and-play" for your convenience.&#x20;
 

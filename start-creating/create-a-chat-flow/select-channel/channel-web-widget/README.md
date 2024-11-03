@@ -6,7 +6,20 @@ description: Connect your AI Assistant to your website
 
 After _**Select Channel > Web Widget**_, you will be taken to the _**Customize Web Chat**_ view. This is where you will set up your Chatbot to make it compatible with your website.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (123).png" alt=""><figcaption><p>In the Chat Flow creation process, after selecting your AI Chatbot in "Step 1: AI Assistant," select "Web Widget" in "Step 2: Select Channel" to start the Web Widget creation process.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (305).png" alt="In the Chat Flow creation process, after selecting your AI Chatbot in &#x22;Step 1: AI Assistant,&#x22; select &#x22;Web Widget&#x22; in &#x22;Step 2: Select Channel&#x22; to start the Web Widget creation process."><figcaption><p>In the Chat Flow creation process, after selecting your AI Chatbot in "Step 1: AI Assistant," select "Web Widget" in "Step 2: Select Channel" to start the Web Widget creation process.</p></figcaption></figure>
+
+{% hint style="info" %}
+**SUMMARY**
+
+Creating a Web Widget Chat Flow involves these steps:
+
+1. **Choose Web Widget:** In _Step 2: Select Channel_, choose "Web Chat." This brings you to the _Customize Web Chat_ window.
+2. **Add preset text:** Use the _Text Options_ to modify the Web Widget's public name and default message.
+3. **Add colors:** Use the _Color Options_ to change the overall color palette of your Web Widget.
+4. **Change images:** Use the _Image Options_ to personalize your Web Widget further with images, logos, and headers.&#x20;
+5. **Set a schedule:** Use the _Working Hours_ to select times of the day and days of the week that the Web Widget will be active.
+6. **Copy the Web Widget code:** The _Embed Web Widget_ will provide a working code that you can give to your web administrator for implementation in your website.
+{% endhint %}
 
 ***
 

@@ -6,6 +6,8 @@ description: Upload data for your AI Chatbot to ingest as part of its knowledgeb
 
 <figure><img src="../../.gitbook/assets/image (266).png" alt=""><figcaption><p>After giving your AI Chatbot a name and logo, you will be taken to "Import Your Own Information." This menu contains a list of resources you uploaded, and the option to upload new data.</p></figcaption></figure>
 
+After you give your AI Chatbot a name and a logo, it's time to give it basic resources to learn from.
+
 It's in the _**Import Your Own Information**_ page where you will establish your AI Chatbot's knowledgebase by uploading data.&#x20;
 
 Importing your own information or uploading your data is the most important step in AI Chatbot creation. This is what the bot uses to answer user questions.

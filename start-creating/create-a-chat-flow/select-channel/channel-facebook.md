@@ -8,6 +8,19 @@ description: Set your AI Assistant as a Chatbot of a Facebook Page
 
 After _**Select Channel > Facebook Messenger**_, you will be taken to _**Configure Facebook Messenger**_. This is where you can integrate your AI Chatbot as the dedicated chatbot of your Facebook Page.
 
+{% hint style="info" %}
+**SUMMARY**
+
+Creating a Facebook Messenger Chat Flow involves these steps:
+
+1. **Choose Facebook Messenger:** In _Step 2: Select Channel_, choose "Facebook Messenger." This brings you to the _Configure Facebook Messenger_ window.
+2. **Give your Chat Flow a name and description:** Provide a public name and description for your Chat Flow - these will appear when interacted with as an AI Chatbot in Facebook Messenger.
+3. **Connect your Facebook Account:** Click the _Sign in with Facebook_ button to log into your Facebook Business Account in a new window.
+4. **Choose your Facebook Business Page:** In the same new window, select your Facebook Business Page and accept permissions.
+5. **Type your Facebook Page Name:** Back in _Configure Facebook Messenger_, type your Facebook Business Page name as it appears on Facebook.
+6. **Wait for Page ID and Page Token to fill:** If you've written the right page name, the Page ID and Page Token will automatically be filled out. &#x20;
+{% endhint %}
+
 {% hint style="danger" %}
 **REQUIREMENTS**
 
@@ -62,8 +75,7 @@ This will allow us to use our backend to automatically integrate your AI Chatbot
 Back in _**Configure Facebook Messenger**,_ fill in the following:
 
 * **Facebook Page Name:** When you start typing your target Facebook Page, it should appear as a drop-down. Select it.
-* **Page ID:** It should automatically appear.
-* **Page Token:** It should automatically appear.
+* **Page ID and Page Token:** They should automatically appear after typing your target Facebook Page.
 
 Click _**Next**_.
 

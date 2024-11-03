@@ -46,17 +46,19 @@ When testing your MS Teams integration, make sure you’re using a different ema
 
 <figure><img src="../../../.gitbook/assets/image (222).png" alt="The Captivate Chat MS Teams App will provide a notification in the connected Chat Flow&#x27;s General chat that a user wants to connect to a Live Agent."><figcaption><p>The Captivate Chat MS Teams App will provide a notification in the connected Chat Flow's General chat that a user wants to connect to a Live Agent.</p></figcaption></figure>
 
-Go to Microsoft Teams. Wait for the **Chat Flow > General** to receive an update.&#x20;
+Go to Microsoft Teams. Wait for the **C**_**hat Flow > General**_ to receive an update.&#x20;
 
-Since you’re the only Live Agent in your Chat Flow for now, the update will state that the test conversation will automatically be assigned to you.
+Since you’re the only Live Agent in your Chat Flow for now, the update will state that the test conversation will automatically be assigned to you.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (225).png" alt="When the new user chat notification appears, clicking it will reveal a text box that agents can reply to in order to respond to the user."><figcaption><p>When the new user chat notification appears, clicking it will reveal a text box that agents can reply to in order to respond to the user.</p></figcaption></figure>
+
+The notification will now contain a text box where you can type a greeting.&#x20;
 
 Greet the user.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (228).png" alt="Answering the first text box that appears with the new user chat notification will create a new chat under the Agent Name&#x27;s group chat. This will be named after the user who just asked a query. Their conversation will load in this chat, and agentscan reply using this chat."><figcaption><p>Answering the first text box that appears with the new user chat notification will create a new chat under the Agent Name's group chat. This will be named after the user who just asked a query. Their conversation will load in this chat, and agentscan reply using this chat.</p></figcaption></figure>
 
-After greeting the user, Captivate Chat will transition your conversation into a separate chat under your **Agent Name** group chat. The new conversation will have the name of the user you're currently talking to.&#x20;
+After greeting the user, Captivate Chat will transition your conversation into a separate chat under your _**Agent Name**_ group chat. The new conversation will have the name of the user you're currently talking to.&#x20;
 
 ## Check the dialogue in your Channel
 

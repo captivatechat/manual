@@ -1,14 +1,16 @@
 # Connect your Chat Flow
 
-It’s time to connect your Chat Flow!
 
-In the same conversation with the Captivate Chat MS Teams App, you will be prompted to connect a Chat Flow to Microsoft Teams.&#x20;
-
-Click  ![Click the purple "Link" button in the Captivate Chat MS Teams App to start the process of loading available Chat Flows for linking to MS Teams.](<../../../.gitbook/assets/image (206).png>)..
 
 <figure><img src="../../../.gitbook/assets/image (254).png" alt="This white &#x22;Connect your team to a chat flow&#x22; selection appears after users click the purple &#x22;Link&#x22; button in the Captivate Chat MS Teams App. There will be a drop down menu to select Chat Flows."><figcaption><p>This white "Connect your team to a chat flow" selection appears after users click the purple "Link" button in the Captivate Chat MS Teams App. There will be a drop-down menu to select Chat Flows.</p></figcaption></figure>
 
-Wait for the response. A new message called ![This white "Connect your team to a chat flow" selection appears after users click the purple "Link" button in the Captivate Chat MS Teams App. There will be a drop down menu to select Chat Flows.](<../../../.gitbook/assets/image (210).png>) will appear that contains a drop-down list. This has all the Chat Flows you created in Captivate Chat so far.
+After logging into your Captivate Chat account via the Captivate Chat MS Teams App, you will be prompted to connect a Chat Flow to Microsoft Teams.&#x20;
+
+Click  ![Click the purple "Link" button in the Captivate Chat MS Teams App to start the process of loading available Chat Flows for linking to MS Teams.](<../../../.gitbook/assets/image (206).png>)..
+
+Wait for the response.&#x20;
+
+A new message called ![This white "Connect your team to a chat flow" selection appears after users click the purple "Link" button in the Captivate Chat MS Teams App. There will be a drop down menu to select Chat Flows.](<../../../.gitbook/assets/image (210).png>) will appear that contains a drop-down list. This has all the Chat Flows you created in Captivate Chat so far.
 
 <figure><img src="../../../.gitbook/assets/image (253).png" alt="After clicking the purple &#x22;Link&#x22; button, a drop down menu appears with a list of Chat Flows that are currently assigned to MS Teams back in Captivate Chat - Setup > Chat Flows."><figcaption><p>After clicking the purple "Link" button, a drop down menu appears with a list of Chat Flows that are currently assigned to MS Teams back in Captivate Chat - Setup > Chat Flows.</p></figcaption></figure>
 
