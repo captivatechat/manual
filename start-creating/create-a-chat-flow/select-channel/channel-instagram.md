@@ -9,9 +9,12 @@ description: Set your AI Assistant as a Chatbot of an Instagram Page
 After _**Select Channel > Instagram**_, you will be taken to **Configure Instagram**. This is where you can integrate your AI Chatbot as the assigned bot of your Instagram Page.
 
 {% hint style="danger" %}
-**Make sure you have connected accounts**
+**REQUIREMENTS**
 
-Our integration only works if you have a **Professional Instagram Account** connected to a **Facebook Business Account.**
+Before proceeding with the rest of the Instagram integration process, make sure you have the following:
+
+* **Instagram Professional Account:** Your business or brand must have a **Professional Instagram Account**. It cannot be a personal account.&#x20;
+* **Facebook Business Account:** Your **Professional Instagram Account** must be connected to a Facebook Business Account. Make sure it is a **verified** account by following the steps in this [guide from Meta](https://www.facebook.com/business/help/2058515294227817?id=180505742745347).
 {% endhint %}
 
 ## Configure Instagram
