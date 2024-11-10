@@ -12,6 +12,12 @@
     * [My AI Chatbots](dashboard/homepage/setup/my-ai-chatbots.md)
     * [Chat Flows](dashboard/homepage/setup/chat-flows.md)
   * [Transcripts](dashboard/homepage/transcripts.md)
+  * [Tokens](dashboard/homepage/tokens.md)
+  * [Settings](dashboard/homepage/settings/README.md)
+    * [Edit Profile](dashboard/homepage/settings/edit-profile.md)
+    * [Manage Plan](dashboard/homepage/settings/manage-plan.md)
+    * [Account Details](dashboard/homepage/settings/account-details.md)
+    * [Referrals](dashboard/homepage/settings/referrals.md)
 
 ## START CREATING
 

@@ -12,7 +12,7 @@ To maintain an existing AI Chatbot, select the tile from the list provided.  You
 
 ## Click the tile settings
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt="Click the hamburger tile menu beside the AI Chatbot of your choice to access its settings. You can edit the AI Chatbot to go through the AI Chatbot creation process, make a copy, upload new data, do testing, or delete it entirely."><figcaption><p>Click the hamburger tile menu beside the AI Chatbot of your choice to access its settings. You can edit the AI Chatbot to go through the AI Chatbot creation process, make a copy, upload new data, do testing, or delete it entirely.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt="Click the hamburger tile menu beside the AI Chatbot of your choice to access its settings. You can edit the AI Chatbot to go through the AI Chatbot creation process, make a copy, upload new data, do testing, or delete it entirely."><figcaption><p>Click the hamburger tile menu beside the AI Chatbot of your choice to access its settings. You can edit the AI Chatbot to go through the AI Chatbot creation process, make a copy, upload new data, do testing, or delete it entirely.</p></figcaption></figure>
 
 You can modify your AI Chatbot by **clicking settings (** ![Click the hamburger tile menu beside the AI Chatbot of your choice to access its settings. You can edit the AI Chatbot to go through the AI Chatbot creation process, make a copy, upload new data, do testing, or delete it entirely.](<../../.gitbook/assets/image (13) (1).png>) **)** and choosing an action you want accomplish:&#x20;
 

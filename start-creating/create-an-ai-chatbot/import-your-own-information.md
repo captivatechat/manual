@@ -26,7 +26,7 @@ To start adding data to your chatbot, click  !["Import Your Own Information" but
 
 ### Adding files and URLs to import
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt="Use the blue &#x22;Import&#x22; button to open the &#x22;Import&#x22; menu in order to add files and/or URLs to your Chatbot&#x27;s database"><figcaption><p>Use the blue "Import" button to open the "Import" menu in order to add files and/or URLs to your Chatbot's database</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt="Use the blue &#x22;Import&#x22; button to open the &#x22;Import&#x22; menu in order to add files and/or URLs to your Chatbot&#x27;s database"><figcaption><p>Use the blue "Import" button to open the "Import" menu in order to add files and/or URLs to your Chatbot's database</p></figcaption></figure>
 
 An _**Import**_ pop-up window should appear. You can either:
 
@@ -35,7 +35,7 @@ An _**Import**_ pop-up window should appear. You can either:
 
 Once you have completed the files or webpages you want to import click on the ![Use the blue "Import" button to open the "Import" menu in order to add files and/or URLs to your Chatbot's database](<../../.gitbook/assets/image (25) (1).png>)button.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="After you upload your data and click the &#x22;Import&#x22; button in the &#x22;Import&#x22; menu, you will be taken to the &#x22;Proceed with Ingestion?&#x22; window. You will be given an estimated number of tokens required to ingest the data you just uploaded. Click &#x22;Import Selected&#x22; to proceed."><figcaption><p>After you upload your data and click the "Import" button in the "Import" menu, you will be taken to the "Proceed with Ingestion?" window. You will be given an estimated number of tokens required to ingest the data you just uploaded. Click "Import Selected" to proceed.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="After you upload your data and click the &#x22;Import&#x22; button in the &#x22;Import&#x22; menu, you will be taken to the &#x22;Proceed with Ingestion?&#x22; window. You will be given an estimated number of tokens required to ingest the data you just uploaded. Click &#x22;Import Selected&#x22; to proceed."><figcaption><p>After you upload your data and click the "Import" button in the "Import" menu, you will be taken to the "Proceed with Ingestion?" window. You will be given an estimated number of tokens required to ingest the data you just uploaded. Click "Import Selected" to proceed.</p></figcaption></figure>
 
 You will be asked to pay a number of tokens to ingest the URL or PDF you've just uploaded. Click ![ Click "Import Selected" in "Proceed with Ingestion?" menu to start ingesting your uploaded information or data.](<../../.gitbook/assets/image (255).png>) to proceed.
 
@@ -73,7 +73,7 @@ If you make any major changes to your resources, disable their original iteratio
 
 ### Restrict Data from Internet
 
-<figure><img src="../../.gitbook/assets/image.png" alt="A &#x22;Restrict Data from Internet&#x22; toggle is located in the &#x22;Import Your Own Information&#x22; page during AI Chatbot setup. Toggle this to &#x22;Active&#x22; to restrict AI Chatbots into just using the information it contains, and toggle this it &#x22;Inactive&#x22; to allow AI Chatbots to search the internet for information."><figcaption><p>A "Restrict Data from Internet" toggle is located in the "Import Your Own Information" page during AI Chatbot setup. Toggle this to "Active" to restrict AI Chatbots into just using the information it contains, and toggle this it "Inactive" to allow AI Chatbots to search the internet for information.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt="A &#x22;Restrict Data from Internet&#x22; toggle is located in the &#x22;Import Your Own Information&#x22; page during AI Chatbot setup. Toggle this to &#x22;Active&#x22; to restrict AI Chatbots into just using the information it contains, and toggle this it &#x22;Inactive&#x22; to allow AI Chatbots to search the internet for information."><figcaption><p>A "Restrict Data from Internet" toggle is located in the "Import Your Own Information" page during AI Chatbot setup. Toggle this to "Active" to restrict AI Chatbots into just using the information it contains, and toggle this it "Inactive" to allow AI Chatbots to search the internet for information.</p></figcaption></figure>
 
 One additional feature is the ability to force your AI Chatbot to only use data it can gather from your resources instead of getting more insights from the internet. This can be done by toggling **Active/Inactive** at the right-hand side of the screen.&#x20;
 

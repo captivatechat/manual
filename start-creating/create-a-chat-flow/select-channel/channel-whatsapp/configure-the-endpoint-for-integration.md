@@ -8,8 +8,8 @@ description: Finish setting up your WhatsApp Chat Flow
 
 Once you have your WhatsApp Sender approved, they should appear in the _WhatsApp Senders_ list on Twilio. Access this again by going to your Twilio Console and:
 
-1. Click ![The Messaging dropdown in the Twilio dashboard appears on the left-hand menu.](<../../../../.gitbook/assets/image (10).png>) in the left-hand menu.&#x20;
-2. From the drop-down menu, find ![After clicking the Messaging dropdown button, find the Senders drop down button and click it.](<../../../../.gitbook/assets/image (11).png>) _**>**_ ![After going to Messaging > Senders in the Twilio Dashboard, find WhatsApp senders. Click it to open the WhatsApp senders page in Twilio.](<../../../../.gitbook/assets/image (12).png>)
+1. Click ![The Messaging dropdown in the Twilio dashboard appears on the left-hand menu.](<../../../../.gitbook/assets/image (10) (1).png>) in the left-hand menu.&#x20;
+2. From the drop-down menu, find ![After clicking the Messaging dropdown button, find the Senders drop down button and click it.](<../../../../.gitbook/assets/image (11) (1).png>) _**>**_ ![After going to Messaging > Senders in the Twilio Dashboard, find WhatsApp senders. Click it to open the WhatsApp senders page in Twilio.](<../../../../.gitbook/assets/image (12) (1).png>)
 
 From this list on Twilio, click the WhatsApp number you dedicated to your AI Chatbot.
 
