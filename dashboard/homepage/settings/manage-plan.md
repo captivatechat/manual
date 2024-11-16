@@ -16,10 +16,10 @@ Use the _**Manage Plane**_ tab of the account settings view to see and/or change
 
 There are currently three (3) different Captivate Chat plans you can choose from:
 
-|                                   |                 |                                             |                                                      |
+|                                   |    Basic Plan   |                   Pro Plan                  |                    Customized Plan                   |
 | :-------------------------------: | :-------------: | :-----------------------------------------: | :--------------------------------------------------: |
 |          **Included Bot**         |   Open AI GPT   |                 Open AI GPT                 | Any Bot (Unlimited AI Engineering hours every month) |
 | **Number of Agents and Channels** |    Unlimited    |                  Unlimited                  |          Unlimited (including Integrations)          |
 |   **Number of Tokens Per Month**  | Up to 1 Million | Up to 5 Million (buy extra 500k for USD 29) |                       Unlimited                      |
-|       **Bill (if Monthly)**       |      USD 29     |                    USD 99                   |                          POA                         |
-|       **Bill (if Annually)**      |     USD 300     |                   USD 999                   |                          POA                         |
+|     **Bill (if Paid Monthly)**    |      USD 29     |                    USD 99                   |                          POA                         |
+|    **Bill (if Paid Annually)**    |     USD 300     |                   USD 999                   |                          POA                         |
