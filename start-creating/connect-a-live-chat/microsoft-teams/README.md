@@ -26,7 +26,7 @@ Before trying to link your Chat Flows to your Microsoft Teams, here are some req
 
 * **Chat Flow set to MS Teams Live Chat:** You should choose "MS Teams" as your Live Chat while setting up your Chat Flow. This makes it detectable in the Captivate Chat MS Teams App. Do this in _"Step 3: Select Live Chat Vendor"_ in the Chat Flow creation process.&#x20;
 * **Microsoft Teams channel:** Your company must have a Microsoft Teams channel.&#x20;
-* **Identical Microsoft Teams and Captivate Chat email:** Your MS Teams and Captivate Chat account must have the same email.&#x20;
+* **Identical Microsoft Teams and Captivate Chat email:** The Captivate Chat MS Teams App under your MS Teams email can only access Chat Flows created by the Captivate Chat of your same email.&#x20;
 * **Captivate Chat MS Teams App:** You have to install the Captivate Chat MS Teams App. It's available in your MS Teams Apps page.
 {% endhint %}
 
