@@ -17,5 +17,3 @@ Creating a Chat Flow takes a few clicks. The steps in creating a Chat Flow will 
 4. **Choose your Live Chat service:** In _Step 3: Select Live Chat Vendor_, you will choose what Live Chat service your AI Chatbot will connect to if a customer asks for an agent from your team.&#x20;
 5. **Set up your Live Chat service:** Connect Captivate Chat to the Live Chat service you have chosen in _Step 3_. It will have different instructions per service, but this usually involves installing a service-exclusive Captivate Chat app.&#x20;
 {% endhint %}
-
-To create a Chat Flow, follow these steps:&#x20;
