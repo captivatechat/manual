@@ -16,7 +16,7 @@ Click on ![The +AI Chatbot button in "My AI Chatbots" page can create a new Chat
 
 ### AI Chatbot Tile
 
-<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt="A list of AI Chatbots containing a unique title and icon. The selected AI Chatbot is in dark blue."><figcaption><p>A list of AI Chatbots containing a unique title and icon. The selected AI Chatbot is in dark blue.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1).png" alt="A list of AI Chatbots containing a unique title and icon. The selected AI Chatbot is in dark blue."><figcaption><p>A list of AI Chatbots containing a unique title and icon. The selected AI Chatbot is in dark blue.</p></figcaption></figure>
 
 Each AI Chatbot in your account is represented by an AI Chatbot Tile. Selecting a tile allows you to modify it in a variety of ways.
 

@@ -6,9 +6,124 @@ description: >-
 
 # 📕 Changelog
 
-## 📆 v2.2.3 - 2023-04-13
+## 📆 v3.2.0 - 2024-10-02
 
-We'll be adding more changes soon!
+### ✅ Added
+
+* **Token Metrics** are now revealed for major AI Chatbot uses such as ingesting information, training, and various conversations to aid payment tracking.
+* **AI Chatbots** now have a limiter and organizer to maximize Token usage without overwhelming their systems. This should lessen situations of AI Chatbots randomly slowing down.&#x20;
+
+### 🟧 Changed
+
+* **Web Widget Preview:** The Web Widget Preview now has a more noticeable _Page Settings_ button to access its features.
+* **Import Your Own Information (AI Chatbots):** Pagination should now reveal ingested PDFs and URLs in sets of 10 for more efficient compilation and access to users.&#x20;
+
+### ⚠️ Fixed
+
+* Made minor adjustments to the UI to improve accessibility and encourage a more engaging experience.&#x20;
+* Streamlined Token tracking so users are immediately notified if they have run out of Tokens.
+* Ensured that **delete** information (URLs, PDFs, accounts) are permanently deleted as intended.&#x20;
+* **Microsoft Teams:** Transcripts of the AI Chatbot's conversation with a user are now retained when their concern is escalated to a Live Chat agent in MS Teams.
+
+### 🆕 Token Metrics
+
+<figure><img src=".gitbook/assets/image (6).png" alt="Tokens are now tracked throughout Captivate Chat features. The main Token count is revealed on the left side of the dashboard at all times, giving users an idea how many Tokens they have consumed, when their next Monthly Usage Reset would be, and any Extra Tokens they possess."><figcaption><p>Tokens are now tracked throughout Captivate Chat features. The main Token count is revealed on the left side of the dashboard at all times, giving users an idea how many Tokens they have consumed, when their next Monthly Usage Reset would be, and any Extra Tokens they possess.</p></figcaption></figure>
+
+The Captivate Chat platform will now show **token metrics** to keep track of your Tokens whenever you use them across various parts of the platform. These include:
+
+* Ingesting data that are uploaded into the system.
+* Conversations between users and the AI Chatbots they create.
+* Testing and deploying AI Chatbots in various platforms.
+
+These token metrics can aid in managing your Captivate Chat plan, as major AI functionalities of the platform rely heavily in Token usage.
+
+In line with this new change, we are also going to **actively track** Token usage across the platform and notify users whenever they have to purchase more Tokens.&#x20;
+
+### 🆕We revamped the Web Widget Preview
+
+<figure><img src=".gitbook/assets/image (8).png" alt="The Web Widget Preview of Setup > Chat Flow > Channels > Web Widget is revamped with a more streamlined look."><figcaption><p>The Web Widget Preview of Setup > Chat Flow > Channels > Web Widget is revamped with a more streamlined look.</p></figcaption></figure>
+
+We've upgraded the look of our **Web Widget Preview**!&#x20;
+
+You can now preview your Web Widget Chat Flow with a completely revamped background.
+
+<figure><img src=".gitbook/assets/image (7).png" alt="The Web Widget Preview of Setup > Chat Flow > Channels > Web Widget now has a more visible &#x22;Page Settings&#x22; button to edit the live preview."><figcaption><p>The Web Widget Preview of Setup > Chat Flow > Channels > Web Widget now has a more visible "Page Settings" button to edit the live preview.</p></figcaption></figure>
+
+The ![](<.gitbook/assets/image (9).png>) button is now more visible and accessible, making it much easier for users to modify their live preview setup.&#x20;
+
+***
+
+## 📆 v3.1.1 - 2024-09-19
+
+### ✅ Added
+
+* **Makeover!** We've updated the Captivate Chat website to feature our new logos!
+* **Edit AI Chatbots while making Chat Flows!** You can now directly modify your AI Chatbots while creating your Chat Flows.&#x20;
+
+### 🟧 Changed
+
+* **Transcripts** now feature a separate **Date Range** filter instead of the previous **By Date** sorting filter.&#x20;
+
+### ⚠️ Fixed
+
+* Fixed a bug that doesn't load the complete list of ingested content for some Chat Flows.
+* **Chat Flow > Channel > Web Widget:** Fixed a typo. There is now an _"Embed Web Widget"_ option instead of the previous _"Embed Live Chat"_ option.
+
+### 🆕 Website Makeover!
+
+<figure><img src=".gitbook/assets/image (4).png" alt="The new Captivate Chat website featuring its updated logo with a blue color palette. "><figcaption><p>The new Captivate Chat website featuring its updated logo with a blue color palette. </p></figcaption></figure>
+
+We're giving the Captivate Chat website a major makeover!&#x20;
+
+This new update features **new logos** we've prepared for Captivate Chat, now featuring a sleek blue color palette designed to evoke a more professional and relaxing atmosphere.&#x20;
+
+### 🆕 Edit your AI Chatbots while making Chat Flows
+
+<figure><img src=".gitbook/assets/image (5).png" alt="Users can now click the three dots above their AI Chatbot choice in Setup > Chat Flow > My AI Chatbots to directly modify their AI Chatbots during the Chat Flow creation process."><figcaption><p>Users can now click the three dots above their AI Chatbot choice in Setup > Chat Flow > My AI Chatbots to directly modify their AI Chatbots during the Chat Flow creation process.</p></figcaption></figure>
+
+We know that creating an AI Chatbot from scratch is wildly different when compared to connecting them to the rest of your Channels and Live Chats via a Chat Flow, as there are things you would only notice about your AI Chatbot after bringing everything together.
+
+It's for this reason that we added a new feature that lets you **edit your AI Chatbots during the Chat Flow creation process**. After clicking _Setup > Chat Flow_, the list of AI Chatbots present in _My AI Chatbots_ menu now feature a three dots that enable you to edit them straight in the Chat Flow-creation process.
+
+This means you no longer have to go all the way back to _Setup > AI Chatbot_ just to modify an AI Chatbot you'd use for your current Chat Flow - you can do everything in one convenient location.
+
+***
+
+## 📆 v3.0.0 - 2024-09-18
+
+### ✅ Added
+
+* **Incident Tracker** now informs users whenever Captivate Chat services are down.
+* **Overwrite Warning** will inform users that changing the Channel of an existing Chat Flow will remove their current setup.&#x20;
+
+### 🟧 Changed
+
+* **Transcripts** now feature various options to simplify their use, such as sorting and deletion options.
+
+### ⚠️ Fixed
+
+* AI Chatbots now properly recognizes postal codes of locations.
+* AI Chatbots no longer declares in a separate chat message that they are checking for available Live Chat agents upon request, as we already have a preset message prepared when users ask to be escalated to a Live Chat agent.&#x20;
+* **AI Chatbots > Select Type:** Removed a bug that triggers the _"Submit & Test"_ function whenever users select a tooltip.&#x20;
+
+### 🆕 Overwrite Warning (Chat Flow)
+
+<figure><img src=".gitbook/assets/image.png" alt="Trying to change the Channel of an existing Chat Flow will now provide a warning to users that doing so will overwrite their existing data."><figcaption><p>Trying to change the Channel of an existing Chat Flow will now provide a warning to users that doing so will overwrite their existing data.</p></figcaption></figure>
+
+We have included an **override warning** in Chat Flows that will activate whenever users try to change the Channel of an existing Chat Flow. Undergoing this process will overwrite their data, and any overwritten data can no longer be retrieved.
+
+It's advisable for users to duplicate their existing Chat Flow before switching Channels, as doing so will force them to start creating their Chat Flow from scratch.&#x20;
+
+
+
+### Transcript Options
+
+<figure><img src=".gitbook/assets/image (3).png" alt="The Transcript page offers various features such as a Search function, as well as sorting through Filters such as Email, Channel, or Chat Flow. There are options to pick a Date to sort lists of conversations, as well as the option to check multiple conversations for deletion."><figcaption><p>The Transcript page offers various features such as a Search function, as well as sorting through Filters such as Email, Channel, or Chat Flow. There are options to pick a Date to sort lists of conversations, as well as the option to check multiple conversations for deletion.</p></figcaption></figure>
+
+The **Transcript** page now offers different options for users to sort conversations detected by the Captivate Chat platform. These include the following:
+
+* **Checkbox selection of conversations.** You can also mass-delete these conversations by pressing the _**Delete**_ button, although this is irreversible.
+* **Sort by various filters**, such as Date the conversation occurred, the Email used, Channel where the conversation took place, and the Chat Flow that managed the conversation.
 
 ***
 

@@ -83,7 +83,7 @@ Click _**Next**_.
 
 ## Testing Facebook Configuration
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="After setting up your Facebook Chat Flow, go to the Facebook Page you just connected to Captivate Chat. Refresh the page and click the &#x22;Message&#x22; button. You should have automated responses as the AI Chatbot had just been deployed there."><figcaption><p>After setting up your Facebook Chat Flow, go to the Facebook Page you just connected to Captivate Chat. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="After setting up your Facebook Chat Flow, go to the Facebook Page you just connected to Captivate Chat. Refresh the page and click the &#x22;Message&#x22; button. You should have automated responses as the AI Chatbot had just been deployed there."><figcaption><p>After setting up your Facebook Chat Flow, go to the Facebook Page you just connected to Captivate Chat. </p></figcaption></figure>
 
 You can test your AI Chatbot in these ways:
 
@@ -91,13 +91,13 @@ You can test your AI Chatbot in these ways:
 
 Go to your Facebook Page.&#x20;
 
-Refresh the window if the tab was open while integrating the AI Chatbot into your Page. Click ![](<../../../.gitbook/assets/image (4) (1) (1) (1) (1).png>) at the top of the Page. &#x20;
+Refresh the window if the tab was open while integrating the AI Chatbot into your Page. Click ![](<../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png>) at the top of the Page. &#x20;
 
 <figure><img src="../../../.gitbook/assets/image (35).png" alt="After clicking the &#x22;Message&#x22; button, you should receive automated responses, as the AI Chatbot has just been deployed there."><figcaption><p>After clicking the "Message" button, you should receive automated responses, as the AI Chatbot has just been deployed there.</p></figcaption></figure>
 
 The AI Chatbot should pop out and present default options. Choose either of these questions.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="Test your new Facebook Chat Flow by typing a message. The page should automatically respond."><figcaption><p>Test your new Facebook Chat Flow by typing a message. The page should automatically respond.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="Test your new Facebook Chat Flow by typing a message. The page should automatically respond."><figcaption><p>Test your new Facebook Chat Flow by typing a message. The page should automatically respond.</p></figcaption></figure>
 
 If the integration is successful, your AI Chatbot should respond automatically. After this message, you can start talking to it.
 
@@ -105,15 +105,15 @@ If the integration is successful, your AI Chatbot should respond automatically. 
 
 Go to your Facebook Messenger app.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt="In Facebook Messenger, type the name of your Facebook Page."><figcaption><p>In Facebook Messenger, type the name of your Facebook Page.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt="In Facebook Messenger, type the name of your Facebook Page."><figcaption><p>In Facebook Messenger, type the name of your Facebook Page.</p></figcaption></figure>
 
 If you want to talk to your AI Chatbot for the first time, look for your Facebook Page via the Messenger search bar.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt="After clicking the name of your Facebook Page, you should see automated responses in your chat. This means your AI Chatbot has been deployed successfully.  " width="188"><figcaption><p>After clicking the name of your Facebook Page, you should see automated responses in your chat. This means your AI Chatbot has been deployed successfully.  </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt="After clicking the name of your Facebook Page, you should see automated responses in your chat. This means your AI Chatbot has been deployed successfully.  " width="188"><figcaption><p>After clicking the name of your Facebook Page, you should see automated responses in your chat. This means your AI Chatbot has been deployed successfully.  </p></figcaption></figure>
 
 When you click your Facebook Page name, your AI Chatbot will reveal a set of default questions. Click any of these questions.
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt="Type a question in your conversation with your AI Chatbot in Facebook Messenger. You should receive an automated response." width="188"><figcaption><p>Type a question in your conversation with your AI Chatbot in Facebook Messenger. You should receive an automated response.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt="Type a question in your conversation with your AI Chatbot in Facebook Messenger. You should receive an automated response." width="188"><figcaption><p>Type a question in your conversation with your AI Chatbot in Facebook Messenger. You should receive an automated response.</p></figcaption></figure>
 
 If the integration is successful, your AI Chatbot should respond automatically. After this message, you can start talking to it.
 

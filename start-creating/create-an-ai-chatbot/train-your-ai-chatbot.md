@@ -50,7 +50,7 @@ Once done, click ![Click "+Add to Q\&A" to override the "Current Answer" with th
 
 ## Trained Questions and Answers
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt="The &#x22;Trained Questions and Answers&#x22; part of the &#x22;Train Your AI Chatbot&#x22; page will contain the Test Question and the Correct Answer you&#x27;ve just submitted."><figcaption><p>The "Trained Questions and Answers" part of the "Train Your AI Chatbot" page will contain the Test Question and the Correct Answer you've just submitted.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="The &#x22;Trained Questions and Answers&#x22; part of the &#x22;Train Your AI Chatbot&#x22; page will contain the Test Question and the Correct Answer you&#x27;ve just submitted."><figcaption><p>The "Trained Questions and Answers" part of the "Train Your AI Chatbot" page will contain the Test Question and the Correct Answer you've just submitted.</p></figcaption></figure>
 
 The _**Trained Questions and Answers**_ segment contains the list of Questions, Correct Answers, and Messages that have been inserted by the user.&#x20;
 

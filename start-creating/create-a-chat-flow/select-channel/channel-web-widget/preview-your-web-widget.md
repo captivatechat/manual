@@ -8,7 +8,7 @@ After creating your Web Widget, you can preview how it looks like right from the
 
 <figure><img src="../../../../.gitbook/assets/image (288).png" alt="After creating a Web Widget Chat Flow, go to Setup > Chat Flows in Captivate Chat. Look for your new Web Widget Chat Flow. It should say &#x22;Web Widget&#x22; under the Channel column."><figcaption><p>After creating a Web Widget Chat Flow, go to Setup > Chat Flows in Captivate Chat. Look for your new Web Widget Chat Flow. It should say "Web Widget" under the Channel column.</p></figcaption></figure>
 
-From your list of Chat Flows, hover your cursor over the ![The "Web Widget" text under the Channel column of your Web Widget Chat Flow is clickable. It will reveal the Widget Code and a "View Widget" button to take you to a preview.](<../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png>) icon. It should become clickable. Once you press it, the Widget Code should appear.
+From your list of Chat Flows, hover your cursor over the ![The "Web Widget" text under the Channel column of your Web Widget Chat Flow is clickable. It will reveal the Widget Code and a "View Widget" button to take you to a preview.](<../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>) icon. It should become clickable. Once you press it, the Widget Code should appear.
 
 ***
 
@@ -18,7 +18,7 @@ From your list of Chat Flows, hover your cursor over the ![The "Web Widget" text
 
 This is the same Widget Code that appears in the final step of [.](./ "mention") instructions.&#x20;
 
-Click ![The "View Widget" button of the Widget Code window will lead users to a live preview of your Web Widget in a sample webpage.](<../../../../.gitbook/assets/image (3) (1) (1) (1).png>)  to see your Web Widget in a live preview.
+Click ![The "View Widget" button of the Widget Code window will lead users to a live preview of your Web Widget in a sample webpage.](<../../../../.gitbook/assets/image (3) (1) (1) (1) (1).png>)  to see your Web Widget in a live preview.
 
 {% hint style="warning" %}
 **Give the Widget Code to your Web Administrator!**
@@ -73,7 +73,7 @@ Under _**Select Background Type**_, you can choose either a **Web** or **Image**
 
 <figure><img src="../../../../.gitbook/assets/image (293).png" alt="The Web Widget Preview webpage changes into the static background of your choice after uploading an image or inserting a URL in the &#x22;Background Type&#x22; section. "><figcaption><p>The Web Widget Preview webpage changes into the static background of your choice after uploading an image or inserting a URL in the "Background Type" section. </p></figcaption></figure>
 
-Click ![After uploading an image in the "Background Type" of the "Page Settings" of the Web Widget Preview webpage, click "Apply" in "Page Settings" to apply the changes.](<../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>) once you're ready to apply the new background. This shows a static (non-moving) version of your source URL or image. You can still interact with your Web Widget prototype like in the first version of the preview. However, this time you can now see how your Web Widget looks like when placed in your website.
+Click ![After uploading an image in the "Background Type" of the "Page Settings" of the Web Widget Preview webpage, click "Apply" in "Page Settings" to apply the changes.](<../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png>) once you're ready to apply the new background. This shows a static (non-moving) version of your source URL or image. You can still interact with your Web Widget prototype like in the first version of the preview. However, this time you can now see how your Web Widget looks like when placed in your website.
 
 {% hint style="info" %}
 **Use the static preview to change the colors of your Web Widget!**
