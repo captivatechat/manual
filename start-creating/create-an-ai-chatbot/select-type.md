@@ -68,7 +68,7 @@ You can find some inspiration from the preset answers included in the AI Assista
 
 <figure><img src="../../.gitbook/assets/image (110).png" alt="The &#x22;Free Format&#x22; tab under &#x22;Customize Type&#x22; after clicking &#x22;Customize (Advanced)&#x22; in the &#x22;Select Type&#x22; page of the AI Chatbot creation process. This &#x22;Free Format&#x22; tab has one textbox where users can create the AI Chatbot prompt from scratch."><figcaption><p>The "Free Format" tab under "Customize Type" after clicking "Customize (Advanced)" in the "Select Type" page of the AI Chatbot creation process. This "Free Format" tab has one textbox where users can create the AI Chatbot prompt from scratch.</p></figcaption></figure>
 
-Alternatively, you can choose the _**Customize Type (Free Format)**_ tab to create your own instructions. There is a sample in the _**Custom Prompts** t_ext box so you can have a basis on how you can instruct your customized AI Chatbot.
+Alternatively, you can choose the _**Customize Type (Free Format)**_ tab to create your own instructions. There is a sample in the _**Custom Prompts** &#x74;_&#x65;xt box so you can have a basis on how you can instruct your customized AI Chatbot.
 
 The **Custom Prompts** text box is a fully customizable prompt with no formatting, allowing you to write elaborate instructions without the constraints of the Structured format.
 

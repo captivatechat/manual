@@ -23,7 +23,7 @@ You can modify your Chat Flow by **clicking settings (** ![The hamburger icon in
 * **Delete**
 
 {% hint style="warning" %}
-**Returning to **_**+Chat Flow**_
+**Returning to&#x20;**_**+Chat Flow**_
 
 Clicking _Edit Chat Flow_ will return users to **the beginning of the** _**+Chat Flow**_ process.&#x20;
 {% endhint %}

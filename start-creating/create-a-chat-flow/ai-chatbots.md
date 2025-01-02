@@ -24,8 +24,8 @@ Click the Chatbot you want to use. Make sure it is fully functional.&#x20;
 
 If you want to check its details, click ![If you select an existing AI Chatbot during the "Step 1: My AI Chatbots" of the Chat Flow set up process, you can click the "Next: Import your Information" button to upload data to be ingested. ](<../../.gitbook/assets/image (160).png>). It will take you to the same steps of this page:
 
-{% content-ref url="../create-an-ai-chatbot/import-your-own-information.md" %}
-[import-your-own-information.md](../create-an-ai-chatbot/import-your-own-information.md)
+{% content-ref url="../create-an-ai-chatbot/import-your-own-information/" %}
+[import-your-own-information](../create-an-ai-chatbot/import-your-own-information/)
 {% endcontent-ref %}
 
 ## Next steps

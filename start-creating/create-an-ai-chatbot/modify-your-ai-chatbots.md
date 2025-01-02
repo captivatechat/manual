@@ -24,7 +24,7 @@ You can modify your AI Chatbot by **clicking settings (** ![Click the hamburger 
 * **\*Train:** Improves the AI Chatbot through training.&#x20;
 
 {% hint style="warning" %}
-**Returning to **_**+AI Chatbot**_
+**Returning to&#x20;**_**+AI Chatbot**_
 
 Options above with an asterisk (\*) (_**Edit, Add Information, Add Integration, Train**_**)** will return users back to their chosen AI Chatbot's respective _**+AI Chatbot**_ steps.&#x20;
 {% endhint %}
@@ -38,7 +38,7 @@ Options above with an asterisk (\*) (_**Edit, Add Information, Add Integration, 
 Choosing _**Edit**_ after **clicking settings (** ![Click the hamburger tile menu beside the AI Chatbot of your choice to access its settings. You can edit the AI Chatbot to go through the AI Chatbot creation process, make a copy, upload new data, do testing, or delete it entirely.](<../../.gitbook/assets/image (13) (1).png>) **)** or ![Click the "Edit" button either from the hamburger tile menu or on the lower right side of the "My AI Chatbots" window to edit specific parts of the AI Chatbot.](<../../.gitbook/assets/image (16) (1).png>) on the lower right-hand side of the screen.
 
 {% hint style="warning" %}
-**Returning to **_**+AI Chatbot**_
+**Returning to&#x20;**_**+AI Chatbot**_
 
 Both versions of _Edit_ will return users to **the beginning of the** _**+AI Chatbot**_ process.&#x20;
 {% endhint %}

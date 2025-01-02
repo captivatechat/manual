@@ -44,7 +44,7 @@ Your AI Chatbot can appear under a different public name through a Chat Flow, de
 As you work through the steps to define your AI Chatbot you can edit its Name or Logo by clicking on the **pencil icon** **(** ![Click the Pencil Icon at any point during the AI Chatbot customization phase to open the "Update AI Chatbot" menu.](<../../.gitbook/assets/image (46).png>) **)** in the field at the top of the page.&#x20;
 
 {% hint style="danger" %}
-**Reinsert the name and the logo of your AI Chatbot when you use **_**"Update AI Chatbot"**_&#x20;
+**Reinsert the name and the logo of your AI Chatbot when you use&#x20;**_**"Update AI Chatbot"**_&#x20;
 
 When you update your AI Chatbot via the "Update AI Chatbot" menu, you have to re-type its name and re-upload its logo.
 {% endhint %}

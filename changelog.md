@@ -6,6 +6,62 @@ description: >-
 
 # 📕 Changelog
 
+
+
+## 📆 v3.4.0 - 2024-12-03
+
+### ✅ Added
+
+* **Tutorials are live!** Learn the ropes in creating your AI Chatbots, Chat Flows, and Live Agent integrations within the Tutorial page of the Captivate Chat platform!
+* **Meet our Guidebot!** We've deployed our Guidebot within the Captivate Chat platform! Once you log in to your account, you can ask our Guidebot for any advice as well as tips and tricks on how to best use Captivate Chat for your needs!
+* We now support **SCA Stripe**. SCA, which stands for Strong Customer Authentication, allows us to offer more secure transactions when purchasing Captivate Chat Tokens or upgrading your subscriptions.
+* **Mobile Optimization notice** appears when users to try to access Captivate Chat on mobile platforms.&#x20;
+* **AI Chatbots:**
+  * **Select Integrations** within AI Chatbots are now fully functional. User emails and names will be sent to the platforms you integrated into the AI Chatbot during the AI Chatbot Creation and AI Chatbot Update processes.
+  * **URL Crawler** is now added under "Import Your Own Information" that auto-searches all URLs under a single URL. This will make importing groups of URLs under a "mother" URL much easier.&#x20;
+  * You can now set **session expiration timers** within an AI Chatbot so they can automatically end an inactive session after your specified period of time.
+
+### 🟧 Changed
+
+* **Our Token Estimator now uses Server-Sent Events (SSEs)**. Thanks to SSEs, we should be experiencing faster and more efficient resource management. With SSEs, AI Chatbots should be able to ingest new information much faster.
+* **Cost-Saving toggle for Chat Histories are available globally.** We will now provide a global toggle for users to choose if they want to view the full or AI-analyzed chat histories of their AI Chatbots.&#x20;
+  * This is unlike in previous versions, where this toggle is placed inside each AI Chatbot.&#x20;
+  * As per the previous version, the AI-analyzed chat histories will cost fewer tokens to produce.&#x20;
+
+### 🆕 Tutorials
+
+<figure><img src=".gitbook/assets/image (313).png" alt="The &#x22;Tutorial&#x22; page in the Captivate Chat platform contain videos that explain essential processes in using Captivate Chat. They are arranged in tiles, with a thumbnail and the name of the lesson."><figcaption><p>The "Tutorial" page in the Captivate Chat platform contain videos that explain essential processes in using Captivate Chat. They are arranged in tiles, with a thumbnail and the name of the lesson.</p></figcaption></figure>
+
+Learning about Captivate Chat has never been easier!
+
+Get in-depth tutorials on how to use the Captivate Chat platform using our **Tutorials** page! We have Tutorials for most of our processes in the platform, and we'll constantly update these Tutorials whenever we have major releases.&#x20;
+
+To access our Tutorials, simply click the ![The "Tutorials" button on the left side of the dashboard leads to the "Tutorial" page. The The "Tutorial" page in the Captivate Chat platform contain videos that explain essential processes in using Captivate Chat. They are arranged in tiles, with a thumbnail and the name of the lesson.](<.gitbook/assets/image (315).png>) button on the left side of the Captivate Chat dashboard.
+
+### 🆕 Select Integration
+
+<figure><img src=".gitbook/assets/image (316).png" alt="The &#x22;Select Integration&#x22; page of the AI Chatbot creation process will let users choose what platform they want to use to receive data from AI Chatbots. This integration will store the emails and names of users that ask an AI Chatbot to connect them to a Live Agent."><figcaption><p>The "Select Integration" page of the AI Chatbot creation process will let users choose what platform they want to use to receive data from AI Chatbots. This integration will store the emails and names of users that ask an AI Chatbot to connect them to a Live Agent.</p></figcaption></figure>
+
+The **Select Integration** page of the AI Chatbot creation process is now live. Users can use this page to customize where their AI Chatbots will send customer data whenever they ask AI Chatbots to connect them to Live Agents.&#x20;
+
+We currently offer HubSpot, Email, and Google Sheets as our integration platforms. As of now, we can only collect a user's name and email address.&#x20;
+
+### 🆕 URL Crawler
+
+<figure><img src=".gitbook/assets/image (317).png" alt="The &#x22;Import Your Own Information&#x22; page of the AI Chatbot creation process now features a URL Crawler. This is accessed via pressing the &#x22;Import Button.&#x22; With this, users can now enter one URL and it will take the first layer of URLs sharing its section. "><figcaption><p>The "Import Your Own Information" page of the AI Chatbot creation process now features a URL Crawler. This is accessed via pressing the "Import Button." With this, users can now enter one URL and it will take the first layer of URLs sharing its section. </p></figcaption></figure>
+
+We've added a **URL Crawler** to the "Import Your Own Information" page of the AI Chatbot creation process. Users can now choose to enter a URL and Captivate Chat will gather all relevant URLs of its similar section.
+
+### 🆕 Mobile Optimization Notice
+
+<figure><img src=".gitbook/assets/image (318).png" alt="The Captivate Chat platform can be opened in mobile browsers but it&#x27;s not yet optimized for mobile devices. We&#x27;ve added a Mobile Optimization Notice to warn users that while they can proceed to the Captivate Chat platform, its functions might not work properly in their device."><figcaption><p>The Captivate Chat platform can be opened in mobile browsers but it's not yet optimized for mobile devices. We've added a Mobile Optimization Notice to warn users that while they can proceed to the Captivate Chat platform, its functions might not work properly in their device.</p></figcaption></figure>
+
+We added a **Mobile Optimization Notice** for users trying to access our platform using their mobile devices.
+
+As have yet to fully optimize the Captivate Chat platform for mobile users, this means many functions of the Captivate Chat platform might not work properly in mobile browsers. You can continue to use the platform normally via mobile by clicking "Continue to Site" when you see the Mobile Optimization Notice.
+
+***
+
 ## 📆 v3.2.0 - 2024-10-02
 
 ### ✅ Added
@@ -178,7 +234,7 @@ Agent status demonstration
 
 ### 🆕 Manual Assignment (Livechats)
 
-You can now **activate **_**Manual Assignments**_ when configuring a Livechat.&#x20;
+You can now **activate&#x20;**_**Manual Assignments**_ when configuring a Livechat.&#x20;
 
 This allows **pre-made messages** to be sent after **meeting certain conditions**. Here are the properties you can modify:
 

@@ -62,7 +62,7 @@ Insert your own list of questions and answers as a CSV file instead of manually 
 
 After clicking ![Click the "+Add with CSV" button to submit a CSV spreadsheet file containing Q\&As that your AI Chatbot will refer to.](<../../.gitbook/assets/image (41).png>), a pop-up window should appear.
 
-In the _**Submit additional Q\&A**_ window**:**&#x20;
+In the _**Submit additional Q\&A**_ windo&#x77;**:**&#x20;
 
 * Drag the appropriate CSV (up to 100MB) containing the list of training questions and answers.
 * Click ![Use the "Submit Additional Q\&A" window to upload a CSV spreadsheet of Q\&A pairs you want your AI Chatbot to use. Click the "+Add Q\&A" button after uploading your CSV file to officially insert your Q\&A pairs into your AI Chatbot via the "Train Your AI Chatbot" page.](<../../.gitbook/assets/image (42).png>)

@@ -6,7 +6,7 @@ While AI Chatbots you create in Captivate Chat are extremely intelligent, they s
 
 AI Chatbots and Tokens interact through the following processes:
 
-* **Ingesting resources:** Documents you upload and URLs you provide under [import-your-own-information.md](../../start-creating/create-an-ai-chatbot/import-your-own-information.md "mention") as well as Q\&A CSVs you upload in [train-your-ai-chatbot.md](../../start-creating/create-an-ai-chatbot/train-your-ai-chatbot.md "mention") need Tokens to be ingested and properly analysed by your AI Chatbot.&#x20;
+* **Ingesting resources:** Documents you upload and URLs you provide under [import-your-own-information](../../start-creating/create-an-ai-chatbot/import-your-own-information/ "mention") as well as Q\&A CSVs you upload in [train-your-ai-chatbot.md](../../start-creating/create-an-ai-chatbot/train-your-ai-chatbot.md "mention") need Tokens to be ingested and properly analysed by your AI Chatbot.&#x20;
 * **Training your AI Chatbot:** Responses your AI Chatbot generates for questions in [select-type.md](../../start-creating/create-an-ai-chatbot/select-type.md "mention") and [train-your-ai-chatbot.md](../../start-creating/create-an-ai-chatbot/train-your-ai-chatbot.md "mention") require Tokens to process.
 * **Previewing your Web Widget:** Checking the performance of your Web Widget Chat Flow in [preview-your-web-widget.md](../../start-creating/create-a-chat-flow/select-channel/channel-web-widget/preview-your-web-widget.md "mention") requires Tokens.
 
