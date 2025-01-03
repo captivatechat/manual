@@ -49,4 +49,4 @@ Any future improvements, such as support for custom forms, may be added in futur
 
 
 
-Once you're done placing your integration, click ![If you made it to the "Select Integration" page of the AI Chatbot creation process, leave it be and click "Update AI Chatbot" to finish the AI Chatbot creation process.](<../../../.gitbook/assets/image (3) (1) (1).png>)  to finish the AI Chatbot setup.
+Once you're done placing your integration, click ![If you made it to the "Select Integration" page of the AI Chatbot creation process, leave it be and click "Update AI Chatbot" to finish the AI Chatbot creation process.](<../../../.gitbook/assets/image (3) (1) (1) (1).png>)  to finish the AI Chatbot setup.

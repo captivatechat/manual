@@ -12,7 +12,7 @@ This window contains the necessary information that have to be filled out before
 
 ## Configure WhatsApp
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="Basic information that have to be filled out for a successful WhatsApp integration include the public name of the WhatsApp Chat Flow, a basic description, and a Provider that is set to Twilio by default."><figcaption><p>Basic information that have to be filled out for a successful WhatsApp integration include the public name of the WhatsApp Chat Flow, a basic description, and a Provider that is set to Twilio by default.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="Basic information that have to be filled out for a successful WhatsApp integration include the public name of the WhatsApp Chat Flow, a basic description, and a Provider that is set to Twilio by default."><figcaption><p>Basic information that have to be filled out for a successful WhatsApp integration include the public name of the WhatsApp Chat Flow, a basic description, and a Provider that is set to Twilio by default.</p></figcaption></figure>
 
 Before you're able to integrate your AI Chatbot into WhatsApp, you have to fill up a few details:
 
@@ -24,7 +24,7 @@ Before you're able to integrate your AI Chatbot into WhatsApp, you have to fill 
 
 ## Join Twilio
 
-<figure><img src="../../../../.gitbook/assets/image (5) (1) (1).png" alt="The upper right side of the screen of the Twilio homepage has &#x22;Start for Free&#x22; button that leads to the registration process."><figcaption><p>The upper right side of the screen of the Twilio homepage has "Start for Free" button that leads to the registration process.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1).png" alt="The upper right side of the screen of the Twilio homepage has &#x22;Start for Free&#x22; button that leads to the registration process."><figcaption><p>The upper right side of the screen of the Twilio homepage has "Start for Free" button that leads to the registration process.</p></figcaption></figure>
 
 In order to fill up the Account SID and Authentication Token, you have to **sign up for a Twilio** account.
 

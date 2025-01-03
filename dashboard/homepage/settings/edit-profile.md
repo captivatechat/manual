@@ -11,7 +11,7 @@ Use the _**Edit Profile**_ tab of the account settings view to change basic info
 
 ## Edit Profile Components
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt="Use the &#x22;Edit Profile&#x22; tab under the settings view to change basic components about your account like your First Name, Last Name, Mobile Number, and Profile Picture."><figcaption><p>Use the "Edit Profile" tab under the settings view to change basic components about your account like your First Name, Last Name, Mobile Number, and Profile Picture.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt="Use the &#x22;Edit Profile&#x22; tab under the settings view to change basic components about your account like your First Name, Last Name, Mobile Number, and Profile Picture."><figcaption><p>Use the "Edit Profile" tab under the settings view to change basic components about your account like your First Name, Last Name, Mobile Number, and Profile Picture.</p></figcaption></figure>
 
 The _Edit Profile_ settings tab has the following components:
 

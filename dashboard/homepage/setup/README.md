@@ -16,7 +16,7 @@ Create and edit all your AI Chatbots in  ![The AI Chatbots button in the Homepag
 
 ### Chat Flows
 
-Create and edit your Chat Flows in  ![The Chat Flows button in the Homepage](<../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png>).&#x20;
+Create and edit your Chat Flows in  ![The Chat Flows button in the Homepage](<../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png>).&#x20;
 
 ***
 
