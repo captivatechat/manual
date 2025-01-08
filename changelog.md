@@ -8,18 +8,33 @@ description: >-
 
 
 
+## 📆v3.4.1 - 2025-01-10
+
+### ✅ Added
+
+* We now support **SCA Stripe**. SCA, which stands for Strong Customer Authentication, allows us to offer more secure transactions when purchasing Captivate Chat Tokens or upgrading your subscriptions.
+* **AI Chatbots:**
+  * **Select Type** now has a toggle for **Full Chat History**, letting you decide if you want your AI Chatbot to respond based on previous conversations with the user or to treat every conversation as a completely new one.&#x20;
+  * You can now set **session expiration timers** within an AI Chatbot so they can automatically end an inactive session after your specified period of time.
+
+### 🆕 Full Chat History
+
+<figure><img src=".gitbook/assets/image (326).png" alt="The &#x22;Use Full Chat History For AI Context&#x22; toggle in &#x22;Select Type&#x22; when creating your own AI Chatbot will determine if the specific AI Chatbot in question will use all prior conversations with the user as the contextual basis of the current session. Toggling yes will do so, and toggling no on Full Chat History will treat each session as a completely new one."><figcaption><p>The "Use Full Chat History For AI Context" toggle in "Select Type" of the AI Chatbot creation process. This will determine if the specific AI Chatbot in question will use all prior conversations with the user as the contextual basis of the current session. Toggling yes will do so, and toggling no on Full Chat History will treat each session as a completely new one.</p></figcaption></figure>
+
+We've added a **Full Chat History** toggle in the "Select Type" page of the AI Chatbot creation process.&#x20;
+
+Taking the form of the "Use Full Chat History for AI Context" button, this will toggle whether the AI Chatbot in question will use all prior sessions with the user as context for its current responses. Doing so will cost more tokens, but will provide maximum accuracy.
+
 ## 📆 v3.4.0 - 2025-01-03
 
 ### ✅ Added
 
 * **Tutorials are live!** Learn the ropes in creating your AI Chatbots, Chat Flows, and Live Agent integrations within the Tutorial page of the Captivate Chat platform!
 * **Meet our Guidebot!** We've deployed our Guidebot within the Captivate Chat platform! Once you log in to your account, you can ask our Guidebot for any advice as well as tips and tricks on how to best use Captivate Chat for your needs!
-* We now support **SCA Stripe**. SCA, which stands for Strong Customer Authentication, allows us to offer more secure transactions when purchasing Captivate Chat Tokens or upgrading your subscriptions.
+*
 * **Mobile Optimization notice** appears when users to try to access Captivate Chat on mobile platforms.&#x20;
 * **AI Chatbots:**
   * **URL Crawler** is now added under "Import Your Own Information" that auto-searches all URLs under a single URL. This will make importing groups of URLs under a "mother" URL much easier.&#x20;
-  * **Select Type** now has a toggle for **Full Chat History**, letting you decide if you want your AI Chatbot to respond based on previous conversations with the user or to treat every conversation as a completely new one.&#x20;
-  * You can now set **session expiration timers** within an AI Chatbot so they can automatically end an inactive session after your specified period of time.
 
 ### 🟧 Changed
 
@@ -37,14 +52,6 @@ Learning about Captivate Chat has never been easier!
 Get in-depth tutorials on how to use the Captivate Chat platform using our **Tutorials** page! We have Tutorials for most of our processes in the platform, and we'll constantly update these Tutorials whenever we have major releases.&#x20;
 
 To access our Tutorials, simply click the ![The "Tutorials" button on the left side of the dashboard leads to the "Tutorial" page. The The "Tutorial" page in the Captivate Chat platform contain videos that explain essential processes in using Captivate Chat. They are arranged in tiles, with a thumbnail and the name of the lesson.](<.gitbook/assets/image (315).png>) button on the left side of the Captivate Chat dashboard.
-
-### 🆕 Full Chat History
-
-<figure><img src=".gitbook/assets/image (326).png" alt="The &#x22;Use Full Chat History For AI Context&#x22; toggle in &#x22;Select Type&#x22; when creating your own AI Chatbot will determine if the specific AI Chatbot in question will use all prior conversations with the user as the contextual basis of the current session. Toggling yes will do so, and toggling no on Full Chat History will treat each session as a completely new one."><figcaption><p>The "Use Full Chat History For AI Context" toggle in "Select Type" of the AI Chatbot creation process. This will determine if the specific AI Chatbot in question will use all prior conversations with the user as the contextual basis of the current session. Toggling yes will do so, and toggling no on Full Chat History will treat each session as a completely new one.</p></figcaption></figure>
-
-We've added a **Full Chat History** toggle in the "Select Type" page of the AI Chatbot creation process.&#x20;
-
-Taking the form of the "Use Full Chat History for AI Context" button, this will toggle whether the AI Chatbot in question will use all prior sessions with the user as context for its current responses. Doing so will cost more tokens, but will provide maximum accuracy.
 
 ### 🆕 URL Crawler
 
