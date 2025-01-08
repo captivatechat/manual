@@ -2,9 +2,10 @@
 description: >-
   All changes to the Captivate Hub will be added here. Guides will be updated
   concurrently.
+hidden: true
 ---
 
-# 📕 Changelog
+# 📕 Copy of Changelog
 
 
 
@@ -17,8 +18,8 @@ description: >-
 * We now support **SCA Stripe**. SCA, which stands for Strong Customer Authentication, allows us to offer more secure transactions when purchasing Captivate Chat Tokens or upgrading your subscriptions.
 * **Mobile Optimization notice** appears when users to try to access Captivate Chat on mobile platforms.&#x20;
 * **AI Chatbots:**
+  * **Select Integrations** within AI Chatbots are now fully functional. User emails and names will be sent to the platforms you integrated into the AI Chatbot during the AI Chatbot Creation and AI Chatbot Update processes.
   * **URL Crawler** is now added under "Import Your Own Information" that auto-searches all URLs under a single URL. This will make importing groups of URLs under a "mother" URL much easier.&#x20;
-  * **Select Type** now has a toggle for **Full Chat History**, letting you decide if you want your AI Chatbot to respond based on previous conversations with the user or to treat every conversation as a completely new one.&#x20;
   * You can now set **session expiration timers** within an AI Chatbot so they can automatically end an inactive session after your specified period of time.
 
 ### 🟧 Changed
@@ -38,13 +39,13 @@ Get in-depth tutorials on how to use the Captivate Chat platform using our **Tut
 
 To access our Tutorials, simply click the ![The "Tutorials" button on the left side of the dashboard leads to the "Tutorial" page. The The "Tutorial" page in the Captivate Chat platform contain videos that explain essential processes in using Captivate Chat. They are arranged in tiles, with a thumbnail and the name of the lesson.](<.gitbook/assets/image (315).png>) button on the left side of the Captivate Chat dashboard.
 
-### 🆕 Full Chat History
+### 🆕 Select Integration
 
-<figure><img src=".gitbook/assets/image (326).png" alt="The &#x22;Use Full Chat History For AI Context&#x22; toggle in &#x22;Select Type&#x22; when creating your own AI Chatbot will determine if the specific AI Chatbot in question will use all prior conversations with the user as the contextual basis of the current session. Toggling yes will do so, and toggling no on Full Chat History will treat each session as a completely new one."><figcaption><p>The "Use Full Chat History For AI Context" toggle in "Select Type" of the AI Chatbot creation process. This will determine if the specific AI Chatbot in question will use all prior conversations with the user as the contextual basis of the current session. Toggling yes will do so, and toggling no on Full Chat History will treat each session as a completely new one.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (316).png" alt="The &#x22;Select Integration&#x22; page of the AI Chatbot creation process will let users choose what platform they want to use to receive data from AI Chatbots. This integration will store the emails and names of users that ask an AI Chatbot to connect them to a Live Agent."><figcaption><p>The "Select Integration" page of the AI Chatbot creation process will let users choose what platform they want to use to receive data from AI Chatbots. This integration will store the emails and names of users that ask an AI Chatbot to connect them to a Live Agent.</p></figcaption></figure>
 
-We've added a **Full Chat History** toggle in the "Select Type" page of the AI Chatbot creation process.&#x20;
+The **Select Integration** page of the AI Chatbot creation process is now live. Users can use this page to customize where their AI Chatbots will send customer data whenever they ask AI Chatbots to connect them to Live Agents.&#x20;
 
-Taking the form of the "Use Full Chat History for AI Context" button, this will toggle whether the AI Chatbot in question will use all prior sessions with the user as context for its current responses. Doing so will cost more tokens, but will provide maximum accuracy.
+We currently offer HubSpot, Email, and Google Sheets as our integration platforms. As of now, we can only collect a user's name and email address.&#x20;
 
 ### 🆕 URL Crawler
 

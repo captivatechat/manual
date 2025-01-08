@@ -3,6 +3,7 @@
 * [📚 Overview](README.md)
 * [💻 Components](components.md)
 * [📕 Changelog](changelog.md)
+* [📕 Copy of Changelog](changelog-1.md)
 * [🚀 Get Started](get-started.md)
 
 ## DASHBOARD
@@ -28,10 +29,11 @@
     * [URL Crawler](start-creating/create-an-ai-chatbot/import-your-own-information/url-crawler.md)
   * [Select Type](start-creating/create-an-ai-chatbot/select-type.md)
   * [Train your AI Chatbot](start-creating/create-an-ai-chatbot/train-your-ai-chatbot.md)
-  * [Select Integration](start-creating/create-an-ai-chatbot/select-integration/README.md)
-    * [Integrate HubSpot to AI Chatbot](start-creating/create-an-ai-chatbot/select-integration/integrate-hubspot-to-ai-chatbot.md)
-    * [Integrate Email to AI Chatbot](start-creating/create-an-ai-chatbot/select-integration/integrate-email-to-ai-chatbot.md)
-    * [Integrate a Google Sheet to AI Chatbot](start-creating/create-an-ai-chatbot/select-integration/integrate-a-google-sheet-to-ai-chatbot.md)
+  * [Select Integration](start-creating/create-an-ai-chatbot/select-integration.md)
+  * [Copy of Select Integration](start-creating/create-an-ai-chatbot/copy-of-select-integration/README.md)
+    * [Integrate HubSpot to AI Chatbot](start-creating/create-an-ai-chatbot/copy-of-select-integration/integrate-hubspot-to-ai-chatbot.md)
+    * [Integrate Email to AI Chatbot](start-creating/create-an-ai-chatbot/copy-of-select-integration/integrate-email-to-ai-chatbot.md)
+    * [Integrate a Google Sheet to AI Chatbot](start-creating/create-an-ai-chatbot/copy-of-select-integration/integrate-a-google-sheet-to-ai-chatbot.md)
   * [Finishing Touches](start-creating/create-an-ai-chatbot/finishing-touches.md)
   * [Modify your AI Chatbots](start-creating/create-an-ai-chatbot/modify-your-ai-chatbots.md)
 * [Create a Chat Flow](start-creating/create-a-chat-flow/README.md)
