@@ -113,17 +113,19 @@ Full screen embeds are perfect for websites that want to have a dedicated page w
 To transform your Web Widget Chat Flow into a full screen embed, simply copy this code:
 
 `<iframe`\
-&#x20;  `src="`[`https://widget-embed.dev.captivat.io?apiKey=`**`YOUR_API_KEY_HERE`**](https://widget-embed.dev.captivat.io/?apiKey=YOUR_API_KEY_HERE)`"`\
-&#x20;  `width="800px"`\
-&#x20;  `height="800px"`\
+&#x20;  `src="`[`https://`**`your-deployed-url`**`/?apiKey=`**`YOUR_API_KEY`**](https://your-deployed-url/?apiKey=YOUR_API_KEY)`"`\
+&#x20;  `width="100%"`\
+&#x20;  `height="100%"`\
+&#x20;  `frameborder="0"`\
 &#x20;  `allow="clipboard-write"`\
 &#x20;`></iframe>`
 
 When modifying this `<iframe>` code, take note of these things:
 
-1. Replace **`YOUR_API_KEY_HERE`** with the API key of your Web Widget, as seen in the "Embed Web Widget" stage of the "Customize Web Widget" page.
-2. Ensure the `allow="clipboard-write"` attribute is included if you need to enable clipboard functionality within the widget.
-3. Adjust the `width` and `height` attributes to fit the widget into your layout appropriately.
+1. Replace [**`your-deployed-url`**](https://your-deployed-url/?apiKey=YOUR_API_KEY) with the link of the webpage where you want to deploy the full-screen widget.
+2. Replace **`YOUR_API_KEY_HERE`** with the API key of your Web Widget, as seen in the "Embed Web Widget" stage of the "Customize Web Widget" page.
+3. Ensure the `allow="clipboard-write"` attribute is included if you need to enable clipboard functionality within the widget.
+4. Ensure the `width` and `height` attributes are at 100% to fit the widget into your layout appropriately.
 
 {% hint style="warning" %}
 **Give your HTML embed code to your Web Administrator**
