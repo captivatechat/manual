@@ -82,7 +82,7 @@ We can create in-depth prompting guides to help you develop more elaborate Chatb
 
 ***
 
-### Chat History Configuration
+## Chat History Configuration
 
 <figure><img src="../../.gitbook/assets/image (332).png" alt="&#x22;Use Full Chat History for AI Context&#x22; enables the AI to access and analyze the entire chat history within a session, ensuring the highest level of contextual understanding. This approach utilizes more tokens, offering maximum accuracy as the AI has full access to all prior interactions."><figcaption><p>"Use Full Chat History for AI Context" enables the AI to access and analyze the entire chat history within a session, ensuring the highest level of contextual understanding. This approach utilizes more tokens, offering maximum accuracy as the AI has full access to all prior interactions.</p></figcaption></figure>
 
@@ -100,11 +100,9 @@ This depends on your AI's specific requirements:
 * **Toggle full chat history OFF** if your AI Chatbot doesn't need to rely on prior conversations with users, such as with homepage bots.&#x20;
 {% endhint %}
 
-, especially for bots that rely heavily on historical context. Users can choose based on their AI's specific requirements.
-
 ***
 
-### Testing your AI Chatbot Type
+## Testing your AI Chatbot Type
 
 <figure><img src="../../.gitbook/assets/image (270).png" alt="There is a &#x22;Test Your AI Chatbot&#x22; window in the &#x22;Customize Type&#x22; window after clicking &#x22;Customize (Advanced)&#x22; in the &#x22;Select Type&#x22; page of the AI Chatbot creation process.  This &#x22;Test Your AI Chatbot&#x22; window is a live conversation with the current iteration of the AI Chatbot that users can talk to while modifying the AI Chatbot template."><figcaption><p>There is a "Test Your AI Chatbot" window in the "Customize Type" window after clicking "Customize (Advanced)" in the "Select Type" page of the AI Chatbot creation process.  This "Test Your AI Chatbot" window is a live conversation with the current iteration of the AI Chatbot that users can talk to while modifying the AI Chatbot template.</p></figcaption></figure>
 
