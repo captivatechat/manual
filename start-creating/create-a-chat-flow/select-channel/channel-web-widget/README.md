@@ -84,14 +84,45 @@ In _**Working Hours**_, determine your Chatbot's working hours. You can choose i
 If you don't want to toggle _"Enable Work Hours,"_ you can still keep your Web Widget live indefinitely. You can do this by adjusting the "Start Time" and "End Time" to 00:00.&#x20;
 {% endhint %}
 
+***
+
 ### Embed Live Chat
 
 <figure><img src="../../../../.gitbook/assets/image (287).png" alt="After modifying all options in &#x22;Customize Web Chat&#x22; page, users will see &#x22;Embed Web Widget.&#x22; This has the code that Web Administrators need to put in the user&#x27;s website for the Web Widget to appear."><figcaption><p>After modifying all options in "Customize Web Chat" page, users will see "Embed Web Widget." This has the code that Web Administrators need to put in the user's website for the Web Widget to appear.</p></figcaption></figure>
 
 After setting the above options, we'll create an **embed code** you can copy and paste into your website. The _**Embed Web Widget**_ section has this code.&#x20;
 
+If you want to insert your Web Widget Chat Flow into your website, there are two ways to do so:&#x20;
+
+#### Traditional Web Widget
+
+<figure><img src="../../../../.gitbook/assets/image (336).png" alt="Pasting the code from the &#x22;Embed Web Widget&#x22; stage of the &#x22;Customize Web Chat&#x22; page into your HTML will give your webpage a Web Widget AI Chatbot. You have to click their icon on the lower-right portion of the screen for the interface to appear."><figcaption><p>Pasting the code from the "Embed Web Widget" stage of the "Customize Web Chat" page into your HTML will give your webpage a Web Widget AI Chatbot. You have to click their icon on the lower-right portion of the screen for the interface to appear.</p></figcaption></figure>
+
+Using the HTML code from the "Embed Web Widget" stage will give your webpage access to a **traditional web widget**. This takes the form of an icon on the lower left of your screen that transforms into a chat when clicked.&#x20;
+
+These traditional web widgets are often used as customer assistants in most websites that provide products and services.
+
+#### Full Screen Embeds
+
+<figure><img src="../../../../.gitbook/assets/image (337).png" alt="To access a full screen version of the AI Chatbot, add the desired Web Widget API into the full screen iframe code from the &#x22;Full Screen Embeds&#x22; section of the Captivate Chat Manual. "><figcaption><p>To access a full screen version of the AI Chatbot, add the desired Web Widget API key into the full screen iframe code from the "Full Screen Embeds" section of the Captivate Chat Manual. </p></figcaption></figure>
+
+Alternatively, users can also insert their Web Widget Chat Flows into their websites as **full screen embeds**. Unlike traditional web widgets that take the form of an icon that expands into an AI Chatbot, a full screen embed takes up the size specified in a special `<iframe>` code.
+
+Full screen embeds are perfect for websites that want to have a dedicated page where users can interact with AI Chatbots.&#x20;
+
+To transform your Web Widget Chat Flow into a full screen embed, simply copy this code:
+
+`<iframe`\
+&#x20;  `src="`[`https://widget-embed.dev.captivat.io?apiKey=`**`YOUR_API_KEY_HERE`**](https://widget-embed.dev.captivat.io/?apiKey=YOUR_API_KEY_HERE)`"`\
+&#x20;  `width="800px"`\
+&#x20;  `height="800px"`\
+&#x20;  `allow="clipboard-write"`\
+&#x20;`></iframe>`
+
+Please replace **`YOUR_API_KEY_HERE`** with the API key of your Web Widget, as seen in the "Embed Web Widget" stage of the "Customize Web Widget" page.
+
 {% hint style="warning" %}
-**Give your embed code to your Web Administrator**
+**Give your HTML embed code to your Web Administrator**
 
 Make sure that your embed is pasted **before the closing \</body> tag** on pages of your website where you want the AI Assistant to show up. Your Web Administrator should know how to make this work.&#x20;
 {% endhint %}

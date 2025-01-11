@@ -16,6 +16,8 @@ description: >-
 * **AI Chatbots:**
   * **Select Type** now has a toggle for **Full Chat History**, letting you decide if you want your AI Chatbot to respond based on previous conversations with the user or to treat every conversation as a completely new one.&#x20;
   * You can now set **session expiration timers** within an AI Chatbot so they can automatically end an inactive session after your specified period of time.
+* **Web Widgets:**
+  * **Full Screen Embeds** are now available for Web Widget Chat Flows! Simply customize a special iframe code with your Web Widget's API and put that into the HTML of the webpage where you want a full screen AI Chatbot to greet your customers.&#x20;
 
 ### 🆕 Full Chat History
 
@@ -24,6 +26,14 @@ description: >-
 We've added a **Full Chat History** toggle in the "Select Type" page of the AI Chatbot creation process.&#x20;
 
 Taking the form of the "Use Full Chat History for AI Context" button, this will toggle whether the AI Chatbot in question will use all prior sessions with the user as context for its current responses. Doing so will cost more tokens, but will provide maximum accuracy.
+
+### 🆕 Full Screen Embed Code
+
+<figure><img src=".gitbook/assets/image (333).png" alt="A Web Widget adjusted to fit a full screen resolution thanks to the Full Screen Embed Code. If you fill up a special iframe code with your Web Widget API and paste that code into the HTML of your assigned webpage, that particular webpage becomes a full-screen AI Chatbot."><figcaption><p>A Web Widget adjusted to fit a full screen resolution thanks to the Full Screen Embed Code. If you fill up a special iframe code with your Web Widget API and paste that code into the HTML of your assigned webpage, that particular webpage becomes a full-screen AI Chatbot.</p></figcaption></figure>
+
+We have made a **Full Screen Embed Code** for you to use with your Web Widget Chat Flows!
+
+Unlike our traditional embeds that provide you with an interactive AI Chatbot within a webpage, our Full Screen Embed Code will "fill" the webpage with your AI Chatbot. In order to do this, simply put your Web Widget API into a special iframe code you can access in [channel-web-widget](start-creating/create-a-chat-flow/select-channel/channel-web-widget/ "mention")
 
 ## 📆 v3.4.0 - 2025-01-03
 
