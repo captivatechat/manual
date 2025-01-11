@@ -119,7 +119,11 @@ To transform your Web Widget Chat Flow into a full screen embed, simply copy thi
 &#x20;  `allow="clipboard-write"`\
 &#x20;`></iframe>`
 
-Please replace **`YOUR_API_KEY_HERE`** with the API key of your Web Widget, as seen in the "Embed Web Widget" stage of the "Customize Web Widget" page.
+When modifying this `<iframe>` code, take note of these things:
+
+1. Replace **`YOUR_API_KEY_HERE`** with the API key of your Web Widget, as seen in the "Embed Web Widget" stage of the "Customize Web Widget" page.
+2. Ensure the `allow="clipboard-write"` attribute is included if you need to enable clipboard functionality within the widget.
+3. Adjust the `width` and `height` attributes to fit the widget into your layout appropriately.
 
 {% hint style="warning" %}
 **Give your HTML embed code to your Web Administrator**
