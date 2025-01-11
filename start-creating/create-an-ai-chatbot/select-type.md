@@ -88,7 +88,7 @@ We can create in-depth prompting guides to help you develop more elaborate Chatb
 
 Use our **Chat History Configuration** to enable your AI Chatbot to use **previous conversations with the user** as the context for its current responses:
 
-* **Toggled ON:** When this feature is toggled on, Captivate Chat will **consume tokens** but will result in the **highest-possible accuracy** when conversing with users. This is because the AI Chatbot will be taking into consideration all prior sessions with the user when forming its responses.
+* **Toggled ON:** When this feature is toggled on, Captivate Chat will **consume more tokens** but will result in the **highest-possible accuracy** when conversing with users. This is because the AI Chatbot will be taking into consideration all prior sessions with the user when forming its responses.
 * **Toggled OFF:** When this feature is turned off, Captivate Chat employs an optimized algorithm to determine relevance, using a significance score (cut-off 0.70) to include only the most contextually relevant interactions. This method **conserves tokens** but may result in **slightly reduced accuracy**.
 
 {% hint style="info" %}
