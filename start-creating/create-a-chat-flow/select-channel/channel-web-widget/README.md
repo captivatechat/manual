@@ -92,15 +92,15 @@ If you don't want to toggle _"Enable Work Hours,"_ you can still keep your Web W
 
 After setting the above options, we'll create an **embed code** you can copy and paste into your website. The _**Embed Web Widget**_ section has this code:
 
-`<script src="https://widget.prod.captivat.io/captivate.min.js"></script>`\
-&#x20; `<script>`\
-&#x20;  `function callWidget(data) {`\
-&#x20;   `Captivate.init({`\
-&#x20;    `apiKey: "`**`YOUR_API_KEY_IS_HERE`**`",`\
-&#x20;   `)}`\
-&#x20;  `}`\
-&#x20;  `callWidget();`\
-&#x20; `</script>`&#x20;
+\<script src="https://widget.prod.captivat.io/captivate.min.js">\</script>\
+&#x20; \<script>\
+&#x20;  function callWidget(data) {\
+&#x20;   Captivate.init({\
+&#x20;    apiKey: "**YOUR\_API\_KEY\_IS\_HERE**",\
+&#x20;   )}\
+&#x20;  }\
+&#x20;  callWidget();\
+&#x20; \</script>&#x20;
 
 Please take note that `apiKey: "`**`YOUR_API_KEY_IS_HERE`**`"` contains your Web Widget's API Key, which you can use in other Captivate Chat features such as full screen embeds and potential future additions.&#x20;
 
@@ -124,13 +124,13 @@ Full screen embeds are perfect for websites that want to have a dedicated page w
 
 To transform your Web Widget Chat Flow into a full screen embed, simply copy this code:
 
-`<iframe`\
-&#x20;  `src="`[`https://`**`your-deployed-url`**`/?apiKey=`**`YOUR_API_KEY`**](https://your-deployed-url/?apiKey=YOUR_API_KEY)`"`\
-&#x20;  `width="100%"`\
-&#x20;  `height="100%"`\
-&#x20;  `frameborder="0"`\
-&#x20;  `allow="clipboard-write"`\
-&#x20;`></iframe>`
+\<iframe\
+&#x20;  src="[https://**your-deployed-url**/?apiKey=**YOUR\_API\_KEY**](https://your-deployed-url/?apiKey=YOUR_API_KEY)"\
+&#x20;  width="100%"\
+&#x20;  height="100%"\
+&#x20;  frameborder="0"\
+&#x20;  allow="clipboard-write"\
+&#x20;\>\</iframe>
 
 When modifying this `<iframe>` code, take note of these things:
 
