@@ -90,19 +90,23 @@ If you don't want to toggle _"Enable Work Hours,"_ you can still keep your Web W
 
 <figure><img src="../../../../.gitbook/assets/image (287).png" alt="After modifying all options in &#x22;Customize Web Chat&#x22; page, users will see &#x22;Embed Web Widget.&#x22; This has the code that Web Administrators need to put in the user&#x27;s website for the Web Widget to appear."><figcaption><p>After modifying all options in "Customize Web Chat" page, users will see "Embed Web Widget." This has the code that Web Administrators need to put in the user's website for the Web Widget to appear.</p></figcaption></figure>
 
+
+
 After setting the above options, we'll create an **embed code** you can copy and paste into your website. The _**Embed Web Widget**_ section has this code:
 
-```
-<script src="https://widget.prod.captivat.io/captivate.min.js"></script>
-  <script>
-   function callWidget(data) {
-    Captivate.init({
-     apiKey: "YOUR_API_KEY_IS_HERE",
-    )}
-   }
-   callWidget();
-  </script> 
-```
+{% hint style="info" %}
+**Traditional Embed Web Widget HTML Code:**
+
+\<script src="[https://widget.prod.captivat.io/captivate.min.js](https://widget.prod.captivat.io/captivate.min.js)">\</script>\
+&#x20; \<script>\
+&#x20;  function callWidget(data) {\
+&#x20;   Captivate.init({\
+&#x20;    apiKey: "YOUR\_API\_KEY\_IS\_HERE",\
+&#x20;   )}\
+&#x20;  }\
+&#x20;  callWidget();\
+&#x20; \</script>
+{% endhint %}
 
 Please take note that `apiKey: "`**`YOUR_API_KEY_IS_HERE`**`"` contains your Web Widget's API Key, which you can use in other Captivate Chat features such as full screen embeds and potential future additions.&#x20;
 
@@ -126,15 +130,17 @@ Full screen embeds are perfect for websites that want to have a dedicated page w
 
 To transform your Web Widget Chat Flow into a full screen embed, simply copy this code:
 
-```
-<iframe
-   src="https://your-deployed-url/?apiKey=YOUR_API_KEY"
-   width="100%"
-   height="100%"
-   frameborder="0"
-   allow="clipboard-write"
- ></iframe>
-```
+{% hint style="info" %}
+**Full Screen Embed HTML Code:**
+
+\<iframe\
+&#x20;  src="[https://your-deployed-url/?apiKey=YOUR\_API\_KEY](https://your-deployed-url/?apiKey=YOUR_API_KEY)"\
+&#x20;  width="100%"\
+&#x20;  height="100%"\
+&#x20;  frameborder="0"\
+&#x20;  allow="clipboard-write"\
+\>\</iframe>
+{% endhint %}
 
 When modifying this `<iframe>` code, take note of these things:
 
