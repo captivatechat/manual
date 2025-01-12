@@ -90,7 +90,19 @@ If you don't want to toggle _"Enable Work Hours,"_ you can still keep your Web W
 
 <figure><img src="../../../../.gitbook/assets/image (287).png" alt="After modifying all options in &#x22;Customize Web Chat&#x22; page, users will see &#x22;Embed Web Widget.&#x22; This has the code that Web Administrators need to put in the user&#x27;s website for the Web Widget to appear."><figcaption><p>After modifying all options in "Customize Web Chat" page, users will see "Embed Web Widget." This has the code that Web Administrators need to put in the user's website for the Web Widget to appear.</p></figcaption></figure>
 
-After setting the above options, we'll create an **embed code** you can copy and paste into your website. The _**Embed Web Widget**_ section has this code.&#x20;
+After setting the above options, we'll create an **embed code** you can copy and paste into your website. The _**Embed Web Widget**_ section has this code:
+
+`<script src="https://widget.prod.captivat.io/captivate.min.js"></script>`\
+&#x20; `<script>`\
+&#x20;  `function callWidget(data) {`\
+&#x20;   `Captivate.init({`\
+&#x20;    `apiKey: "`**`YOUR_API_KEY_IS_HERE`**`",`\
+&#x20;   `)}`\
+&#x20;  `}`\
+&#x20;  `callWidget();`\
+&#x20; `</script>`&#x20;
+
+Please take note that `apiKey: "`**`YOUR_API_KEY_IS_HERE`**`"` contains your Web Widget's API Key, which you can use in other Captivate Chat features such as full screen embeds and potential future additions.&#x20;
 
 If you want to insert your Web Widget Chat Flow into your website, there are two ways to do so:&#x20;
 
