@@ -6,9 +6,9 @@ description: >-
 
 # 📕 Changelog
 
+## v3.4.1
 
-
-## 📆v3.4.1 - 2025-01-10
+### 📆2025-01-10
 
 ### ✅ Added
 
@@ -35,7 +35,9 @@ We have made a **Full Screen Embed Code** for you to use with your Web Widget Ch
 
 Unlike our traditional embeds that provide you with an interactive AI Chatbot within a webpage, our Full Screen Embed Code will "fill" the webpage with your AI Chatbot. In order to do this, simply put your Web Widget API into a special iframe code you can access in [channel-web-widget](start-creating/create-a-chat-flow/select-channel/channel-web-widget/ "mention")
 
-## 📆 v3.4.0 - 2025-01-03
+## v3.4.0
+
+### 📆2025-01-03
 
 ### ✅ Added
 
@@ -81,7 +83,9 @@ As have yet to fully optimize the Captivate Chat platform for mobile users, this
 
 ***
 
-## 📆 v3.2.0 - 2024-10-02
+## v3.2.0
+
+### 📆 2024-10-02
 
 ### ✅ Added
 
@@ -128,7 +132,9 @@ The ![](<.gitbook/assets/image (9).png>) button is now more visible and accessib
 
 ***
 
-## 📆 v3.1.1 - 2024-09-19
+## v3.1.1
+
+### 📆 2024-09-19
 
 ### ✅ Added
 
@@ -164,7 +170,9 @@ This means you no longer have to go all the way back to _Setup > AI Chatbot_ jus
 
 ***
 
-## 📆 v3.0.0 - 2024-09-18
+## v3.0.0
+
+### 📆 2024-09-18
 
 ### ✅ Added
 
@@ -202,7 +210,9 @@ The **Transcript** page now offers different options for users to sort conversat
 
 ***
 
-## 📆 v2.2.0-2 - 2022-02-02
+## v2.2.0-2
+
+### 📆2022-02-02
 
 It's now much easier to use the Captivate Hub for your **Livechat** needs!&#x20;
 
@@ -350,7 +360,9 @@ Reassign agent demo
 
 ***
 
-## 📆 v2.2.0-1 - 2021-08-26
+## v2.2.0-1
+
+### 📆2021-08-26
 
 **Instagram support is now live!**&#x20;
 
@@ -425,7 +437,11 @@ To add Instagram to the Hub, you click the link below:
 
 ***
 
-## 📆 v2.2.0 - 2021-08-26
+## v2.2.0
+
+### 📆2021-08-06
+
+
 
 This is the Initial release of the **Captivate Hub** to the public.
 
