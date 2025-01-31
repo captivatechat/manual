@@ -6,26 +6,52 @@ description: >-
 
 # 📕 Changelog
 
-## v3.4.1
+***
 
-### 📆2025-01-10
+## v3.5.0
+
+### 📆2025-01-29
 
 ### ✅ Added
 
 * We now support **SCA Stripe**. SCA, which stands for Strong Customer Authentication, allows us to offer more secure transactions when purchasing Captivate Chat Tokens or upgrading your subscriptions.
-* **AI Chatbots:**
-  * **Select Type** now has a toggle for **Full Chat History**, letting you decide if you want your AI Chatbot to respond based on previous conversations with the user or to treat every conversation as a completely new one.&#x20;
-  * You can now set **session expiration timers** within an AI Chatbot so they can automatically end an inactive session after your specified period of time.
 * **Web Widgets:**
   * **Full Screen Embeds** are now available for Web Widget Chat Flows! Simply customize a special iframe code with your Web Widget's API and put that into the HTML of the webpage where you want a full screen AI Chatbot to greet your customers.&#x20;
+* **Metadata:**
+  * Will now have **conversation dates** added by default, helping you keep track of important information much faster.
+  * Initial metadata will be stored in custom metadata, making data retrieval more efficient.
+* **Captivate AI & LLM API** will now make it easier for AI devs to integrate with AIs with Captivate Chat.
+* **Custom Channels:**
+  * **New APIs** are available to make conversation deletions in the index (not the real sessions) much easier to manage if you're using our **Custom Channels:**
+    * Use the `conversation_id` of that specific conversation to delete it from the index.
+    * Use the `user_id` of the user in question to delete all their conversations from the index.
+    * Asyncrhonous messaging via `send_message` can now handle file attachments.
 
-### 🆕 Full Chat History
+### 🟧 Changed
 
-<figure><img src=".gitbook/assets/image (326).png" alt="The &#x22;Use Full Chat History For AI Context&#x22; toggle in &#x22;Select Type&#x22; when creating your own AI Chatbot will determine if the specific AI Chatbot in question will use all prior conversations with the user as the contextual basis of the current session. Toggling yes will do so, and toggling no on Full Chat History will treat each session as a completely new one."><figcaption><p>The "Use Full Chat History For AI Context" toggle in "Select Type" of the AI Chatbot creation process. This will determine if the specific AI Chatbot in question will use all prior conversations with the user as the contextual basis of the current session. Toggling yes will do so, and toggling no on Full Chat History will treat each session as a completely new one.</p></figcaption></figure>
+* **Free and Basic Accounts** now get **1,000,000 Tokens!** This leaves you more room to try Captivate Chat for your projects.&#x20;
+* **AI Chatbots:**
+  * Clicking any AI Chatbot will immediately reveal the list of modifications you can do to them.
 
-We've added a **Full Chat History** toggle in the "Select Type" page of the AI Chatbot creation process.&#x20;
+### ⚠️ Fixed
 
-Taking the form of the "Use Full Chat History for AI Context" button, this will toggle whether the AI Chatbot in question will use all prior sessions with the user as context for its current responses. Doing so will cost more tokens, but will provide maximum accuracy.
+* Fixed some UI inconsistencies to provide a more seamless experience.&#x20;
+* Fixed deep crawler issues, so it now:
+  * Shows results in the estimator (instead of no results).&#x20;
+  * Is not case sensitive (it was previously)
+  * It doesn't need "www." (it previously did)
+* Fixed issues involving the ingestion of at least 100 URLs.&#x20;
+* Fixed issues involving the creation of an AI Chatbot directly from the Chat Flow process.
+
+### 🆕 Captivate AI & LLM API
+
+<figure><img src=".gitbook/assets/image (338).png" alt="This is a Python Package Index (PyPI) screenshot of the Captivate AI &#x26; LLM API, an API developed by Captivate Chat to handle its API formats."><figcaption><p>This is a Python Package Index (PyPI) screenshot of the Captivate AI &#x26; LLM API, an API developed by Captivate Chat to handle its API formats.</p></figcaption></figure>
+
+We have released the **Captivate AI & LLM API.** Access it [here](https://pypi.org/project/captivate-ai-api/).&#x20;
+
+We developed the Captivate AI & LLM API to handle Captivate Chat's API formats. This flexible messaging and metadata management system is built using Pydantic models and designed to handle complex communication scenarios with robust checking and validation.
+
+Its main features include dynamic metadata handling, immutable session and chat properties, flexible message type support, custom metadata manipulation, and conversation title management. &#x20;
 
 ### 🆕 Full Screen Embed Code
 
@@ -35,6 +61,26 @@ We have made a **Full Screen Embed Code** for you to use with your Web Widget Ch
 
 Unlike our traditional embeds that provide you with an interactive AI Chatbot within a webpage, our Full Screen Embed Code will "fill" the webpage with your AI Chatbot. In order to do this, simply put your Web Widget API into a special iframe code you can access in [channel-web-widget](start-creating/create-a-chat-flow/select-channel/channel-web-widget/ "mention")
 
+***
+
+## v3.4.1
+
+### 📆2025-01-10
+
+### ✅ Added
+
+* **AI Chatbots:**
+  * **Select Type** now has a toggle for **Full Chat History**, letting you decide if you want your AI Chatbot to respond based on previous conversations with the user or to treat every conversation as a completely new one.&#x20;
+  * You can now set **session expiration timers** within an AI Chatbot so they can automatically end an inactive session after your specified period of time.
+
+### 🆕 Full Chat History
+
+<figure><img src=".gitbook/assets/image (326).png" alt="The &#x22;Use Full Chat History For AI Context&#x22; toggle in &#x22;Select Type&#x22; when creating your own AI Chatbot will determine if the specific AI Chatbot in question will use all prior conversations with the user as the contextual basis of the current session. Toggling yes will do so, and toggling no on Full Chat History will treat each session as a completely new one."><figcaption><p>The "Use Full Chat History For AI Context" toggle in "Select Type" of the AI Chatbot creation process. This will determine if the specific AI Chatbot in question will use all prior conversations with the user as the contextual basis of the current session. Toggling yes will do so, and toggling no on Full Chat History will treat each session as a completely new one.</p></figcaption></figure>
+
+We've added a **Full Chat History** toggle in the "Select Type" page of the AI Chatbot creation process.&#x20;
+
+Taking the form of the "Use Full Chat History for AI Context" button, this will toggle whether the AI Chatbot in question will use all prior sessions with the user as context for its current responses. Doing so will cost more tokens, but will provide maximum accuracy.
+
 ## v3.4.0
 
 ### 📆2025-01-03
@@ -43,7 +89,6 @@ Unlike our traditional embeds that provide you with an interactive AI Chatbot wi
 
 * **Tutorials are live!** Learn the ropes in creating your AI Chatbots, Chat Flows, and Live Agent integrations within the Tutorial page of the Captivate Chat platform!
 * **Meet our Guidebot!** We've deployed our Guidebot within the Captivate Chat platform! Once you log in to your account, you can ask our Guidebot for any advice as well as tips and tricks on how to best use Captivate Chat for your needs!
-*
 * **Mobile Optimization notice** appears when users to try to access Captivate Chat on mobile platforms.&#x20;
 * **AI Chatbots:**
   * **URL Crawler** is now added under "Import Your Own Information" that auto-searches all URLs under a single URL. This will make importing groups of URLs under a "mother" URL much easier.&#x20;
