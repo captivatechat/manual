@@ -8,6 +8,64 @@ description: >-
 
 ***
 
+##
+
+## v3.5.1
+
+### 📆2025-02-10
+
+### ✅ Added
+
+* **Custom Channels are here!** If you want to integrate Captivate Chat functionalities into your own Channel outside our offerings, you can finally do so!
+* **Citations are now live!** You can make your AI Chatbot provide sources of its data whenever it provides responses to users.
+* **Token Estimation errors** are now reported! The platform will now let you know if a URL you plan on ingesting isn't available for processing.&#x20;
+* **Asynchronous messages** are now saved in Transcripts. Messages that are via the Chatbot directly from agents (without using the Chat Flow) are now stored alongside traditional messages.
+* **Session Expiry** can now be set in select Channels. This will end inactive chats after a set number of days.
+
+### 🟧 Changed
+
+* Changed a button in the Edit Data section of the Create AI Chatbot process.&#x20;
+
+### ⚠️ Fixed
+
+* **Smileys are back!** We fixed a chat error regarding emojis, so now you can add emojis to your conversations with AI Chatbots!
+* Fixed a bug where pages are forcibly refreshed after the user uploads a file of the same file name multiple times during the Web Widget Test.
+* Fixed a delay between the time users choose files to ingest and the system starts ingesting it.
+* Fixed a bug that delays the Add Information section of the Create AI Chatbot process after an ingestion procedure is cancelled.
+* Fixed a bug that doubles the URLs ingested when using the Captivate Chat URL Crawler.&#x20;
+
+### 🆕 Custom Channels
+
+<figure><img src=".gitbook/assets/image (341).png" alt="Select &#x22;Custom Channel&#x22; under Chat Flows > Channel in order to show your AI Chatbot in your very own Channel of choice outside our regular options. "><figcaption><p>Select "Custom Channel" under Chat Flows > Channel in order to show your AI Chatbot in your very own Channel of choice outside our regular options. </p></figcaption></figure>
+
+**Custom Channels** are now available as a Channel option for Captivate Chat users. Select this if you want to show our AI Chatbot and connect your users to Live Agents in a different platform outside of our offerings.
+
+This will require some manual setup, which we will provide in our guide!
+
+### 🆕 Citations
+
+<figure><img src=".gitbook/assets/image (339).png" alt="In the &#x22;Import Your Own Information&#x22; window, you can toggle &#x22;Enable Citations&#x22; so your AI Chatbot will send an extra message after each response that contains the sources of its answers."><figcaption><p>In the "Import Your Own Information" window, you can toggle "Enable Citations" so your AI Chatbot will send an extra message after each response that contains the sources of its answers.</p></figcaption></figure>
+
+**Citations** are now available in your Captivate Chat bots! This takes the form of a simple but powerful toggle in _AI Chatbots > Add Information._&#x20;
+
+If you turn on this toggle, your AI Chatbot will provide an extra response that contains the sources of their answers.
+
+### 🆕 Token Estimation Errors
+
+<figure><img src=".gitbook/assets/image (342).png" alt="Faulty URLs will now be flagged during the Token Estimation process of the AI Chatbot > Add Information part of the AI Chatbot Creation process.  "><figcaption><p>Faulty URLs will now be flagged during the Token Estimation process of the AI Chatbot > Add Information part of the AI Chatbot Creation process.  </p></figcaption></figure>
+
+We now have **Token Estimation Errors** that will appear as error messages when trying to ingest faulty URLs.&#x20;
+
+These errors will come with tooltips that explain why these URLs haven't been ingested, which range from inaccessible URLs to incompatible formats.
+
+### 🆕 Session Expiry
+
+<figure><img src=".gitbook/assets/image (340).png" alt="When editing Channels, you can change the &#x22;Session Timeout (Days)&#x22; of Instagram, Facebook Messenger, and WhatsApp. This will dictate the number of days before an existing inactive conversation is closed."><figcaption><p>When editing Channels, you can change the "Session Timeout (Days)" of Instagram, Facebook Messenger, and WhatsApp. This will dictate the number of days before an existing inactive conversation is closed.</p></figcaption></figure>
+
+**Session Expiry** can now be modified in your Channels. This dictates the number of days before an existing (but inactive) conversation with your AI Chatbot on Instagram, Facebook Messenger, or WhatsApp is closed.
+
+***
+
 ## v3.5.0
 
 ### 📆2025-01-29
