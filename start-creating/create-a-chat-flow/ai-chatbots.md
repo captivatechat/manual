@@ -1,6 +1,6 @@
 # AI Chatbots
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt="After setup, the &#x22;My AI Chatbots&#x22; window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the &#x22;+AI Chatbot&#x22; button."><figcaption><p>After setup, the "My AI Chatbots" window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the "+AI Chatbot" button.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (346).png" alt="After setup, the &#x22;My AI Chatbots&#x22; window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the &#x22;+AI Chatbot&#x22; button."><figcaption><p>After setup, the "My AI Chatbots" window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the "+AI Chatbot" button.</p></figcaption></figure>
 
 Once you name your Chat Flow, you will be taken to _**Step 1: AI Chatbots**_**.**&#x20;
 

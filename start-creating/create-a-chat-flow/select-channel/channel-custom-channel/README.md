@@ -10,7 +10,7 @@ description: >-
 
 After _**Select Channel > Custom Channel**_, you will be taken to _**Configure Custom Channel**_. This is where you can integrate your AI Chatbot as the assigned bot of your Custom Channel.
 
-* If you are using **JavaScript** in your application, you can use our Chat Library: [javascript-socket-api.md](javascript-socket-api.md "mention")
+* If you are using **JavaScript** in your application, you can use our Chat Library for rapid deployment: [javascript-socket-api.md](javascript-socket-api.md "mention")
 * If you are **not using JavaScript,** we advise you read through our full socket documentation [here.](https://www.npmjs.com/package/captivate-chat-api)&#x20;
 
 {% hint style="info" %}
@@ -78,8 +78,8 @@ You may proceed with the following:
 [javascript-socket-api.md](javascript-socket-api.md)
 {% endcontent-ref %}
 
-{% content-ref url="raw-socket-api.md" %}
-[raw-socket-api.md](raw-socket-api.md)
+{% content-ref url="socket-api.md" %}
+[socket-api.md](socket-api.md)
 {% endcontent-ref %}
 
 {% content-ref url="socket-conversation-testing.md" %}

@@ -51,7 +51,7 @@
       * [Configure the Endpoint for Integration](start-creating/create-a-chat-flow/select-channel/channel-whatsapp/configure-the-endpoint-for-integration.md)
     * [Channel: Custom Channel](start-creating/create-a-chat-flow/select-channel/channel-custom-channel/README.md)
       * [JavaScript Socket API](start-creating/create-a-chat-flow/select-channel/channel-custom-channel/javascript-socket-api.md)
-      * [Raw Socket API](start-creating/create-a-chat-flow/select-channel/channel-custom-channel/raw-socket-api.md)
+      * [Socket API](start-creating/create-a-chat-flow/select-channel/channel-custom-channel/socket-api.md)
       * [Socket Conversation Testing](start-creating/create-a-chat-flow/select-channel/channel-custom-channel/socket-conversation-testing.md)
   * [Select Live Chat Vendor](start-creating/create-a-chat-flow/select-live-chat-vendor.md)
   * [Modify your Chat Flow](start-creating/create-a-chat-flow/modify-your-chat-flow.md)
