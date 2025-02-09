@@ -1,19 +1,19 @@
 ---
 description: >-
-  WebSocket Endpoints that correspond to processes that transform your Custom
-  Channel into a fully functional AI Chatbot.
+  JavaScript Socket API Chat Library that correspond to processes that transform
+  your Custom Channel into a fully functional AI Chatbot.
 ---
 
-# WebSocket Endpoints
+# JavaScript Socket API
 
-These are **WebSocket Endpoints** that are currently available and compatible with the Captivate Chat platform. These are all intended to create processes that will transform your Custom Channel into a full-blown AI Chatbot.
+This is the Chat Library of the **JavaScript Socket API** that is currently available and compatible with the Captivate Chat platform. These are all intended to create processes that will transform your Custom Channel into a full-blown AI Chatbot.
 
 They are also available [here](https://www.npmjs.com/package/captivate-chat-api).
 
 {% hint style="warning" %}
 **REMINDER**
 
-These WebSocket Endpoints are advisable to be used by developers familiar with the product or service you want to transform into a Custom Channel.&#x20;
+This JavaScript Socket API is advisable to be used by developers familiar with the product or service you want to transform into a Custom Channel.&#x20;
 
 Please provide this page to them so they can conduct proper testing with the Custom Channel you want to create.
 {% endhint %}
