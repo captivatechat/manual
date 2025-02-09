@@ -17,7 +17,7 @@ This means we can preview it straight from the My Chat Flow list in the Captivat
 {% hint style="info" %}
 **Forgot how to preview a Web Widget?**
 
-If you forgot how to preview a Web Widget, refer to [preview-your-web-widget.md](../../create-a-chat-flow/select-channel/channel-web-widget/preview-your-web-widget.md "mention")
+If you forgot how to preview a Web Widget, refer to [preview-your-web-widget.md](../../create-a-chat-flow/select-channel/channel-web-chat/preview-your-web-widget.md "mention")
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (220).png" alt="Users can also ask an AI Chatbot to direct them to a Live Agent by saying &#x22;talk to human&#x22; or other similar messages."><figcaption><p>Users can also ask an AI Chatbot to direct them to a Live Agent by saying "talk to human" or other similar messages.</p></figcaption></figure>

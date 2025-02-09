@@ -6,19 +6,22 @@ After creating your Web Widget, you can preview how it looks like right from the
 
 ### Accessing your Web Widget
 
-<figure><img src="../../../../.gitbook/assets/image (288).png" alt="After creating a Web Widget Chat Flow, go to Setup > Chat Flows in Captivate Chat. Look for your new Web Widget Chat Flow. It should say &#x22;Web Widget&#x22; under the Channel column."><figcaption><p>After creating a Web Widget Chat Flow, go to Setup > Chat Flows in Captivate Chat. Look for your new Web Widget Chat Flow. It should say "Web Widget" under the Channel column.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (27).png" alt="After creating a Web Widget Chat Flow, go to Setup > Chat Flows in Captivate Chat. Look for your new Web Widget Chat Flow. It should say &#x22;Web Chat&#x22; under the Channel column."><figcaption><p>After creating a Web Widget Chat Flow, go to Setup > Chat Flows in Captivate Chat. Look for your new Web Widget Chat Flow. It should say "Web Chat" under the Channel column.</p></figcaption></figure>
 
-From your list of Chat Flows, hover your cursor over the ![The "Web Widget" text under the Channel column of your Web Widget Chat Flow is clickable. It will reveal the Widget Code and a "View Widget" button to take you to a preview.](<../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png>) icon. It should become clickable. Once you press it, the Widget Code should appear.
+From your list of Chat Flows, hover your cursor over the Web Chat icon. It should have two buttons:
+
+* **Web Chat Preview:** Click the eye ![](<../../../../.gitbook/assets/image (29).png>) symbol to preview your Web Chat.
+* **Web Chat Widget Code:** Click the code ![](<../../../../.gitbook/assets/image (30).png>) symbol to get your Web Chat's Widget Code&#x20;
 
 ***
 
 ### Widget Code
 
-<figure><img src="../../../../.gitbook/assets/image (114).png" alt="The Widget Code window is seen after clicking the &#x22;Web Widget&#x22; word under the Channel column of your Web Widget Chat Flow. It shows the code of your Web Widget that you can give to your Web Administrator, as well as a &#x22;View Widget&#x22; button to see a live preview of your Web Widget in a sample webpage."><figcaption><p>The Widget Code window is seen after clicking the "Web Widget" word under the Channel column of your Web Widget Chat Flow. It shows the code of your Web Widget that you can give to your Web Administrator, as well as a "View Widget" button to see a live preview of your Web Widget in a sample webpage.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (31).png" alt=""><figcaption><p>The Widget Code window is seen after clicking the code icon (the "&#x3C;>" sign) under the Channel column of your Web Chat Chat Flow. It shows the code of your Web Chat that you can give to your Web Administrator, as well as a "View Widget" button to see a live preview of your Web Widget in a sample webpage.</p></figcaption></figure>
+
+Access your Web Chat's Widget Code by clicking the code ![](<../../../../.gitbook/assets/image (30).png>) icon. You can toggle between the Web Widget code and the In Page code.
 
 This is the same Widget Code that appears in the final step of [.](./ "mention") instructions.&#x20;
-
-Click ![The "View Widget" button of the Widget Code window will lead users to a live preview of your Web Widget in a sample webpage.](<../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png>)  to see your Web Widget in a live preview.
 
 {% hint style="warning" %}
 **Give the Widget Code to your Web Administrator!**
@@ -32,7 +35,7 @@ If you want your web widget to appear on your live website, you must copy this W
 
 <figure><img src="../../../../.gitbook/assets/image (289).png" alt="The Widget Preview shows a live preview of a Web Widget in a sample webpage within Captivate Chat. "><figcaption><p>The Widget Preview shows a live preview of a Web Widget in a sample webpage within Captivate Chat. </p></figcaption></figure>
 
-When you click _**View Widget**_, your browser will open a new window that says _**Captivate Chat - Widget Preview**._&#x20;
+When you click the eye ![](<../../../../.gitbook/assets/image (29).png>) symbol, your browser will open a new window that says _**Captivate Chat - Widget Preview**._&#x20;
 
 This is the place where you can check how your Web Widget looks like even before you plug in the code to your actual website.&#x20;
 
@@ -73,7 +76,7 @@ Under _**Select Background Type**_, you can choose either a **Web** or **Image**
 
 <figure><img src="../../../../.gitbook/assets/image (293).png" alt="The Web Widget Preview webpage changes into the static background of your choice after uploading an image or inserting a URL in the &#x22;Background Type&#x22; section. "><figcaption><p>The Web Widget Preview webpage changes into the static background of your choice after uploading an image or inserting a URL in the "Background Type" section. </p></figcaption></figure>
 
-Click ![After uploading an image in the "Background Type" of the "Page Settings" of the Web Widget Preview webpage, click "Apply" in "Page Settings" to apply the changes.](<../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) once you're ready to apply the new background. This shows a static (non-moving) version of your source URL or image. You can still interact with your Web Widget prototype like in the first version of the preview. However, this time you can now see how your Web Widget looks like when placed in your website.
+Click ![After uploading an image in the "Background Type" of the "Page Settings" of the Web Widget Preview webpage, click "Apply" in "Page Settings" to apply the changes.](<../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) once you're ready to apply the new background. This shows a static (non-moving) version of your source URL or image. You can still interact with your Web Widget prototype like in the first version of the preview. However, this time you can now see how your Web Widget looks like when placed in your website.
 
 {% hint style="info" %}
 **Use the static preview to change the colors of your Web Widget!**

@@ -1,6 +1,6 @@
 # Settings
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="The &#x22;Settings&#x22; view of the user. This can be accessed by selecting either &#x22;Edit Profile,&#x22; &#x22;Manage Plan,&#x22; or &#x22;Account Details&#x22; after clicking the user&#x27;s profile picture on the upper-right side of the Captivate Chat internal dashboard."><figcaption><p>The "Settings" view of the user. This can be accessed by selecting either "Edit Profile," "Manage Plan," or "Account Details" after clicking the user's profile picture on the upper-right side of the Captivate Chat internal dashboard.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt="The &#x22;Settings&#x22; view of the user. This can be accessed by selecting either &#x22;Edit Profile,&#x22; &#x22;Manage Plan,&#x22; or &#x22;Account Details&#x22; after clicking the user&#x27;s profile picture on the upper-right side of the Captivate Chat internal dashboard."><figcaption><p>The "Settings" view of the user. This can be accessed by selecting either "Edit Profile," "Manage Plan," or "Account Details" after clicking the user's profile picture on the upper-right side of the Captivate Chat internal dashboard.</p></figcaption></figure>
 
 The _**Settings**_ view of your Captivate Chat account reveals more settings you can check and modify for your account. There's no allocated "Settings" button for this view, and you should instead do the following:
 

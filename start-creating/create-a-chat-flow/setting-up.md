@@ -12,5 +12,5 @@ A pop-up window should appear. Under **Create your Chat Flow**, fill up the foll
 
 Click ![The blue "Create Chat Flow" shows in the prompt that asks users to type their Chat Flow name. This appears after they click "+Chat Flow." Clicking "Create Chat Flow" creates an empty Chat Flow that needs an AI Chatbot, a Channel, and a Live Chat integration.](<../../.gitbook/assets/image (45).png>) when you're finished.
 
-<figure><img src="../../.gitbook/assets/image (18) (1) (1).png" alt="You have to name your Chat Flow before you start modifying its parameters"><figcaption><p>You have to name your Chat Flow before you start modifying its parameters</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1) (1) (1).png" alt="You have to name your Chat Flow before you start modifying its parameters"><figcaption><p>You have to name your Chat Flow before you start modifying its parameters</p></figcaption></figure>
 

@@ -8,7 +8,9 @@ Check our list of templates in the _**Select Type**_ page to see if any of them 
 
 We've already prepared AI Chatbot types you can select to meet specific functionalities. They are pre-programmed with behaviors to help them approach questions and tasks a specific way, making them "plug-and-play" for your convenience.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (21) (1).png" alt="Some of the templates in the &#x22;Select Type&#x22; page. The selected template will be highlighted in blue."><figcaption><p>Some of the templates in the "Select Type" page. The selected template will be highlighted in blue.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1) (1).png" alt="Some of the templates in the &#x22;Select Type&#x22; page. The selected template will be highlighted in blue."><figcaption><p>Some of the templates in the "Select Type" page. The selected template will be highlighted in blue.</p></figcaption></figure>
+
+Access the _Select Type_ page by clicking ![The "Add Type" button from the AI Chatbot creation process side bar gets you to the "Select Type" page.](<../../.gitbook/assets/image (7).png>) on the AI Chatbot creation side bar.&#x20;
 
 Select your AI Chatbot type by **clicking on the tile** you're interested in.
 
@@ -41,13 +43,13 @@ You can always create more elaborate AI Assistants later!
 
 ## Customize your AI Chatbot type
 
-Modify your AI Chatbot even further by clicking ![Click the "Customize (Advanced)" button in the "Select Type" page after selecting a template to edit its settings further in a separate menu.](<../../.gitbook/assets/image (22) (1).png>)  **after you've made your choice of AI Chatbot variant.** This brings you to a new _**Customize Type**_ window with adjustable parameters, as seen below:&#x20;
+Modify your AI Chatbot even further by clicking ![Click the "Customize (Advanced)" button in the "Select Type" page after selecting a template to edit its settings further in a separate menu.](<../../.gitbook/assets/image (22) (1) (1).png>)  **after you've made your choice of AI Chatbot variant.** This brings you to a new _**Customize Type**_ window with adjustable parameters, as seen below:&#x20;
 
 ### Customize Type (Structured)
 
 <figure><img src="../../.gitbook/assets/image (330).png" alt="The &#x22;Structured&#x22; tab with pre-formatted questions to make it easy for users to determine how their AI Chatbot should act (Personality), what questions it should anticipate (Input Instructions), the way it should analyze and respond (Output Instructions) and the format the AI Chatbot should use when replying to users (Output Format)."><figcaption><p>The "Structured" tab with pre-formatted questions to make it easy for users to determine how their AI Chatbot should act (Personality), what questions it should anticipate (Input Instructions), the way it should analyze and respond (Output Instructions) and the format the AI Chatbot should use when replying to users (Output Format).</p></figcaption></figure>
 
-Clicking ![Clicking "Customize (Advanced)" button in "Select Type" page reveals a "Customize Type" page. Users can use its two tabs to edit their template. ](<../../.gitbook/assets/image (22) (1).png>) allows you to modify the parameters of the AI Chatbot type you've chosen. This allows you to dictate exactly how you want your AI Chatbot to "think" and engage users.&#x20;
+Clicking ![Clicking "Customize (Advanced)" button in "Select Type" page reveals a "Customize Type" page. Users can use its two tabs to edit their template. ](<../../.gitbook/assets/image (22) (1) (1).png>) allows you to modify the parameters of the AI Chatbot type you've chosen. This allows you to dictate exactly how you want your AI Chatbot to "think" and engage users.&#x20;
 
 Under the _**Customize Type (Structured)**_ tab, we have prepared forms you can fill out with more specific instructions that you want the Chatbot to follow:&#x20;
 
@@ -124,8 +126,8 @@ By the time you reach this step, your AI Chatbot is "technically" fully function
 
 You can proceed with the next step in three (2) ways:
 
-* Click ![Clicking "Back" in the "Customize Type" view will send users back to the "Select Type" page.](<../../.gitbook/assets/image (2) (1) (1) (1).png>) to go to the main _**Select Type**_ page. Choose ![Clicking the "Next: Train Your Chatbot" button in the "Customize Type" view sends users to the "Train Your AI Chatbot" page.](<../../.gitbook/assets/image (269).png>) on the lower right-hand corner.
-* In the _**Customize Type**_ view, choose ![Clicking the "Next" button in the "Customize Type" view sends users to the "Train Your AI Chatbot" page.](<../../.gitbook/assets/image (24) (1).png>) on the lower right-hand corner.&#x20;
+* Click ![Clicking "Back" in the "Customize Type" view will send users back to the "Select Type" page.](<../../.gitbook/assets/image (2) (1) (1) (1) (1).png>) to go to the main _**Select Type**_ page. Choose ![Clicking the "Next: Train Your Chatbot" button in the "Customize Type" view sends users to the "Train Your AI Chatbot" page.](<../../.gitbook/assets/image (269).png>) on the lower right-hand corner.
+* In the _**Customize Type**_ view, choose ![Clicking the "Next" button in the "Customize Type" view sends users to the "Train Your AI Chatbot" page.](<../../.gitbook/assets/image (24) (1) (1).png>) on the lower right-hand corner.&#x20;
 * In either view, you can choose ![The "Finish" button at any stage in the AI Chatbot creation process will finish the editing process and return users to the Setup > My AI Chatbots menu.](<../../.gitbook/assets/image (168).png>) to save your changes and go back to _**Setup > My AI Chatbots**_.
 
 ***

@@ -4,7 +4,7 @@ description: Set your AI Assistant as a Chatbot of an Instagram Page
 
 # Channel: Instagram
 
-<figure><img src="../../../.gitbook/assets/image (296).png" alt="The &#x22;Step 2: Select Channel&#x22; page will have Instagram highlighted in blue when you click it."><figcaption><p>The "Step 2: Select Channel" page will have Instagram highlighted in blue when you click it.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt="The &#x22;Step 2: Select Channel&#x22; page will have Instagram highlighted in blue when you click it."><figcaption><p>The "Step 2: Select Channel" page will have Instagram highlighted in blue when you click it.</p></figcaption></figure>
 
 After _**Select Channel > Instagram**_, you will be taken to _**Configure Instagram**_. This is where you can integrate your AI Chatbot as the assigned bot of your Instagram Page.
 
