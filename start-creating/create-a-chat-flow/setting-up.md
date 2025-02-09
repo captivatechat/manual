@@ -1,6 +1,6 @@
 # Setting Up
 
-<figure><img src="../../.gitbook/assets/image (276).png" alt="Under Setup > Chat Flows, users can see their existing Chat Flows as well as a +Chat Flow button to create their own Chat Flow."><figcaption><p>Under Setup > Chat Flows, users can see their existing Chat Flows as well as a +Chat Flow button to create their own Chat Flow.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (347).png" alt="Under Setup > Chat Flows, users can see their existing Chat Flows as well as a +Chat Flow button to create their own Chat Flow."><figcaption><p>Under Setup > Chat Flows, users can see their existing Chat Flows as well as a +Chat Flow button to create their own Chat Flow.</p></figcaption></figure>
 
 Before creating your actual Chat Flow, you need to set it up in the Captivate Chat platform.&#x20;
 
