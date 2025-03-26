@@ -8,7 +8,91 @@ description: >-
 
 ***
 
-##
+## v4.0.0
+
+### 📆2025-03-21
+
+### ✅ Added
+
+* **Full Chat Channels are live!** If you want your AI Chatbot to have a dedicated webpage, you can finally create a full-sized messaging page with our Full Chat Channels.&#x20;
+* **Markdown now supported by Web Chats!** Expect more visual flair when conversing with our Web Chats thanks to markdown language support.&#x20;
+* **Speech Options make Web Chats for accessible!** Use Speech Options with Web Chats to add options to talk to AI Chatbots with your built-in microphone or even hear their responses.&#x20;
+* **Other Options provide more customizability to Web Chats!** Customize more specific aspects of your Web Chat such as strings that indicate _"text sent by"_ or text to _"download transcript_."&#x20;
+
+### 🟧 Changed
+
+* **Transcripts**
+  * **Replaced Name with Last Chat Message:** Instead of listing the _Name_ of the users who conversed with an AI Chatbot in the Transcripts, we're listing their _Last Chat Message_ instead.&#x20;
+* **Import Your Own Information**
+  * **More Filter Options:** You can now sort your data more intuitively with updated filter options inside AI Chatbots > Add Information. In the Import Your Own Information window, you can now filter columns in ascending or descending order, and filter the types of data displayed based on their status.&#x20;
+  * **File Folders with URL Crawler:** Use Captivate Chat's built-in URL Crawler feature to find file folders, making the data ingestion process more efficient.&#x20;
+
+### ⚠️ Fixed
+
+* Fixed a bug where the button to request for Live Agents are not visible when opened using Safari.
+* Fixed a bug that doesn't reset the checkbox of a deleted Transcript.
+* Fixed a bug where mass ingestion via Chatbot > Add Information suddenly stops while still incomplete.
+* Fixed a bug where ingestion via Chatbot > Add Information didn't make any progress at all.
+
+### 🆕 Full Chat Channels will dedicate a webpage for your AI Chatbot
+
+<figure><img src=".gitbook/assets/image (350).png" alt="Create a &#x22;Full Chat&#x22; Channel within Chat Flows > Channels will set up an AI Chatbot that occupies an entire webpage. "><figcaption><p>Create a "Full Chat" Channel within Chat Flows > Channels will set up an AI Chatbot that occupies an entire webpage. </p></figcaption></figure>
+
+While our Web Chat Channels can be expanded to occupy a larger portion of your screen, they're still technically a part of whatever page you assigned them to.&#x20;
+
+This all changes with **Full Chat Channels**, as this lets you set up an AI Chatbot that will occupy an entire webpage.&#x20;
+
+### 🆕 Markdown Syntax now supported by Web Chats
+
+<figure><img src=".gitbook/assets/image (353).png" alt="Web Chats now support Markdown syntax, allowing AI Chatbots to provide more structured and visually appealing responses."><figcaption><p>Web Chats now support Markdown syntax, allowing AI Chatbots to provide more structured and visually appealing responses.</p></figcaption></figure>
+
+Our Web Chats now support **Markdown** syntax, allowing AI Chatbots to provide more structured responses. Enjoy tables, headers, and other formatting options when conversing with your AI Chatbots.
+
+### 🆕 Customize Web Chats further with Other Options!
+
+<figure><img src=".gitbook/assets/image (348).png" alt="The &#x22;Other Options&#x22; menu under Chat Flow > Channels > Web Chat will now let users change specific values of text fields of their web chats and widgets, adding more variety to messages."><figcaption><p>The "Other Options" menu under Chat Flow > Channels > Web Chat will now let users change specific values of text fields of their web chats and widgets, adding more variety to messages.</p></figcaption></figure>
+
+We've incorporated **Other Options** in Configure Web Chat, giving you the opportunity to provide specific string values to other parts of your AI Chatbot's web chats or web widgets.&#x20;
+
+Unlike values such as your AI Chatbot's name or organization name, Other Options can let you customize more UI-leaning elements, specifically what your Web Chat says when...&#x20;
+
+* ...you want to download the transcript
+* ...it tells the date "today"
+* ...you want to chat with a Live Agent
+* ...you want to send a message to your Web Chat
+* ...you want to start a conversation
+
+And many more!
+
+### 🆕 Speech Options make Web Chats more convenient!
+
+<figure><img src=".gitbook/assets/image (349).png" alt="&#x22;Speech Options&#x22; in Chat Flows > Channel > Configure Web Chat will allow users to toggle options that will let them talk to AI Chatbots via their microphone (Enable Voice In) and/or hear spoken responses (Enable Read Out)."><figcaption><p>"Speech Options" in Chat Flows > Channel > Configure Web Chat will allow users to toggle options that will let them talk to AI Chatbots via their microphone (Enable Voice In) and/or hear spoken responses (Enable Read Out).</p></figcaption></figure>
+
+Thanks to **Speech Options** within Configure Web Chat, we can now toggle more advanced and accessible audio options when interacting with our AI Chatbots. Depending on your preference, you can:
+
+* **Enable Voice In:** This will let users use their microphone to talk to your AI Chatbot.
+* **Enable Read Out:** This will let users get their AI Chatbot's responses in audio form.
+
+### 🆕 Last Chat Message in Transcripts
+
+<figure><img src=".gitbook/assets/image (351).png" alt="&#x22;Last Chat Message&#x22; replaces &#x22;Name&#x22; in Transcripts, allowing users to see the last chat message sent before being logged into the Transcript for that specific time period."><figcaption><p>"Last Chat Message" replaces "Name" in Transcripts, allowing users to see the last chat message sent before being logged into the Transcript for that specific time period.</p></figcaption></figure>
+
+We've removed the "Name" column in Transcripts and replaced them with **Last Chat Message**, giving you the last message sent to the conversation before it was logged by the system.&#x20;
+
+### 🆕 Filter Options now available in Import Your Own Information
+
+<figure><img src=".gitbook/assets/image (352).png" alt=""><figcaption><p>AI Chatbots > Add Data will bring users to an updated Import Your Own Information page, where there's a Filter for Status (Active/Other States) and Type (Web/PDF) as well as the option to sort things in ascending and descending order.</p></figcaption></figure>
+
+Users can now filter and sort their data more efficiently in the "Import Your Own Information" page. New options include:
+
+* **Filter:** Only reveal data based on their **Status (Active or Other Statuses)** and/or their **Type (Web or PDF)**
+* **Sort:** Select arrows beside the name of the column you want to sort in descending or ascending order.
+
+### 🆕 Custom Channels
+
+
+
+***
 
 ## v3.5.1
 
