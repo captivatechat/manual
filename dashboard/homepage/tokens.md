@@ -1,6 +1,6 @@
 # Tokens
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt="A view of the Tokens that users have currently used versus how many Tokens are left in their account, alongside a countdown on the nearest Monthly Usage Reset and their Extra Tokens."><figcaption><p>A view of the Tokens that users have currently used versus how many Tokens are left in their account, alongside a countdown on the nearest Monthly Usage Reset and their Extra Tokens.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt="A view of the Tokens that users have currently used versus how many Tokens are left in their account, alongside a countdown on the nearest Monthly Usage Reset and their Extra Tokens."><figcaption><p>A view of the Tokens that users have currently used versus how many Tokens are left in their account, alongside a countdown on the nearest Monthly Usage Reset and their Extra Tokens.</p></figcaption></figure>
 
 While AI Chatbots you create in Captivate Chat are extremely intelligent, they still follow specific programming. They need to process the data (actual data or conversations) they receive in a certain way which involves "breaking" them into "chunks" called **Tokens**.
 

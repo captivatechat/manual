@@ -12,7 +12,7 @@ This window contains the necessary information that have to be filled out before
 
 ## Configure WhatsApp
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt="Basic information that have to be filled out for a successful WhatsApp integration include the public name of the WhatsApp Chat Flow, a basic description, and a Provider that is set to Twilio by default."><figcaption><p>Basic information that have to be filled out for a successful WhatsApp integration include the public name of the WhatsApp Chat Flow, a basic description, and a Provider that is set to Twilio by default.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt="Basic information that have to be filled out for a successful WhatsApp integration include the public name of the WhatsApp Chat Flow, a basic description, and a Provider that is set to Twilio by default."><figcaption><p>Basic information that have to be filled out for a successful WhatsApp integration include the public name of the WhatsApp Chat Flow, a basic description, and a Provider that is set to Twilio by default.</p></figcaption></figure>
 
 Before you're able to integrate your AI Chatbot into WhatsApp, you have to fill up a few details:
 
@@ -24,7 +24,7 @@ Before you're able to integrate your AI Chatbot into WhatsApp, you have to fill 
 
 ## Join Twilio
 
-<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="The upper right side of the screen of the Twilio homepage has &#x22;Start for Free&#x22; button that leads to the registration process."><figcaption><p>The upper right side of the screen of the Twilio homepage has "Start for Free" button that leads to the registration process.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt="The upper right side of the screen of the Twilio homepage has &#x22;Start for Free&#x22; button that leads to the registration process."><figcaption><p>The upper right side of the screen of the Twilio homepage has "Start for Free" button that leads to the registration process.</p></figcaption></figure>
 
 In order to fill up the Account SID and Authentication Token, you have to **sign up for a Twilio** account.
 
@@ -36,7 +36,7 @@ Go to the **Twilio website** at [https://www.twilio.com/](https://www.twilio.com
 Twilio is a platform that uses web APIs to perform communication functions, such as text messaging and calls. Captivate Chat will automatically facilitate the connection between Twilio and your AI Chatbot.&#x20;
 {% endhint %}
 
-Click ![The upper right side of the screen of the Twilio homepage has "Start for Free" button that leads to the registration process.](<../../../../.gitbook/assets/image (6) (1) (1) (1).png>) and follow the instructions to register a new account. You’ll need to provide your email address and set a password. Afterwards, you have to:
+Click ![The upper right side of the screen of the Twilio homepage has "Start for Free" button that leads to the registration process.](<../../../../.gitbook/assets/image (6) (1) (1) (1) (1).png>) and follow the instructions to register a new account. You’ll need to provide your email address and set a password. Afterwards, you have to:
 
 * **Verify your email.** Check your email for a verification link from Twilio and click on it to verify your account.&#x20;
 * **Verify your phone number.** Twilio will ask you to **verify your phone number.** Just follow the on-screen instructions. It will involve receiving a validation code.&#x20;
@@ -48,7 +48,7 @@ Click ![The upper right side of the screen of the Twilio homepage has "Start for
 
 ### Go to the Twilio Console (Dashboard)
 
-<figure><img src="../../../../.gitbook/assets/image (8) (1) (1) (1).png" alt="The Twilio dashboard."><figcaption><p>The Twilio dashboard.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt="The Twilio dashboard."><figcaption><p>The Twilio dashboard.</p></figcaption></figure>
 
 Log into Twilio. This will bring you to the **Twilio Console**, which serves as your main dashboard.
 
@@ -58,8 +58,8 @@ Alternatively, you can access the Twilio Console via [https://console.twilio.com
 
 With your Twilio Paid Account, go to your Twilio Console and look for _**WhatsApp Senders**_. To do this, you have to:
 
-1. Click ![The Messaging dropdown in the Twilio dashboard appears on the left-hand menu.](<../../../../.gitbook/assets/image (10) (1) (1) (1).png>) in the left-hand menu.&#x20;
-2. From the drop-down menu, find ![After clicking the Messaging dropdown button, find the Senders drop down button and click it.](<../../../../.gitbook/assets/image (11) (1) (1).png>) _**>**_ ![After going to Messaging > Senders in the Twilio Dashboard, find WhatsApp senders. Click it to open the WhatsApp senders page in Twilio.](<../../../../.gitbook/assets/image (12) (1) (1).png>)
+1. Click ![The Messaging dropdown in the Twilio dashboard appears on the left-hand menu.](<../../../../.gitbook/assets/image (10) (1) (1) (1) (1).png>) in the left-hand menu.&#x20;
+2. From the drop-down menu, find ![After clicking the Messaging dropdown button, find the Senders drop down button and click it.](<../../../../.gitbook/assets/image (11) (1) (1) (1).png>) _**>**_ ![After going to Messaging > Senders in the Twilio Dashboard, find WhatsApp senders. Click it to open the WhatsApp senders page in Twilio.](<../../../../.gitbook/assets/image (12) (1) (1) (1).png>)
 
 Depending on what you've already done with Twilio, follow either of these steps:&#x20;
 

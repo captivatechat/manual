@@ -49,6 +49,8 @@
       * [Submit your first WhatsApp Sender](start-creating/create-a-chat-flow/select-channel/channel-whatsapp/submit-your-first-whatsapp-sender.md)
       * [Setting up more WhatsApp Senders](start-creating/create-a-chat-flow/select-channel/channel-whatsapp/setting-up-more-whatsapp-senders.md)
       * [Configure the Endpoint for Integration](start-creating/create-a-chat-flow/select-channel/channel-whatsapp/configure-the-endpoint-for-integration.md)
+    * [Channel: Full Chat](start-creating/create-a-chat-flow/select-channel/channel-full-chat/README.md)
+      * [Preview Full Chat Channel](start-creating/create-a-chat-flow/select-channel/channel-full-chat/preview-full-chat-channel.md)
     * [Channel: Custom Channel](start-creating/create-a-chat-flow/select-channel/channel-custom-channel/README.md)
       * [JavaScript Socket API](start-creating/create-a-chat-flow/select-channel/channel-custom-channel/javascript-socket-api.md)
       * [Socket API](start-creating/create-a-chat-flow/select-channel/channel-custom-channel/socket-api.md)

@@ -16,7 +16,7 @@ Our AI Chatbots are capable of performing what's called **NLP** or natural langu
 Providing new questions and answers, as well as feedback, to your AI Chatbot slowly "shapes" its thought processes - allowing it to perform exactly how you need it to.&#x20;
 {% endhint %}
 
-To access the _Train Your AI Chatbot_ page, click ![Click "Train" on the side bar of the AI Chatbot creation process to access the "Train Your AI Chatbot" page.](<../../.gitbook/assets/image (8).png>) on the side bar of the AI Chatbot creation process.
+To access the _Train Your AI Chatbot_ page, click ![Click "Train" on the side bar of the AI Chatbot creation process to access the "Train Your AI Chatbot" page.](<../../.gitbook/assets/image (8) (1).png>) on the side bar of the AI Chatbot creation process.
 
 The _Train your AI Chatbot_ page has these major components:&#x20;
 
@@ -52,7 +52,7 @@ Once done, click ![Click "+Add to Q\&A" to override the "Current Answer" with th
 
 ## Trained Questions and Answers
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt="The &#x22;Trained Questions and Answers&#x22; part of the &#x22;Train Your AI Chatbot&#x22; page will contain the Test Question and the Correct Answer you&#x27;ve just submitted."><figcaption><p>The "Trained Questions and Answers" part of the "Train Your AI Chatbot" page will contain the Test Question and the Correct Answer you've just submitted.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt="The &#x22;Trained Questions and Answers&#x22; part of the &#x22;Train Your AI Chatbot&#x22; page will contain the Test Question and the Correct Answer you&#x27;ve just submitted."><figcaption><p>The "Trained Questions and Answers" part of the "Train Your AI Chatbot" page will contain the Test Question and the Correct Answer you've just submitted.</p></figcaption></figure>
 
 The _**Trained Questions and Answers**_ segment contains the list of Questions, Correct Answers, and Messages that have been inserted by the user.&#x20;
 
@@ -60,7 +60,7 @@ The _**Trained Questions and Answers**_ segment contains the list of Questions, 
 
 Insert your own list of questions and answers as a CSV file instead of manually typing them.  To do this, click ![Click the "+Add with CSV" button to submit a CSV spreadsheet file containing Q\&As that your AI Chatbot will refer to.](<../../.gitbook/assets/image (40) (1).png>).
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt=""><figcaption><p>Use the "Submit Additional Q&#x26;A" window to upload a CSV spreadsheet of Q&#x26;A pairs you want your AI Chatbot to use. Click the "+Add Q&#x26;A" button after uploading your CSV file to officially insert your Q&#x26;A pairs into your AI Chatbot via the "Train Your AI Chatbot" page.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Use the "Submit Additional Q&#x26;A" window to upload a CSV spreadsheet of Q&#x26;A pairs you want your AI Chatbot to use. Click the "+Add Q&#x26;A" button after uploading your CSV file to officially insert your Q&#x26;A pairs into your AI Chatbot via the "Train Your AI Chatbot" page.</p></figcaption></figure>
 
 After clicking ![Click the "+Add with CSV" button to submit a CSV spreadsheet file containing Q\&As that your AI Chatbot will refer to.](<../../.gitbook/assets/image (41).png>), a pop-up window should appear.
 

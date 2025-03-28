@@ -40,7 +40,7 @@ description: >-
 
 While our Web Chat Channels can be expanded to occupy a larger portion of your screen, they're still technically a part of whatever page you assigned them to.&#x20;
 
-This all changes with **Full Chat Channels**, as this lets you set up an AI Chatbot that will occupy an entire webpage.&#x20;
+This all changes with **Full Chat Channels**, as this lets you set up an AI Chatbot that will occupy an entire webpage! You can finally direct your users to a webpage dedicated to a chatbot - great for interactive sessions!&#x20;
 
 ### 🆕 Markdown Syntax now supported by Web Chats
 
@@ -293,7 +293,7 @@ As have yet to fully optimize the Captivate Chat platform for mobile users, this
 
 ### 🆕 Token Metrics
 
-<figure><img src=".gitbook/assets/image (6) (1).png" alt="Tokens are now tracked throughout Captivate Chat features. The main Token count is revealed on the left side of the dashboard at all times, giving users an idea how many Tokens they have consumed, when their next Monthly Usage Reset would be, and any Extra Tokens they possess."><figcaption><p>Tokens are now tracked throughout Captivate Chat features. The main Token count is revealed on the left side of the dashboard at all times, giving users an idea how many Tokens they have consumed, when their next Monthly Usage Reset would be, and any Extra Tokens they possess.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1).png" alt="Tokens are now tracked throughout Captivate Chat features. The main Token count is revealed on the left side of the dashboard at all times, giving users an idea how many Tokens they have consumed, when their next Monthly Usage Reset would be, and any Extra Tokens they possess."><figcaption><p>Tokens are now tracked throughout Captivate Chat features. The main Token count is revealed on the left side of the dashboard at all times, giving users an idea how many Tokens they have consumed, when their next Monthly Usage Reset would be, and any Extra Tokens they possess.</p></figcaption></figure>
 
 The Captivate Chat platform will now show **token metrics** to keep track of your Tokens whenever you use them across various parts of the platform. These include:
 
@@ -307,15 +307,15 @@ In line with this new change, we are also going to **actively track** Token usag
 
 ### 🆕We revamped the Web Widget Preview
 
-<figure><img src=".gitbook/assets/image (8) (1).png" alt="The Web Widget Preview of Setup > Chat Flow > Channels > Web Widget is revamped with a more streamlined look."><figcaption><p>The Web Widget Preview of Setup > Chat Flow > Channels > Web Widget is revamped with a more streamlined look.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (1) (1).png" alt="The Web Widget Preview of Setup > Chat Flow > Channels > Web Widget is revamped with a more streamlined look."><figcaption><p>The Web Widget Preview of Setup > Chat Flow > Channels > Web Widget is revamped with a more streamlined look.</p></figcaption></figure>
 
 We've upgraded the look of our **Web Widget Preview**!&#x20;
 
 You can now preview your Web Widget Chat Flow with a completely revamped background.
 
-<figure><img src=".gitbook/assets/image (7) (1).png" alt="The Web Widget Preview of Setup > Chat Flow > Channels > Web Widget now has a more visible &#x22;Page Settings&#x22; button to edit the live preview."><figcaption><p>The Web Widget Preview of Setup > Chat Flow > Channels > Web Widget now has a more visible "Page Settings" button to edit the live preview.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1) (1).png" alt="The Web Widget Preview of Setup > Chat Flow > Channels > Web Widget now has a more visible &#x22;Page Settings&#x22; button to edit the live preview."><figcaption><p>The Web Widget Preview of Setup > Chat Flow > Channels > Web Widget now has a more visible "Page Settings" button to edit the live preview.</p></figcaption></figure>
 
-The ![](<.gitbook/assets/image (9) (1).png>) button is now more visible and accessible, making it much easier for users to modify their live preview setup.&#x20;
+The ![](<.gitbook/assets/image (9) (1) (1).png>) button is now more visible and accessible, making it much easier for users to modify their live preview setup.&#x20;
 
 ***
 
@@ -339,7 +339,7 @@ The ![](<.gitbook/assets/image (9) (1).png>) button is now more visible and acce
 
 ### 🆕 Website Makeover!
 
-<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt="The new Captivate Chat website featuring its updated logo with a blue color palette. "><figcaption><p>The new Captivate Chat website featuring its updated logo with a blue color palette. </p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1).png" alt="The new Captivate Chat website featuring its updated logo with a blue color palette. "><figcaption><p>The new Captivate Chat website featuring its updated logo with a blue color palette. </p></figcaption></figure>
 
 We're giving the Captivate Chat website a major makeover!&#x20;
 
@@ -347,7 +347,7 @@ This new update features **new logos** we've prepared for Captivate Chat, now fe
 
 ### 🆕 Edit your AI Chatbots while making Chat Flows
 
-<figure><img src=".gitbook/assets/image (5) (1) (1).png" alt="Users can now click the three dots above their AI Chatbot choice in Setup > Chat Flow > My AI Chatbots to directly modify their AI Chatbots during the Chat Flow creation process."><figcaption><p>Users can now click the three dots above their AI Chatbot choice in Setup > Chat Flow > My AI Chatbots to directly modify their AI Chatbots during the Chat Flow creation process.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1).png" alt="Users can now click the three dots above their AI Chatbot choice in Setup > Chat Flow > My AI Chatbots to directly modify their AI Chatbots during the Chat Flow creation process."><figcaption><p>Users can now click the three dots above their AI Chatbot choice in Setup > Chat Flow > My AI Chatbots to directly modify their AI Chatbots during the Chat Flow creation process.</p></figcaption></figure>
 
 We know that creating an AI Chatbot from scratch is wildly different when compared to connecting them to the rest of your Channels and Live Chats via a Chat Flow, as there are things you would only notice about your AI Chatbot after bringing everything together.
 
@@ -378,7 +378,7 @@ This means you no longer have to go all the way back to _Setup > AI Chatbot_ jus
 
 ### 🆕 Overwrite Warning (Chat Flow)
 
-<figure><img src=".gitbook/assets/image (5) (1).png" alt="Trying to change the Channel of an existing Chat Flow will now provide a warning to users that doing so will overwrite their existing data."><figcaption><p>Trying to change the Channel of an existing Chat Flow will now provide a warning to users that doing so will overwrite their existing data.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1).png" alt="Trying to change the Channel of an existing Chat Flow will now provide a warning to users that doing so will overwrite their existing data."><figcaption><p>Trying to change the Channel of an existing Chat Flow will now provide a warning to users that doing so will overwrite their existing data.</p></figcaption></figure>
 
 We have included an **override warning** in Chat Flows that will activate whenever users try to change the Channel of an existing Chat Flow. Undergoing this process will overwrite their data, and any overwritten data can no longer be retrieved.
 
@@ -388,7 +388,7 @@ It's advisable for users to duplicate their existing Chat Flow before switching 
 
 ### Transcript Options
 
-<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt="The Transcript page offers various features such as a Search function, as well as sorting through Filters such as Email, Channel, or Chat Flow. There are options to pick a Date to sort lists of conversations, as well as the option to check multiple conversations for deletion."><figcaption><p>The Transcript page offers various features such as a Search function, as well as sorting through Filters such as Email, Channel, or Chat Flow. There are options to pick a Date to sort lists of conversations, as well as the option to check multiple conversations for deletion.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt="The Transcript page offers various features such as a Search function, as well as sorting through Filters such as Email, Channel, or Chat Flow. There are options to pick a Date to sort lists of conversations, as well as the option to check multiple conversations for deletion."><figcaption><p>The Transcript page offers various features such as a Search function, as well as sorting through Filters such as Email, Channel, or Chat Flow. There are options to pick a Date to sort lists of conversations, as well as the option to check multiple conversations for deletion.</p></figcaption></figure>
 
 The **Transcript** page now offers different options for users to sort conversations detected by the Captivate Chat platform. These include the following:
 

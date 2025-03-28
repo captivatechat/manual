@@ -6,4 +6,4 @@ After the _Train Your AI Chatbot_ page of the AI Chatbot creation process, you w
 
 We are currently refining this stage of the AI Chatbot creation process. Stay tuned!
 
-For now, click ![If you made it to the "Select Integration" page of the AI Chatbot creation process, leave it be and click "Update AI Chatbot" to finish the AI Chatbot creation process.](<../../../.gitbook/assets/image (3) (1) (1) (1) (1).png>)  to finish the AI Chatbot setup.
+For now, click ![If you made it to the "Select Integration" page of the AI Chatbot creation process, leave it be and click "Update AI Chatbot" to finish the AI Chatbot creation process.](<../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png>)  to finish the AI Chatbot setup.
