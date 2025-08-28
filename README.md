@@ -4,38 +4,50 @@ description: Welcome to Captivate Chat!
 
 # 📚 Overview
 
-<figure><img src=".gitbook/assets/Captivate Chat Logo All Dark.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Captivate 2025 Logo.png" alt=""><figcaption></figcaption></figure>
 
-## What is Captivate Chat?
+## What is Captivate?
 
-**Captivate Chat** harnesses the power of AI alongside your organization’s documentation, processes, expertise, and data to create customized **AI Chatbots**.&#x20;
+**Captivate** harnesses the power of AI alongside your sales processes, expertise, and data to create an intelligent sales execution platform. Whether you aim to accelerate deal velocity, enhance rep performance, or streamline administrative tasks, Captivate equips you with the tools to transform your sales delivery and leverage AI's incredible potential.
 
-Whether you aim to enable your team, educate your staff, or engage with your customers, Captivate Chat equips you with the tools to enhance your delivery and leverage AI’s incredible potential.
+Captivate empowers sales teams to execute smarter with minimal technical knowledge, using our groundbreaking **Chat Flows** to integrate with your existing tools, and our AI engine to support every stage of the sales process. Our platform simplifies complex sales operations, allowing you to harness AI's capabilities effortlessly.
 
-Captivate Chat empowers anyone to build powerful **AI Chatbots** with minimal or no prior knowledge, use our groundbreaking **Chat Flows** to deploy them to your website and social media, and use the same Chat Flows to connect users to your live agents. Our platform simplifies the process, allowing you to harness AI’s capabilities effortlessly.
-
-Captivate Chat is your go-to solution for bringing AI’s power to your business.&#x20;
+Captivate is your go-to solution for bringing AI's power to your sales organisation.
 
 ***
 
-## Introducing "Easy AI"
+## Let AI make selling easy
 
-With Captivate Chat's **AI Chatbots** and **Chat Flows**, you can bypass the complexities of building AI solutions from scratch. We place the tools you need to address your business challenges directly in your hands, not in the hands of IT.&#x20;
+With Captivate's **AI sales execution platform** and **AI solutions**, you can bypass the complexities of traditional sales technology stacks. We place the tools you need to address your sales challenges directly in your hands, not in the hands of IT.
 
-#### Design your own AI products
+* **Design your own sales AI solutions** Turn your sales processes into AI-powered workflows. Our platform simplifies the creation of intelligent sales assistance that works exactly how your team sells. You can configure your sales workflows, import your product information, and train your AI assistant - all in one interface!&#x20;
+* **Use AI with tools you already know** Through **Chat Flows**, you can deploy sales AI through the platforms you use daily, such as your CRM, Microsoft Teams, Slack, and web applications. Additionally, Chat Flows integrate seamlessly with your existing sales stack, enabling your team to access AI support without changing how they work.&#x20;
+* **Create the perfect solution with expert guidance** No sales process is "too complex" for Captivate. If you think your sales workflow doesn't fit our standard offerings, our team is one message away.
 
-Turn your ideas into awesome products. Our platform simplifies the process of creating your own **AI Chatbots**.&#x20;
+Our design team, along with our talented AI engineers, will help you create and test solutions that fit your sales organisation perfectly.
 
-You can select a chatbot template, import your information, and train your AI Chatbot - all in one interface!
+#### Core Benefits
 
-#### Use your AI Chatbots with tools you already know
+* **Vendor Neutral**: Never locked into single technology
+* **Flexible Middleware**: Adapts to your workflow
+* **Scalable**: Small teams to enterprise deployments
+* **Custom Integration**: 7,000+ via Zapier plus bespoke development
 
-Through **Chat Flows**, you can deploy your AI Chatbots through the tools you use daily, such as WhatsApp, Facebook Messenger, Instagram, and your website.&#x20;
+***
 
-Additionally, Chat Flows integrate with Microsoft Teams and Slack, enabling your staff to provide human support when needed.
+## Athena: Your AI sales acceleration engine
 
-#### Create the perfect solution with expert guidance
+**Athena** is the intelligent engine powering Captivate's sales acceleration capabilities. Built to support sales professionals before, during, and after every sales engagement, Athena transforms how your team prepares, presents, and follows through.
 
-No idea is "too complex" for Captivate Chat. If you think your AI Chatbot or service idea doesn't' fit our offerings, our team is one message away.
+### The Three-Stage Sales Support System
 
-Our design team, along with our talented data and AI engineers, will help you create and test solutions that fit your needs perfectly.
+* **Before:** Athena pulls data from your CRM, email, calendar, and news sources to generate comprehensive call briefings in seconds, whilst delivering just-in-time micro-training based on knowledge gaps or upcoming conversation topics.
+* **During:** Real-time AI assistance provides instant access to product details, pricing, and competitive intelligence, alongside live conversation analysis that prompts for upsell opportunities and objection handling.
+* **After:** Automated workflow management handles CRM updates, follow-up email drafting, contact report generation, and meeting transcription with action items - eliminating post-call administrative burden.
+
+### Athena Insights: Market Intelligence Layer
+
+* **Individual Performance:** Benchmark rep performance against anonymised market standards, identify specific skill gaps for targeted coaching, and recognise successful behaviour patterns that correlate with higher win rates.
+* **Market Intelligence:** Access real-time trend analysis across industries with early warning systems for budget freezes, competitor activity, and emerging objection patterns that surface weeks before hitting the wider market.
+* **Competitive Advantage:** Leverage aggregated win/loss benchmarks and content effectiveness insights from across the network - creating a compounding advantage where more organisations joining increases the value for all participants.
+

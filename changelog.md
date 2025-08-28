@@ -8,6 +8,84 @@ description: >-
 
 ***
 
+
+
+## v5.0.1
+
+### 📆2025-08-26
+
+### ✅ Added
+
+* **General**
+  * **External Bots:** With Developer Mode on, you can now use an API endpoint to connect third-party chatbots to Captivate Chat Flows.
+  * **AI Agent Groups (Beta):** With Developer Mode on you can now create AI Agent Groups comprised of many AI Chatbots. Attach this to your Chat Flow and your conversations get auto-routed to the appropriate AI Chatbot.&#x20;
+* **AI Chatbots**
+  * **Enable Mini Course Integration (AI Chatbot > Integration):** Start creating Mini Courses based on your bot’s ingested knowledge.
+  * **Custom Tags & Metadata (for AI Chatbot > Add Data) (5.0.2):** Allow users to filter ingested docs using custom keywords. You can test this in the Import Your Information/Add Data step of AI Chatbot creation.
+
+
+
+***
+
+## v5.0.0
+
+### 📆2025-08-01
+
+### ✅ Added
+
+* **General**
+  * **Developer Mode:** Users can now enjoy more advanced features from Captivate by toggling the Developer Mode in their Account Settings.
+* **AI Chatbots**
+  * **External Bots:** Use an API endpoint to turn third-party chatbots into bots compatible with Captivate Chat Flows. This selection can be toggled once Developer Mode is activated.    \
+    Add Data supports more file types: Aside from PDFs and URLs, you can now upload DOCX, XPS, RTF, TXT, PPTX, XLSX, XLS, and CSV files.
+  * **Markdown format now set as default:** Get more visually-consistent conversations with Captivate bots as we've set Markdown as the default format of responses.    \
+    Select Type Summarized View: Identify your AI Chatbot's selected chatbot Type easier with the modified Select Type view. Users will also receive a warning before choosing another Type.
+*   **Chat Flows**
+
+
+
+    * **Atomization of edits:** Editing Chat Flows will now open a selector that lets you choose which specific Chat Flow component you want to edit - whether the AI Chatbot, Channel, Livechat, or all of them at once.
+    *   **Full Chat:**
+
+        * **Badges now available:** Passing a Knowledge Test now rewards users with a course Badge. They no longer will be able to retake the Knowledge Test.
+
+
+
+        * **Add Feedback options:** Create a list of suggested subject lines and emails where user feedback is automatically sent, allowing you to respond to user suggestions and complaints much faster.
+        * **Add Terms and Conditions:** Attach Terms and Conditions to your Full Chat to accommodate specific legal requirements by your team.
+        * **Start Chat Toggle (You and AI):** Use a toggle to choose whether you or your AI Chatbot will start a conversation in your Full Chat. This is set to your AI Chatbot by default.
+        * **Multi-Select Languages:** Choose which languages you want your Full Chat to appear in, auto-translating components based on the language the user selects.          \
+          Back to Library button: Use a "Back" button inside a Mini Course to go back to your Mini Course Library.
+        * **Sidebar View Toggle:** Hide the Full Chat sidebar to get a more focused view of your current section.
+        * **Unread Chats now numbered: Y**ou can now see the number of unread chats in your Full Chat within the dedicated "Unread Chats" part of the interface.
+
+### 🟧 Changed
+
+* **Chat Flows**
+  * **Full Chat icon is now Athena: Y**ou will now see Athena's headshot as the icon for Full Chat.    \
+    Add Suggested Questions for your Full Chat: Create Suggested Questions for your Full Chat users, giving them examples of prompts to ask your AI Chatbot.
+  * **Updated Full Chat subdomain URLs:** Full Chats created in Captivate now appear as "\[subdomain].athena.captivate.com"
+  * **Suggestion Questions lead straight to chats:** Clicking a Suggested Question in your Full Chat will now create a new chat with your bot, with that specific question as your first query.
+  * **Unique Knowledge Test per take:** Knowledge Tests now feature non-repeating questions and answers, ensuring every test iteration is different.
+  * **Notifications are now clickable:** Clicking a Notification will send you to the conversation associated with it, letting you access responses much faster.
+
+### ⚠️ Fixed
+
+* **General**
+  * **Removed legacy dependencies:** We have removed legacy dependencies from our codebase repository, as most of them are either broken or outdated.
+* **AI Chatbots**
+  * **Incorrect token count:** Fixed instances of incorrect token counts being reflected on specific bots.    \
+    Estimated Token Cost on Add Data: Fixed an error where ingested files are auto-computed for token consumption. Now, only selected files for pre-ingestion will get an Estimated Token Cost.
+* **Chat Flows**
+  * **Full Chat**
+    * **Visual fixes:** Adjusted the extra space to Tools selections, fixed theme color errors, correct profile images reflected across conversations and settings, renamed components for better UX.      \
+      Chat rename on refresh: Fixed instances where new chats are auto-renamed on refresh. New chats now automatically get renamed based on conversation context as users converse with AI Chatbots.
+    * **Double language options**: Fixed a bug that causes the appearance of multiple instances of the same language in the Language selection dropdown.
+
+
+
+***
+
 ## v4.0.0
 
 ### 📆2025-03-21
@@ -87,10 +165,6 @@ Users can now filter and sort their data more efficiently in the "Import Your Ow
 
 * **Filter:** Only reveal data based on their **Status (Active or Other Statuses)** and/or their **Type (Web or PDF)**
 * **Sort:** Select arrows beside the name of the column you want to sort in descending or ascending order.
-
-### 🆕 Custom Channels
-
-
 
 ***
 

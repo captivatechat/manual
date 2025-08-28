@@ -1,81 +1,99 @@
 ---
-description: How does the Chat Flow work?
+description: How does Captivate work?
 ---
 
 # 💻 Components
 
-Connecting your business to the **Chat Flow** provides a way to integrate your live chats, chatbot programs, and external channels into a single interface.&#x20;
+**Captivate** is built on a flexible middleware system that integrates AI chatbots, live chat platforms, and communication channels into a unified platform.&#x20;
 
-With the Chat Flow, you can easily manage all your bots for your channels without creating new ones. Here’s how each component of our Flow works together:
+Whether you're building custom applications like our clients or using our flagship Athena sales acceleration engine, Captivate's components work together seamlessly to power your AI-driven solutions. Here's how each component works:
 
 ***
 
-## The Chat Flow
+## Applications
 
+Our clients such as Xoots and Certchain are building their own applications using Captivate's platform but we've built **Athena**, our revolutionary AI sales acceleration application.
 
+### Athena
 
-<figure><img src=".gitbook/assets/1.png" alt="Use Chat Flow to connect Users to Brands, Companies, and Services in a seamless fashion by facilitating integrations between their AI Chatbots, brand presence Channels, and Live Chat services."><figcaption><p>Use Chat Flow to connect Users to Brands, Companies, and Services in a seamless fashion by facilitating integrations between their AI Chatbots, brand presence Channels, and Live Chat services.</p></figcaption></figure>
+Athena is the intelligent engine at the heart of the Captivate platform, serving as your team's virtual sales assistant built to support sales professionals at every stage of their workflow.
 
-The **Chat Flow** is the core of Captivate Chat. It seamlessly brings together AI Chatbots, Channels, and Live Chat into one cohesive system.
+* **Before** - Generates real-time call briefings from CRM, email, calendar, and news sources, plus delivers bite-sized training based on conversation needs
+* **During** - Provides AI live sales support with instant product details and real-time audio analysis for upsell opportunities and objection handling
+* **After** - Automates CRM updates, follow-up scheduling, contact reports, and conversation-based email generation
+
+### Xoots
+
+Captivate supports XOOTS by enabling conversational AI interfaces for products like Interview-X and Xara, enhancing candidate interactions and delivering real-time insights. By embedding Captivate's flexible, multichannel bots, XOOTS ensures a seamless, scalable, and engaging recruitment experience.
+
+### Certchain
+
+Captivate powers Certchain's platform with AI-driven chat agents that automate workforce verification, compliance monitoring, and real-time risk alerts across construction projects. This transforms complex regulatory tasks into simple, instant interactions.
+
+### Your Company
+
+Companies can use Captivate as the foundation to develop their own AI-powered apps by leveraging its flexible SDK, API, and prebuilt components for rapid customisation.
+
+***
+
+## Integrations
+
+### Chat Flows
+
+The **Chat Flow** is the core of Captivate. It seamlessly brings together AI Chatbots, Channels, and Live Chat into one cohesive system. At the heart of Captivate is Chat Flow, allowing businesses to:
+
+* Assign an AI to a specific channel
+* Enable live chat escalation when needed
+* Deploy the same AI assistant across multiple channels
 
 When you create a Chat Flow with Captivate, it manages all necessary integrations—ensuring that all human-machine conversations across its connections are compatible and interchangeable.
 
-{% hint style="info" %}
-**The Chat Flow**
+### AI Chatbots
 
-Use the Captivate Chat platform to create different **Chat Flows** that connect AI Chatbots, Channels, and Live Chats in ways that work for your business!
-{% endhint %}
+An **AI Chatbot** is a computer program designed to simulate human conversations through text or voice interactions. Within Captivate, you can integrate your existing AI Chatbots or create new ones. Our platform supports the following AI Chatbot infrastructures:
 
-***
+* **OpenAI** – GPT-powered AI for natural language conversations
+* **Custom Chatbot** – We can create a personalised LLM to fulfil your specific objectives
 
-## AI Chatbots
+### Channel
 
+A **Channel** is the platform that your users access to get information about your company and avail your services. Using a Chat Flow, you can deploy your AI Chatbot in these Channels to assist users with their concerns.
 
+Available Channels include:
 
-<figure><img src=".gitbook/assets/2.png" alt="Captivate Chat uses AI Chatbots powered by IBM Watson, AWS Lex, and OpenAI. "><figcaption><p>Captivate Chat uses AI Chatbots powered by IBM Watson, AWS Lex, and OpenAI. </p></figcaption></figure>
+* **Web Widgets** – Embed AI-powered chat on your website
+* **WhatsApp** – Automate customer support via messaging
+* **Social Media** – Seamless integration with Facebook Messenger and Instagram
+* **Custom Channel** – Our team can create a personalised Channel for your preferred deployment area
 
-An **AI Chatbot** is a computer program designed to simulate human conversations through text or voice interactions. Utilizing instructions from prompts and natural language processing (NLP), AI Chatbots can understand and respond to user inputs.
+### Live Chats
 
-Within Captivate Chat, you can integrate your existing AI Chatbots or create new ones. Our platform supports the following AI Chatbot infrastructures:
+**Live Chats** pertain to messaging platforms with special app integration features. Thanks to Chat Flows, we can use Live Chats to provide real-time contact between your agents and the users that your AI Chatbots are conversing with.
 
-* **IBM Watson Assistant**: Developed by IBM, this advanced Chatbot infrastructure is renowned for its flexibility and compatibility across various services and industries.
-* **AWS Lex**: Created by Amazon Web Services (AWS), AWS Lex is ideal for users within the Amazon ecosystem or the e-commerce sector.
-* **OpenAI**: Developed by OpenAI, this platform offers a suite of tools and APIs to help developers build and scale AI-powered applications.
-* **Custom Chatbot:** We can create a personalized LLM to fulfill your specific objectives.
+Your Chat Flow is programmed to analyse incoming messages from various Channels, directing them to Chatbots for general responses and to Live Chat agents for specialised answers. Currently supported platforms include:
 
-***
+* **Microsoft Teams** – Ideal for customer support and internal collaboration
+* **Slack** – Organised team communication with third-party integrations
+* **Custom Live Chat** – The Captivate team can create a custom-tailored Live Chat for your team
 
-## Channel
+### Systems Integrations
 
-
-
-<figure><img src=".gitbook/assets/4.png" alt="Captivate Chat can integrate AI Chatbots into Channels such as Messenger, Instagram, WhatsApp, and Web Widgets."><figcaption><p>Captivate Chat can integrate AI Chatbots into Channels such as Messenger, Instagram, WhatsApp, and Web Widgets.</p></figcaption></figure>
-
-A **Channel** is basically the platform that your users access to get information about your company and avail your services. Using a Chat Flow, you can deploy your AI Chatbot in these Channels to assist users about their concerns.
-
-Among available Channels you can use with our platform are the following:&#x20;
-
-* **Web Widget**
-* **Messaging Services**
-  * WhatsApp
-* **Social Media**
-  * Messenger (Facebook/Meta)
-  * Instagram (Meta)
-* **Custom Channel:** Our team at Captivate Chat can create a personalized Channel, especially if you have a preferred deployment area outside web widgets and messaging services.
+Captivate supports Zapier AI Actions, unlocking access to 7,000+ integrations with business tools.
 
 ***
 
-## Live Chats
+## Platform
 
+Captivate is built on a unique chat routing middleware, designed to seamlessly route conversations between any AI, channel, or live chat platform whilst eliminating vendor lock-in, giving businesses complete flexibility.
 
+* **Open & Flexible** – Integrate with any AI, live chat, or CRM system
+* **Enterprise-Grade Security** – Encryption, anonymisation, and full compliance
+* **Scalable** – Suitable for small businesses and large enterprises alike
+* **Deploy Anywhere** – Cloud-based or on-premises hosting options
+* **Custom AI Models** – Integrate DeepSeek, Gemini, OpenAI, Anthropic, DeepMind, and more
+* **Flexible Channels** – Add TikTok, Signal, Telegram, and other platforms as needed
+* **CRM Integration** – Connect with Zoho, Eloqua, HubSpot, and any modern system
+* **Bespoke Development** – Custom web and mobile chat experiences built by our expert team
 
-<figure><img src=".gitbook/assets/3.png" alt="Captivate Chat can work with Live Chat service providers such as MS Teams and Sla"><figcaption><p>Captivate Chat can work with Live Chat service providers such as MS Teams and Slack.</p></figcaption></figure>
-
-**Live Chats** pertain to messaging platforms with special app integration features. Thanks to Chat Flows, we can use Live Chats to provide real-time contact between your agents and the users that your AI Chatbots are conversing with. Captivate Chat ensures seamless interactions between users and agents, with AI Chatbots handling general questions and escalating complex issues to human agents.
-
-Your Chat Flow is programmed to analyze incoming messages from various Channels, directing them to Chatbots for general responses and to Live Chat agents for specialized answers. Captivate Chat currently supports these Live Chat services:
-
-* **Microsoft Teams**: A collaboration platform that integrates chat, video conferencing, and file sharing within the Microsoft 365 suite.&#x20;
-* **Slack**: A messaging platform focused on team communication through organized channels. It integrates with numerous third-party apps, making it highly flexible and suitable for diverse workflows.
-* **Custom Live Chat:** The Captivate Chat team can create a custom-tailored Live Chat for your team.&#x20;
+We've been building AI chat platforms for nearly a decade, with skilled AI engineers and developers who can rapidly create cost-effective solutions. For businesses that want complete control over their AI strategy, Captivate offers the perfect blend of off-the-shelf functionality and full customisation—without vendor lock-in.
 
