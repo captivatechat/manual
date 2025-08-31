@@ -4,6 +4,8 @@ description: Bring your AI Chatbots, Live Chats, and Channels together in one sy
 
 # Select Channel
 
+<figure><img src="../../../.gitbook/assets/image (394).png" alt="The &#x22;Select Channel&#x22; window inside &#x22;Step 2: Channel&#x22; contains the currently available Channels in Captivate. Your Channel of choice will be highlighted blue. Click &#x22;Next&#x22; to proceed to the specific connection process "><figcaption><p>The "Select Channel" window inside "Step 2: Channel" contains the currently available Channels in Captivate. Your Channel of choice will be highlighted blue. Click "Next" to proceed to the specific connection process </p></figcaption></figure>
+
 <figure><img src="../../../.gitbook/assets/image (15).png" alt="The &#x22;Select Channel&#x22; window inside &#x22;Step 2: Select Channel&#x22; contains the currently available Channels in Captivate Chat. Your Channel of choice will be highlighted blue. Click &#x22;Next&#x22; to proceed to the specific connection process "><figcaption><p>The "Select Channel" window inside "Step 2: Select Channel" contains the currently available Channels in Captivate Chat. Your Channel of choice will be highlighted blue. Click "Next" to proceed to the specific connection process </p></figcaption></figure>
 
 After selecting the active Chatbot in your Chat Flow, it's time to choose your **Channel** in _**Step 2: Select Channel**_. This is where your users will encounter your AI Chatbot.&#x20;
@@ -24,6 +26,10 @@ We are offering different Channel Integrations into your Chat Flow, with differe
 
 {% content-ref url="channel-whatsapp/" %}
 [channel-whatsapp](channel-whatsapp/)
+{% endcontent-ref %}
+
+{% content-ref url="channel-full-chat/" %}
+[channel-full-chat](channel-full-chat/)
 {% endcontent-ref %}
 
 {% content-ref url="channel-custom-channel/" %}

@@ -1,13 +1,13 @@
 ---
-description: You've learned about the Captivate Chat platform - yay! Now what?
+description: You've learned about the Captivate platform - yay! Now what?
 ---
 
 # 🚀 Get Started
 
-If you want to start creating your Flows, please do the following:
+If you want to start creating your Athenas, AI Chatbots and Chat Flows, please do the following:
 
-1. **Register** and create a user account using [this link](https://hub.captivatechat.com/).
-2. **Login** with your Captivate Chat account.
+1. **Register** and create a user account using [this link](https://app.captivatechat.ai/auth/register).
+2. **Login** with your Captivate account.
 
 <figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The Captivate Chat login screen.</p></figcaption></figure>
 

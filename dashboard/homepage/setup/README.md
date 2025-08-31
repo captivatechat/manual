@@ -4,9 +4,9 @@ description: Locate your AI Chatbots and Chat Flows here
 
 # Setup
 
-<figure><img src="../../../.gitbook/assets/image (258).png" alt="Setup is a drop-down menu that shows AI Chatbots and Chat Flows."><figcaption><p>Setup is a drop-down menu that shows AI Chatbots and Chat Flows.</p></figcaption></figure>
+<figure><img src="broken-reference" alt="In the main Captivate homepage, you can access &#x22;AI Chatbots&#x22; and &#x22;Chat Flows&#x22; by clicking the &#x22;Setup&#x22; dropdown located in the left-side dashboard."><figcaption><p>In the main Captivate homepage, you can access "AI Chatbots" and "Chat Flows" by clicking the "Setup" dropdown located in the left-side dashboard.</p></figcaption></figure>
 
-**Setup** is where the magic happens!
+**Setup** is where the magic happens!&#x20;
 
 Clicking the drop-down arrow will reveal the following components:
 
@@ -16,7 +16,7 @@ Create and edit all your AI Chatbots in  ![The AI Chatbots button in the Homepag
 
 ### Chat Flows
 
-Create and edit your Chat Flows in  ![The Chat Flows button in the Homepage](<../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>).&#x20;
+Create and edit your Chat Flows in  ![The Chat Flows button in the Homepage](broken-reference).&#x20;
 
 ***
 

@@ -1,8 +1,14 @@
+---
+description: Select the AI Chatbot to accompany your Chat Flow
+---
+
 # AI Chatbots
+
+<figure><img src="../../.gitbook/assets/image (389).png" alt="After setup, the &#x22;My AI Chatbots&#x22; window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the &#x22;+AI Chatbot&#x22; button."><figcaption><p>After setup, the "My AI Chatbots" window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the "+AI Chatbot" button.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (346).png" alt="After setup, the &#x22;My AI Chatbots&#x22; window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the &#x22;+AI Chatbot&#x22; button."><figcaption><p>After setup, the "My AI Chatbots" window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the "+AI Chatbot" button.</p></figcaption></figure>
 
-Once you name your Chat Flow, you will be taken to _**Step 1: AI Chatbots**_**.**&#x20;
+Once you name your Chat Flow, you will be taken to _**Step 1: AI Chatbot**_**.**&#x20;
 
 Select the AI Chatbot you want to be involved in this particular Chat Flow. Think of it as choosing the AI Chatbot that will interact with your audiences through your platform (your website or social media platform, to name a few). &#x20;
 
@@ -34,19 +40,15 @@ Once you've made your choice, you can move forward by either:
 
 ### If you created a new AI Chatbot
 
+<figure><img src="../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
 
-After going through the steps of [#create-an-ai-chatbot](ai-chatbots.md#create-an-ai-chatbot "mention"), you will end up in the _**Select Integration**_ view. Click ![](<../../.gitbook/assets/image (163).png>).
-
-{% hint style="warning" %}
-**Select Integration, as of 9/2/2024**
-
-We haven't added options under _**Select Integration**_ yet. You may skip this step in the process.
-
-Stay tuned for more updates!
-{% endhint %}
+After going through the steps of [#create-an-ai-chatbot](ai-chatbots.md#create-an-ai-chatbot "mention"), you will end up in the _**Select Integration**_ view. When finished with your Integrations, click ![](<../../.gitbook/assets/image (391).png>)
 
 ### If you selected an existing AI Chatbot
+
+<figure><img src="../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 

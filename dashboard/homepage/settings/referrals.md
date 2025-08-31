@@ -1,6 +1,12 @@
+---
+description: Earn while using the Captivate platform!
+---
+
 # Referrals
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Accessing the "Referrals" tab can be done by clicking on the "Referrals" button on the lower-left side of the Captivate Chat internal dashboard, and when loading the settings after clicking any option (Edit Profile, Manage Plan, Account Details) from your profile icon on the upper-right side of the dashboard.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (386).png" alt="Accessing the &#x22;Referrals&#x22; tab can be done by clicking on the &#x22;Referrals&#x22; button on the lower-left side of the Captivate Chat internal dashboard, and when loading the settings after clicking any option (Edit Profile, Manage Plan, Account Details) from your profile icon on the upper-right side of the dashboard."><figcaption><p>Accessing the "Referrals" tab can be done by clicking on the "Referrals" button on the lower-left side of the Captivate Chat internal dashboard, and when loading the settings after clicking any option (Edit Profile, Manage Plan, Account Details) from your profile icon on the upper-right side of the dashboard.</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Accessing the "Referrals" tab can be done by clicking on the "Referrals" button on the lower-left side of the Captivate Chat internal dashboard, and when loading the settings after clicking any option (Edit Profile, Manage Plan, Account Details) from your profile icon on the upper-right side of the dashboard.</p></figcaption></figure>
 
 When you create a Captivate Chat account, you can become an **Affiliate**. This allows you to refer Captivate Chat to colleagues and earn **30% commission** when they register using your Referral Link.
 

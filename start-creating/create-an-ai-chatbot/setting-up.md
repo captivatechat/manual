@@ -30,7 +30,7 @@ You may wish to use a version number or some other standard that makes it easier
 {% hint style="warning" %}
 **Your AI Chatbot's name in "My AI Chatbots" is for internal use only!**
 
-When you create an AI Chatbot in Captivate Chat, its name under "Name Your AI Chatbot" is for internal use only. This will only be visible to you and the Captivate Chat team.&#x20;
+When you create an AI Chatbot in Captivate, its name under "Name Your AI Chatbot" is for internal use only. This will only be visible to you and the Captivate team.&#x20;
 
 Your AI Chatbot can appear under a different public name through a Chat Flow, depending on the Channels you choose and how to customize them!
 {% endhint %}
@@ -42,9 +42,3 @@ Your AI Chatbot can appear under a different public name through a Chat Flow, de
 <figure><img src="../../.gitbook/assets/image (265).png" alt="At any point during the AI Chatbot customization phase, you can click the Pencil Icon to go to the &#x22;Update AI Chatbot&#x22; menu and change your AI Chatbot&#x27;s internal name and logo."><figcaption><p>At any point during the AI Chatbot customization phase, you can click the Pencil Icon to go to the "Update AI Chatbot" menu and change your AI Chatbot's internal name and logo.</p></figcaption></figure>
 
 As you work through the steps to define your AI Chatbot you can edit its Name or Logo by clicking on the **pencil icon** **(** ![Click the Pencil Icon at any point during the AI Chatbot customization phase to open the "Update AI Chatbot" menu.](<../../.gitbook/assets/image (46).png>) **)** in the field at the top of the page.&#x20;
-
-{% hint style="danger" %}
-**Reinsert the name and the logo of your AI Chatbot when you use&#x20;**_**"Update AI Chatbot"**_&#x20;
-
-When you update your AI Chatbot via the "Update AI Chatbot" menu, you have to re-type its name and re-upload its logo.
-{% endhint %}

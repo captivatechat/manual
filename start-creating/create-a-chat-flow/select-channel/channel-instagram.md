@@ -34,7 +34,7 @@ Before proceeding with the rest of the Instagram integration process, make sure 
 
 ## Configure Instagram
 
-<figure><img src="../../../.gitbook/assets/image (151).png" alt="Clicking  &#x22;Instagram&#x22; in &#x22;Step 2: Select Channel&#x22; and clicking &#x22;Next&#x22; will take users to &#x22;Configure Instagram.&#x22; You have to fill out the information on this page (Name, Description, Instagram Page Name, Instagram ID, Page Token) to finish the setup process."><figcaption><p>Clicking  "Instagram" in "Step 2: Select Channel" and clicking "Next" will take users to "Configure Instagram." You have to fill out the information on this page (Name, Description, Instagram Page Name, Instagram ID, Page Token) to finish the setup process.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (403).png" alt="Clicking  &#x22;Instagram&#x22; in &#x22;Step 2: Select Channel&#x22; and clicking &#x22;Next&#x22; will take users to &#x22;Configure Instagram.&#x22; You have to fill out the information on this page (Name, Description, Instagram Page Name, Instagram ID, Page Token) to finish the setup process."><figcaption><p>Clicking  "Instagram" in "Step 2: Select Channel" and clicking "Next" will take users to "Configure Instagram." You have to fill out the information on this page (Name, Description, Instagram Page Name, Instagram ID, Page Token) to finish the setup process.</p></figcaption></figure>
 
 Before you can fully integrate your AI Chatbot with your Instagram Page, you have to fill in the following information in _**Configure Instagram**_:
 

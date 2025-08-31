@@ -1,4 +1,10 @@
+---
+description: Edit basic profile details of your Captivate account
+---
+
 # Edit Profile
+
+
 
 <figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt="Access the &#x22;Edit Profile&#x22; tab by clicking your profile picture on the upper-right side of the internal Captivate Chat dashboard and selecting &#x22;Edit Profile&#x22; under &#x22;My Account.&#x22;"><figcaption><p>Access the "Edit Profile" tab by clicking your profile picture on the upper-right side of the internal Captivate Chat dashboard and selecting "Edit Profile" under "My Account."</p></figcaption></figure>
 

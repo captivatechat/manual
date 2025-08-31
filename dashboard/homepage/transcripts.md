@@ -6,6 +6,8 @@ description: Check notable dialogue between Users, Agents, and AI Assistants
 
 <figure><img src="../../.gitbook/assets/image (300).png" alt="The &#x22;Transcripts&#x22; view lists potentially useful and relevant conversations between users and a particular Chat Flow. The view reveals the Hub Name (refers to Chat Flow used), the Name of the user, the Channel involved, and the Date and Time the conversation took place."><figcaption><p>The "Transcripts" view lists potentially useful and relevant conversations between users and a particular Chat Flow. The view reveals the Hub Name (refers to Chat Flow used), the Name of the user, the Channel involved, and the Date and Time the conversation took place.</p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (360).png" alt="The &#x22;Transcripts&#x22; view lists potentially useful and relevant conversations between users and a particular Chat Flow. The view reveals the Hub Name (refers to Chat Flow used), the Channel involved, the Last Message in the conversation, and the Date and Time the conversation took place."><figcaption><p>The "Transcripts" view lists potentially useful and relevant conversations between users and a particular Chat Flow. The view reveals the Hub Name (refers to Chat Flow used), the Channel involved, the Last Message in the conversation, and the Date and Time the conversation took place.</p></figcaption></figure>
+
 The _**Transcripts**_ page reveals captured dialogue between Users, Agents, and AI Chatbots.&#x20;
 
 When people use the Chat Flows you create with Captivate Chat, useful dialogue is captured and stored within your account.&#x20;
@@ -16,7 +18,8 @@ Each **transcript** listed in the _Transcripts_ page are arranged based on the f
 
 * **Hub Name:** This is the name of the Chat Flow where the intelligent dialogue occurred.
 * **Name:** This is the User who interacted with the Channel.
-* **Channel:** This is the Channel used in the interaction - either an automated AI Chatbot or an agent via Live Chat.
+* **Channels:** This is the Channel used in the interaction - either an automated AI Chatbot or an agent via Live Chat.
+* **Last Message:** The last relevant message associated with the conversation.
 * **Date and Time:** This refers to a date and time of a particular interaction between the Chat Flow (AI Chatbot inside a Channel) and the user.
 
 {% hint style="info" %}
@@ -29,6 +32,18 @@ Dialogue in the transcripts are stored within the _Transcripts_ page whenever yo
 * A user requesting for information or actions that are not available in the AI Chatbot's programming
 * A user demonstrating different emotions throughout the exchange
 {% endhint %}
+
+***
+
+## Sorting Transcripts
+
+<figure><img src="../../.gitbook/assets/image (361).png" alt="You have the option to sort Transcripts according to email, Channel variant, and Chat Flow type using the &#x22;Sort by&#x22; button beside &#x22;Clear Filters&#x22; in the Transcript toolbar. "><figcaption><p>The "Sort by" button lets users sort Transcripts according to Email, Channel, and Chat Flow</p></figcaption></figure>
+
+You have the option to sort Transcripts according to email, Channel variant, and Chat Flow type using the **"Sort by"** button beside **"Clear Filters"** in the Transcript toolbar.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (362).png" alt="&#x22;Pick a date&#x22; button in the Transcript toolbar lets users sort Transcripts according to date. "><figcaption><p>"Pick a date" button in the Transcript toolbar lets users sort Transcripts according to date.</p></figcaption></figure>
+
+You can also sort Transcripts according to date using the **"Pick a date"** button sorter in the Transcript toolbar.
 
 ***
 

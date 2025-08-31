@@ -4,7 +4,7 @@ description: Integrate your AI Chatbot into a full browser page.
 
 # Channel: Full Chat
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt="The &#x22;Step 2: Select Channel&#x22; page will have Full Chat highlighted in blue when you click it."><figcaption><p>The "Step 2: Select Channel" page will have Full Chat highlighted in blue when you click it.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt="The &#x22;Step 2: Select Channel&#x22; page will have Full Chat highlighted in blue when you click it."><figcaption><p>The "Step 2: Select Channel" page will have Full Chat highlighted in blue when you click it.</p></figcaption></figure>
 
 After _**Select Channel > Full Chat**_, you will be taken to _**Configure Full Chat Channel**_. This is where you can integrate your AI Chatbot as the dedicated chatbot of your Facebook Page.
 
@@ -24,7 +24,7 @@ Creating a Full Chat Channel involves these steps:
 
 ## Configure Full Chat Channel
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt="Clicking  &#x22;Full Chat&#x22; in &#x22;Step 2: Select Channel&#x22; and clicking &#x22;Next&#x22; will take users to &#x22;Configure Full Chat Channel.&#x22; You have to fill out three tabs (General, Theme, and Avatar) to finish the process."><figcaption><p>Clicking "Full Chat" in "Step 2: Select Channel" and clicking "Next" will take users to "Configure Full Chat Channel." You have to fill out three tabs (General, Theme, and Avatar) to finish the process.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt="Clicking  &#x22;Full Chat&#x22; in &#x22;Step 2: Select Channel&#x22; and clicking &#x22;Next&#x22; will take users to &#x22;Configure Full Chat Channel.&#x22; You have to fill out three tabs (General, Theme, and Avatar) to finish the process."><figcaption><p>Clicking "Full Chat" in "Step 2: Select Channel" and clicking "Next" will take users to "Configure Full Chat Channel." You have to fill out three tabs (General, Theme, and Avatar) to finish the process.</p></figcaption></figure>
 
 Customizing your Full Chat Channel in order to become fully deployable is done through three (3) major steps:
 
