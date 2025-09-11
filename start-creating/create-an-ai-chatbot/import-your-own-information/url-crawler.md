@@ -30,7 +30,7 @@ You can scroll down to choose which URLs you want your AI Chatbot to ingest, but
 
 ## Wildcard Character
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="Using a wildcard character or an asterisk (*) at the end of the last front slash of a root URL inside the URL Crawler will make the Captivate Chat web crawler look for all relevant URLs within that website layer."><figcaption><p>Using a wildcard character or an asterisk (*) at the end of the last front slash of a root URL inside the URL Crawler will make the Captivate Chat web crawler look for all relevant URLs within that website layer.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="Using a wildcard character or an asterisk (*) at the end of the last front slash of a root URL inside the URL Crawler will make the Captivate Chat web crawler look for all relevant URLs within that website layer."><figcaption><p>Using a wildcard character or an asterisk (*) at the end of the last front slash of a root URL inside the URL Crawler will make the Captivate Chat web crawler look for all relevant URLs within that website layer.</p></figcaption></figure>
 
 If you want to make more precise searches with our URL Crawler, you can use what's called a **wildcard character or an asterisk (\*)** at the end of your root URL.
 
@@ -38,7 +38,7 @@ What this does is to command the Captivate Chat web crawler to only retrieve URL
 
 ### 1 Wildcard Character: `url.com/abc/*`
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt="Using only one wildcard character or asterisk (*) in the Captivate Chat URL Crawler will only retrieve URLs of one layer beneath the  specified root URL."><figcaption><p>Using only one wildcard character or asterisk (*) in the Captivate Chat URL Crawler will only retrieve URLs of one layer beneath the specified root URL.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="Using only one wildcard character or asterisk (*) in the Captivate Chat URL Crawler will only retrieve URLs of one layer beneath the  specified root URL."><figcaption><p>Using only one wildcard character or asterisk (*) in the Captivate Chat URL Crawler will only retrieve URLs of one layer beneath the specified root URL.</p></figcaption></figure>
 
 If you only use **1 Wildcard Character or asterisk (\*)** in the format `url.com/abc/*` in the URL Crawler, then you should be able to retrieve all URLs one layer below your root URL.
 
@@ -72,7 +72,7 @@ For instance, a URL Crawler can give you all brands (subcategories) of laptop (l
 
 ### 2 Wildcard Characters: `url.com/abc/**`
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Using only two wildcard characters or asterisks (**) in the Captivate Chat URL Crawler will only retrieve URLs of one layer beneath the specified root URL.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Using only two wildcard characters or asterisks (**) in the Captivate Chat URL Crawler will only retrieve URLs of one layer beneath the specified root URL.</p></figcaption></figure>
 
 If you use **2 Wildcard Characters or asterisks (\*\*)** in the format `url.com/abc/**` in the URL Crawler, then you should be able to retrieve all the URLs under your root URL.
 

@@ -76,7 +76,7 @@ Under _**Select Background Type**_, you can choose either a **Web** or **Image**
 
 <figure><img src="../../../../.gitbook/assets/image (293).png" alt="The Web Widget Preview webpage changes into the static background of your choice after uploading an image or inserting a URL in the &#x22;Background Type&#x22; section. "><figcaption><p>The Web Widget Preview webpage changes into the static background of your choice after uploading an image or inserting a URL in the "Background Type" section. </p></figcaption></figure>
 
-Click ![After uploading an image in the "Background Type" of the "Page Settings" of the Web Widget Preview webpage, click "Apply" in "Page Settings" to apply the changes.](<../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) once you're ready to apply the new background. This shows a static (non-moving) version of your source URL or image. You can still interact with your Web Widget prototype like in the first version of the preview. However, this time you can now see how your Web Widget looks like when placed in your website.
+Click ![After uploading an image in the "Background Type" of the "Page Settings" of the Web Widget Preview webpage, click "Apply" in "Page Settings" to apply the changes.](<../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) once you're ready to apply the new background. This shows a static (non-moving) version of your source URL or image. You can still interact with your Web Widget prototype like in the first version of the preview. However, this time you can now see how your Web Widget looks like when placed in your website.
 
 {% hint style="info" %}
 **Use the static preview to change the colors of your Web Widget!**

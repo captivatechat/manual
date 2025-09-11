@@ -8,6 +8,14 @@ Similar to how muscles are trained and "practiced" getting used to new activitie
 
 In Captivate Chat, the _**Train Your AI Chatbot**_ page lets you stress-test your AI Chatbot with questions and correct any mistakes in real time.
 
+{% hint style="warning" %}
+**It only uses ingested information!**
+
+**Train Your AI Chatbot** lets you test your AI Chatbot's understanding of your ingested knowledge. It will not reflect what you prompted in **Select Type** regarding personality and formats.
+
+This will explain why it doesn't "respond" in a similar manner as the AI Chatbot in **Select Type**.&#x20;
+{% endhint %}
+
 {% hint style="info" %}
 **Talk to your AI Chatbot - it literally uses your inputs to learn!**
 
@@ -38,8 +46,6 @@ Once done, click ![Click "Submit" in the "Enter your test question" part of the 
 
 <figure><img src="../../.gitbook/assets/image (380).png" alt="After you submit a test question, the &#x22;Current Answer&#x22; part of the &#x22;Train Your AI Chatbot&#x22; page will reveal your AI Chatbot&#x27;s answer according to its current knowledgebase and modified prompts."><figcaption><p>After you submit a test question, the "Current Answer" part of the "Train Your AI Chatbot" page will reveal your AI Chatbot's answer according to its current knowledgebase and modified prompts.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (36) (1).png" alt="After you submit a test question, the &#x22;Current Answer&#x22; part of the &#x22;Train Your AI Chatbot&#x22; page will reveal your AI Chatbot&#x27;s answer according to its current knowledgebase and modified prompts."><figcaption><p>After you submit a test question, the "Current Answer" part of the "Train Your AI Chatbot" page will reveal your AI Chatbot's answer according to its current knowledgebase and modified prompts.</p></figcaption></figure>
-
 The _**Current Answer**_ will contain a response of your test question based on the Chatbot's current database.
 
 ***
@@ -47,8 +53,6 @@ The _**Current Answer**_ will contain a response of your test question based on 
 ## **Correct Answer**
 
 <figure><img src="../../.gitbook/assets/image (381).png" alt="Use the &#x22;Correct Answer&#x22; section of the &#x22;Train Your AI Chatbot&#x22; page to replace the answer of the &#x22;Current Answer&#x22; section beside it. Click &#x22;+Add to Q&#x26;A&#x22; to override the &#x22;Current Answer&#x22; with the &#x22;Correct Answer.&#x22;"><figcaption><p>Use the "Correct Answer" section of the "Train Your AI Chatbot" page to replace the answer of the "Current Answer" section beside it. Click "+Add to Q&#x26;A" to override the "Current Answer" with the "Correct Answer."</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (39) (1).png" alt="Use the &#x22;Correct Answer&#x22; section of the &#x22;Train Your AI Chatbot&#x22; page to replace the answer of the &#x22;Current Answer&#x22; section beside it. Click &#x22;+Add to Q&#x26;A&#x22; to override the &#x22;Current Answer&#x22; with the &#x22;Correct Answer.&#x22;"><figcaption><p>Use the "Correct Answer" section of the "Train Your AI Chatbot" page to replace the answer of the "Current Answer" section beside it. Click "+Add to Q&#x26;A" to override the "Current Answer" with the "Correct Answer."</p></figcaption></figure>
 
 Use the _**Correct Answer**_ to put a new answer if the response in the _Current Answer_ is wrong or has to be modified.
 
@@ -59,8 +63,6 @@ Once done, click ![Click "+Add to Q\&A" to override the "Current Answer" with th
 ## Trained Questions and Answers
 
 <figure><img src="../../.gitbook/assets/image (382).png" alt="The &#x22;Trained Questions and Answers&#x22; part of the &#x22;Train Your AI Chatbot&#x22; page will contain the Test Question and the Correct Answer you&#x27;ve just submitted."><figcaption><p>The "Trained Questions and Answers" part of the "Train Your AI Chatbot" page will contain the Test Question and the Correct Answer you've just submitted.</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt="The &#x22;Trained Questions and Answers&#x22; part of the &#x22;Train Your AI Chatbot&#x22; page will contain the Test Question and the Correct Answer you&#x27;ve just submitted."><figcaption><p>The "Trained Questions and Answers" part of the "Train Your AI Chatbot" page will contain the Test Question and the Correct Answer you've just submitted.</p></figcaption></figure>
 
 The _**Trained Questions and Answers**_ segment contains the list of Questions, Correct Answers, and Messages that have been inserted by the user.&#x20;
 

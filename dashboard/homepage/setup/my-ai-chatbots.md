@@ -6,8 +6,6 @@ description: Design your AI Chatbots to perform specific tasks
 
 <figure><img src="../../../.gitbook/assets/image (354).png" alt="Clicking Setup > AI Chatbots reveals the &#x22;My AI Chatbots&#x22; page. This contains the list of your AI Chatbots and is the best place to make one from scratch."><figcaption><p>Clicking Setup > AI Chatbots reveals the "My AI Chatbots" page. This contains the list of your AI Chatbots and is the best place to make one from scratch.</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (259).png" alt="Clicking Setup > AI Chatbots reveals the &#x22;My AI Chatbots&#x22; page. This contains the list of your AI Chatbots and the function to make your own AI Chatbot."><figcaption><p>Clicking Setup > AI Chatbots reveals the "My AI Chatbots" page. This contains the list of your AI Chatbots and is the best place to make one from scratch.</p></figcaption></figure>
-
 Clicking _**Setup > AI Chatbots**_ reveals the _**My AI Chatbots**_ page. This view reveals a list of existing Chatbots you created under your account.&#x20;
 
 The _**My AI Chatbots**_ view has the following components:&#x20;

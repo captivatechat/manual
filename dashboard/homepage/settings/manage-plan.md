@@ -1,7 +1,5 @@
 # Manage Plan
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p>Access the "Manage Plan" tab of your Captivate Chat settings by clicking "Manage Plan" on the bottom-left part of the internal dashboard or by selecting your profile picture on the upper-right side of the internal dashboard and clicking "Manage Plan."</p></figcaption></figure>
-
 <figure><img src="../../../.gitbook/assets/image (363).png" alt="Access the &#x22;Manage Plan&#x22; tab of your Captivate Chat settings by clicking &#x22;Manage Plan&#x22; on the bottom-left part of the internal dashboard or by selecting your profile picture on the upper-right side of the internal dashboard and clicking &#x22;Manage Plan.&#x22;"><figcaption><p>Access the "Manage Plan" tab of your Captivate Chat settings by clicking "Manage Plan" on the bottom-left part of the internal dashboard or by selecting your profile picture on the upper-right side of the internal dashboard and clicking "Manage Plan."</p></figcaption></figure>
 
 Use the _**Manage Plan**_ tab of the account settings view to see and/or change your current billing program under Captivate Chat. To access this, do the following:
