@@ -6,29 +6,37 @@ description: How does Captivate work?
 
 **Captivate** is built on a flexible middleware system that integrates AI chatbots, live chat platforms, and communication channels into a unified platform.&#x20;
 
-Whether you're building custom applications like our clients or using our flagship Athena sales acceleration engine, Captivate's components work together seamlessly to power your AI-driven solutions. Here's how each component works:
+Whether you're coordinating the usage of your AI tools via our **Vienna** AI orchestration engine or building custom applications like our clients or using our flagship **Athena** sales acceleration engine, Captivate's components work together seamlessly to power your AI-driven solutions. Here's how each component works:
 
 ***
 
 ## Applications
 
-Our clients such as Xoots and Certchain are building their own applications using Captivate's platform but we've built **Athena**, our revolutionary AI sales acceleration application.
+Our clients are building their own applications using Captivate's platform but we've built **Athena**, our revolutionary AI sales acceleration application. You can also coordinate your AI tools with **Vienna**, our AI orchestration engine. Here's how everything works from a top-down perspective:&#x20;
+
+### Vienna
+
+Vienna is the AI orchestration engine at the heart of the Captivate platform, designed to offer a vendor-neutral approach to managing all your AI tools. Here are its main components:&#x20;
+
+* **Lifecycle Management:** Vienna treats AI agents and conversational workflows as modular components, enabling enterprise-grade change management.&#x20;
+* **AI Router:** Use Agent Groups to "link" AI agents together, so Vienna can re-route users to the appropriate AI agents based on the context of their queries.&#x20;
+* **Governance and Compliance:** Vienna enforces robust security and compliance controls across your entire conversational AI infrastructure. Our governance layer provides: ​
+  * **Role-Based Access Control (RBAC):** Granular permission management ensuring users only access what they need.
+  * **Compliance:** Evaluate AI agents based on legislative and regulatory rulesets.
+* **Objects (ETA 2026):** Transform AI agents, workflows, and guardrails into modular components that can be transferred across users and organisations.&#x20;
+* **Vienna Insights (ETA 2026):** Obtain insights regarding your conversations, focusing on key metrics you want to track. You can input your desired parameters using natural language, and Vienna can generate the relevant dashboards and visual components to best present the information.
 
 ### Athena
 
-Athena is the intelligent engine at the heart of the Captivate platform, serving as your team's virtual sales assistant built to support sales professionals at every stage of their workflow.
+Athena is the intelligent sales execution engine of Captivate, serving as your team's virtual sales assistant built to support sales professionals at every stage of their workflow. It has these main components:
 
-* **Before** - Generates real-time call briefings from CRM, email, calendar, and news sources, plus delivers bite-sized training based on conversation needs
-* **During** - Provides AI live sales support with instant product details and real-time audio analysis for upsell opportunities and objection handling
-* **After** - Automates CRM updates, follow-up scheduling, contact reports, and conversation-based email generation
-
-### Xoots
-
-Captivate supports XOOTS by enabling conversational AI interfaces for products like Interview-X and Xara, enhancing candidate interactions and delivering real-time insights. By embedding Captivate's flexible, multichannel bots, XOOTS ensures a seamless, scalable, and engaging recruitment experience.
-
-### Certchain
-
-Captivate powers Certchain's platform with AI-driven chat agents that automate workforce verification, compliance monitoring, and real-time risk alerts across construction projects. This transforms complex regulatory tasks into simple, instant interactions.
+* **Knowledge Bot:** This is an AI agent trained on all your relevant marketing and sales materials.&#x20;
+* **Mini-Courses:** Athena can help you create personalised Mini-Courses based on your ingested materials and other relevant context. These are five-minute short courses with a Knowledge Test to ensure you're actively learning at any pace you wish.&#x20;
+* **Call Pilot:** This is our meeting planner, where you can transform meetings into dynamic "Athena Calls" that affect every aspect of the sales conversation through three modules: &#x20;
+  * **Before** - Generates real-time call briefings from CRM, email, calendar, and news sources, plus delivers bite-sized training based on conversation needs
+  * **During** - Provides AI live sales support with instant product details and real-time audio analysis for upsell opportunities and objection handling
+  * **After** - Automates CRM updates, follow-up scheduling, contact reports, and conversation-based email generation
+* **Athena Insights (ETA 2026):** Athena can analyze conversations you've had with both the Knowledge Bot and the Call Pilot and provide meaningful insights based on various parameters such as sentiment, intent, and other relevant metrics.
 
 ### Your Company
 

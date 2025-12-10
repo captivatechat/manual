@@ -569,23 +569,20 @@ You might find this manual assignment feature useful if you encounter the follow
     \
     Suppose Teams Group A is connected to the Captivate Hub web widget, and the channel is asking if there are any agents available. Agent A (Busy) and Agent B (Available) are currently online.\
     \
-    If Manual Assignment exists that assigns a chat to anyone set as "Available" (Agent B), then the channel has to declare that there's at least one agent (Agent B) that might be available to assist them. \
-
+    If Manual Assignment exists that assigns a chat to anyone set as "Available" (Agent B), then the channel has to declare that there's at least one agent (Agent B) that might be available to assist them. <br>
 * **There are no available users.**\
   Displays: **manualMessageUsersNotExist(string)** \
   \
   Suppose Teams Group A has an active channel asking if there are agents available. However, both Agent A (Busy) and Agent B (Busy) are both occupied. \
   \
-  If only "Available" agents are programmed to receive chat assignments, then the channel declares there are no available agents to assist them. \
-
+  If only "Available" agents are programmed to receive chat assignments, then the channel declares there are no available agents to assist them. <br>
 * **Time has elapsed and no users managed to assist them.**\
   Runs: **idleTimeoutBeforeAssign**\
   Displays: **idleMessageBeforeTimeout**\
   \
   Suppose Teams Group A has an active channel asking for agents, and Agent B (Available) is not busy. This will have the channel declare that an agent will assist the client soon. Until such a time that Agent B responds to the client, the chatbot will run the Idle Timeout counter. \
   \
-  If the assigned time elapses and Agent B hasn't responded, a message explains that chat will be put on time out due to the lack of agent response. \
-
+  If the assigned time elapses and Agent B hasn't responded, a message explains that chat will be put on time out due to the lack of agent response. <br>
 * **Time has elapsed that the agent and client didn't speak to each other.**\
   Runs: **idleTimeoutAfterAssign**\
   Displays: **idleMessageAfterTimeout**\
@@ -676,8 +673,8 @@ Before attempting integrations, please ensure that you're using an **Instagram B
 
 To add Instagram to the Hub, you click the link below:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/K3oA79KPLTUTTsJbnstn" %}
+[Broken link](/broken/pages/K3oA79KPLTUTTsJbnstn)
 {% endcontent-ref %}
 
 ### ⚠️ Teams Application Permission
