@@ -9,7 +9,7 @@ If you want to start creating your Athenas, AI Chatbots and Chat Flows, please d
 1. **Register** and create a user account using [this link](https://app.captivatechat.ai/auth/register).
 2. **Login** with your Captivate account.
 
-<figure><img src=".gitbook/assets/image.png" alt="The Captivate Chat login screen."><figcaption><p>The Captivate Chat login screen.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt="The Captivate Chat login screen."><figcaption><p>The Captivate Chat login screen.</p></figcaption></figure>
 
 ## Need Assistance?
 

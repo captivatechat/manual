@@ -700,8 +700,7 @@ Sent during errors.
 
 Emit : No \
 Receive : Yes \
-Payload \
-
+Payload <br>
 
 ```javascript
 {

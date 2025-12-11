@@ -34,4 +34,4 @@ This will prompt the app to check if your Microsoft Teams email is already conne
 
 If this is the case, the Captivate Chat MS Teams App will make an automatic connection.
 
-\
+<br>

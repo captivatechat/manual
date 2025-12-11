@@ -83,7 +83,7 @@ Click _**Next**_.
 
 ## Testing Facebook Configuration
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="After setting up your Facebook Chat Flow, go to the Facebook Page you just connected to Captivate Chat. Refresh the page and click the &#x22;Message&#x22; button. You should have automated responses as the AI Chatbot had just been deployed there."><figcaption><p>After setting up your Facebook Chat Flow, go to the Facebook Page you just connected to Captivate Chat. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="After setting up your Facebook Chat Flow, go to the Facebook Page you just connected to Captivate Chat. Refresh the page and click the &#x22;Message&#x22; button. You should have automated responses as the AI Chatbot had just been deployed there."><figcaption><p>After setting up your Facebook Chat Flow, go to the Facebook Page you just connected to Captivate Chat. </p></figcaption></figure>
 
 You can test your AI Chatbot in these ways:
 
@@ -97,7 +97,7 @@ Refresh the window if the tab was open while integrating the AI Chatbot into you
 
 The AI Chatbot should pop out and present default options. Choose either of these questions.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="Test your new Facebook Chat Flow by typing a message. The page should automatically respond."><figcaption><p>Test your new Facebook Chat Flow by typing a message. The page should automatically respond.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="Test your new Facebook Chat Flow by typing a message. The page should automatically respond."><figcaption><p>Test your new Facebook Chat Flow by typing a message. The page should automatically respond.</p></figcaption></figure>
 
 If the integration is successful, your AI Chatbot should respond automatically. After this message, you can start talking to it.
 

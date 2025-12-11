@@ -74,4 +74,4 @@ There should be a message that says `"Agent (Your Name) joins the conversation,"
 
 Back in Microsoft Teams, wait for the initial conversation between your AI Chatbot and user to load. This should give you enough context about the user’s needs.
 
-Once all the messages have loaded, continue the conversation to test your AI Chatbot. \
+Once all the messages have loaded, continue the conversation to test your AI Chatbot. <br>

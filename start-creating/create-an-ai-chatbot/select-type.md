@@ -152,7 +152,7 @@ If you replace your Current Type with a new AI Chatbot Type, you have to reconfi
 
 You can proceed with the next step in three (2) ways:
 
-* Click ![Clicking "Back" in the "Customize Type" view will send users back to the "Select Type" page.](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png>) to go to the main _**Select Type (Prompts)**_ page. Choose ![Clicking the "Next" button in the "Customize Type" view sends users to the "Train Your AI Chatbot" page.](<../../.gitbook/assets/image (378).png>)  on the lower right-hand corner.
+* Click ![Clicking "Back" in the "Customize Type" view will send users back to the "Select Type" page.](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png>) to go to the main _**Select Type (Prompts)**_ page. Choose ![Clicking the "Next" button in the "Customize Type" view sends users to the "Train Your AI Chatbot" page.](<../../.gitbook/assets/image (378).png>)  on the lower right-hand corner.
 * In the _**Customize Type**_ view, choose ![Clicking the "Next" button in the "Customize Type" view sends users to the "Train Your AI Chatbot" page.](<../../.gitbook/assets/image (24) (1) (1).png>) on the lower right-hand corner.&#x20;
 * In either view, you can choose ![The "Finish" button at any stage in the AI Chatbot creation process will finish the editing process and return users to the Setup > My AI Chatbots menu.](<../../.gitbook/assets/image (168).png>) to save your changes and go back to _**Setup > My AI Chatbots**_.
 

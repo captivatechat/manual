@@ -8,20 +8,182 @@ description: >-
 
 ***
 
+## v5.0.4
+
+### 📆2025-12-05
+
+### ⚠️ Fixed
+
+* **Athena**
+  * **General**
+    * **Athena bot late attendance:** Fixed a bug where Athena is late in calls.&#x20;
+  * **During**
+    * **Late transcriptions:** Fixed a bug where live transcriptions are not being updated as the call happens.
+    * **AI Suggestions errors:** Fixed a bug where AI Suggestions aren't appearing despite having an in-depth transcript.&#x20;
+  * **After**
+    * **Meeting scheduling errors:** Fixed a bug where meetings aren't being scheduled based on the date and time provided.&#x20;
+
+### 📆2025-11-20
+
+### ✅ Added
+
+* **Athena**
+  * **General**
+    * **Opportunity Name:** Calls in Athena are now organised into a group of meetings called an "Opportunity" - a reflection of the fact that securing a deal with a company doesn't just happen within a single meeting, but often in a series of calls.&#x20;
+  * **Before**
+    * **Invite Athena to meetings manually:** Users can now invite the Athena bot into the specific call with a button.&#x20;
+    * **More manual editable features:** Before module now has more manually-editable features, making meeting setups much easier.&#x20;
+  * **During**
+  * **After**&#x20;
+    * **Meeting Scheduler:** The After module now includes the ability to schedule next meetings, with the date and time either lifted from the transcript or manually set up by users.&#x20;
+
+### 🟧 Changed
+
+* **Athena**
+  * **General**
+    * **Tighter text:** Made sure that text throughout the Athena platform are succinct and brief to aid users get information as fast as possible
+    * **Light mode:** Light mode now selected as default color
+    * **No more auto-inviting Athena:** With the button to invite Athena now existing in Before, it's up to users to manually invite Athena into their meeting as they see fit.&#x20;
+  * **Before**
+    * **Mini Course sources improvement:** Mini Course now also use the Meeting Description and the core Knowledge Bot as a basis of its topics.
+  * **During**
+    * **AI Suggestion page finder:** A textbox exists should users want to switch to a very specific suggestion they have encountered, and if they remember the page.&#x20;
+
+### ⚠️ Fixed
+
+* **Athena**
+  * **General**
+    * **Registration errors:** Fixed a bug that results in faulty registration.&#x20;
+  * **Call Pilot**
+    * **Name change:** "Call Planner" is now named "Call Pilot"
+    * **Email additions error:** Fixed a bug where adjusting attendees in the main calendar doesn't reflect in the Call Planner.
+  * **Before**
+    * **Mini Course appearance:** Fixed bugs that don't cause the Mini Course to appear based on different actions.
+  * **During**
+    * **Live Transcription error:** Fixed a bug that doesn't make the transcript update itself live during a call.
+    * **AI Suggestions appear too quickly:** Fixed a bug that caused many Live Suggestions to appear.&#x20;
+  * **After**
+    * **Retention error:** Fixed an error that removes a pre-existing generated After report.&#x20;
+
+### 📆2025-10-30
+
+### ✅ Added
+
+* **AI Chatbots**
+  * **Compliance!** A new integration that allows users to test the quality of their AI Chatbots based on specific standards.&#x20;
+
+### ⚠️ Fixed
+
+* **General**
+  * **Inconsistent Registration:** Fixed an error where accounts aren't properly registering in the platform.
+  * **Email Fixes:** Fixed the text that appears during registration emails.&#x20;
+* **Agent Groups**
+  * **Agent Group Listing:** Fixed a bug where Agent Groups don't appear in the list after making them.
+* **Captivate Organisations**
+  * **Same Company, different Organisation:** Fixed a bug where the same company has two different Organisations with user lists.
+
+### 📆2025-10-16
+
+### ✅ Added
+
+* **Chat Flows**
+  * **Athena User and Mini Course List:** Have an interface within the Chat Flows view that lets users obtain a list of registered users in an Athena as well as the list of Mini Courses generated in an Athena.
+* **Athena**
+  * **General**
+    * **Edit with AI:** Most items in the Before/During/After modules can be edited with AI using a simple text prompt.&#x20;
+  * **Call Calendar (Call Pilot)**
+    * **Calendar Syncing:** Users can see their calendars linked within the Call Calendar (Call Pilot), with non-Athena calls marked grey and Athena calls marked blue. Athena calls can be organised and utilised in live conversations as a **Call Plan**.&#x20;
+  * **Before**
+    * **Meeting Description:** Non-Athena calls that users want to transform into Athena calls will prompt users to add a Meeting Description that will be used as a basis of the meeting information.
+    * **Build Call Plan:** Athena can now build **Call Plans** based on the Meeting Description. The main "starting information" of a Call Plan is located within the Before module. The Call Plan will provide information like agenda items, predicted objections, analysed pain points, as well as background data of companies and contacts involved in the call.&#x20;
+  * **During**
+    * **Pull data from Before:** Ticked items from Before are carried over in During.&#x20;
+    * **Embedded Assistant:** The Knowledge Bot can now be accessed in the During module as a chatbot that users can converse with during meetings.
+    * **Live Transcript:** An Athena bot will automatically join a designated Athena meeting and begin transcribing the call.&#x20;
+    * **AI Suggestions:** The Knowledge Bot can offer live suggestions based on the transcript of the call.&#x20;
+    * **Generate After/Re-Generate After:** Users can generate an After module report based on the current transcript with the "Generate After". Meanwhile, existing After reports could be overwritten with "Re-Generate After" - useful when the initial After report has been created while a call is ongoing.&#x20;
+  * **After**
+    * **AI-based drafting:** Based on the transcript of the call, Athena will create a meeting summary, draft follow-up emails, and suggest action items.&#x20;
+
+### ⚠️ Fixed
+
+* **Athena**
+  * **General**
+    * **Text fixes:** Tightened the language across the platform
+  * **Call Planner**
+    * **Inconsistent call details:** Fixed a bug where the Host and Attendees are being shown incorrectly
+    * **Inconsistent calendar visualisation:** Fixed some visual errors where some details are not showing up properly.&#x20;
+  * **During**
+    * **Visual fixes in transcription:** Fixed a bug that makes it difficult to see the actual transcript of the call.&#x20;
+    * **Athena avatar for the bot:** The attendee bot to take transcriptions now use the official Athena avatar for easy identification.&#x20;
+    * **Live Suggestions navigation:** Navigating the Live Suggestions interface has become easier with new buttons.&#x20;
+
+### 🆕 Introducing Call Pilot (Athena)&#x20;
+
+<figure><img src=".gitbook/assets/image.png" alt="A preview of the Captivate Athena interface, showcasing the view of the main Athena Chat alongside the Mini Course Library, Suggested Questions, Call Pilot, Feedback, and Tutorials."><figcaption><p>A preview of the Captivate Athena interface, showcasing the view of the main Athena Chat alongside the Mini Course Library, Suggested Questions, Call Pilot, Feedback, and Tutorials.</p></figcaption></figure>
+
+**Call Pilot** (previously the "Call Calendar") is the most integral part of Captivate Athena's AI sales execution functionality, as it's the feature that directly ties into sales assistance. Aside from studying materials via Mini Courses and conversing with the Knowledge Bot, it's the Call Pilot where users can plan and engage in their calls with Captivate's proprietary AI sales execution assistance.&#x20;
+
+* **Call Pilot:** After connecting your calendar, Call Pilot lets you transform meetings into "Athena calls" that offer AI assistance in any stage of the call process.&#x20;
+* **Call Plan:** When accessed in preparation for a meeting, an Athena call is known as a **Call Plan**. They contain:
+  * **Before Module:** This is your pre-call study layer, where AI takes your meeting description and surfaces contact information, company information, agenda items, pain points, potential objections, and meeting-focused Mini Courses that you can study.
+  * **During Module:** This is your in-call layer, where AI can generate live transcripts and provide live suggestions based on both context and items selected in the Before Module.&#x20;
+  * **After Module:** This is the post-call layer, where AI can take the existing call's transcript and organise next steps. These include auto-updating the CRM as well as providing a call summary, creating a draft email to be sent after the call, listing tasks to be distributed across attendees, and even scheduling the next call.&#x20;
+
+### 📆2025-09-22
+
+### ✅ Added
+
+* **Captivate Organisations:**
+  * **RBAC (Role-Based Access Control):** Users can now become part of an organisation when they join Captivate via any work email. They can invite users, as well as create and edit roles with Read, Write, and Delete features. Features are divided across User Management, User Role Management, Chat Flows, Reports, and Chat Transcripts.&#x20;
 
 
-## v5.0.2
+
+***
+
+## v5.0.3
 
 ### 📆2025-08-22
 
 ### ✅ Added
 
+* **AI Chatbots**
+  * **Custom Tags & Metadata (for&#x20;**_**AI Chatbot > Add Data**_**):** Allow users to filter ingested docs using custom keywords. You can test this in the Import Your Information/Add Data step of AI Chatbot creation.
+
+### 🆕 Custom Tags and Metadata
+
+<figure><img src=".gitbook/assets/image (405).png" alt="After uploading new data in AI Chatbots > Import Your Own Information, you will be prompted if you want to add metadata. This &#x22;Add New Metadata tags&#x22; menu is where you will set metadata identifiers so your data is easily organised and sorted."><figcaption><p>After uploading new data in AI Chatbots > Import Your Own Information, you will be prompted if you want to add metadata. This "Add New Metadata tags" menu is where you will set metadata identifiers so your data is easily organised and sorted.</p></figcaption></figure>
+
+You can now sort ingested information using metadata tags. This is extremely useful for large quantities of content, as you can now add categories (**Metadata Tag**) and identifiers **(Value)** that the platform can auto-assign to relevant content. You may freely edit this within _**AI Chatbots > Importy Your Own Information.**_&#x20;
+
+***
+
+## v5.0.2
+
+### 📆2025-08-14
+
+### ✅ Added
+
 * **General**
-  * **External Bots:** With Developer Mode on, you can now use an API endpoint to connect third-party chatbots to Captivate Chat Flows.
   * **AI Agent Groups (Beta):** With Developer Mode on you can now create AI Agent Groups comprised of many AI Chatbots. Attach this to your Chat Flow and your conversations get auto-routed to the appropriate AI Chatbot.&#x20;
 * **AI Chatbots**
   * **Enable Mini Course Integration (AI Chatbot > Integration):** Start creating Mini Courses based on your bot’s ingested knowledge.
-  * **Custom Tags & Metadata (for AI Chatbot > Add Data) (5.0.2):** Allow users to filter ingested docs using custom keywords. You can test this in the Import Your Information/Add Data step of AI Chatbot creation.
+
+### 🆕 Agent Groups (Beta)
+
+<figure><img src=".gitbook/assets/image (406).png" alt="The &#x22;Agent Group&#x22; window showing a specific Agent Group. When showing the details of an Agent Group, users can see the Agents (AI Chatbots) selected for the group, their original AI Chatbot names, their Provider (LLM), and Example Queries used to toggle the AI router to switch between them."><figcaption><p>The "Agent Group" window showing a specific Agent Group. When showing the details of an Agent Group, users can see the Agents (AI Chatbots) selected for the group, their original AI Chatbot names, their Provider (LLM), and Example Queries used to toggle the AI router to switch between them.</p></figcaption></figure>
+
+**Agent Groups** make use of the platform's unique AI router feature, where users can be rerouted to appropriate sources of information (AI Chatbots/Agents) based purely on context. With Developer Mode turned on, users can group existing AI Chatbots into an Agent Group. This Agent Group becomes the equivalent of an "AI Chatbot" that can be used within a Chat Flow.&#x20;
+
+Instead of choosing just one AI Chatbot with limited knowledge, an Agent Group is the "representative" of a network of AI Chatbots.&#x20;
+
+### 🆕 Enable Mini Course Integration
+
+<figure><img src=".gitbook/assets/image (407).png" alt="&#x22;Mini Course Integration&#x22; window as accessed via AI Chatbots > Integration > Mini Course. This is the main menu that activates the course generation API of Captivate, allowing an AI Chatbot to create Mini Courses when attached to an Athena Channel."><figcaption><p>"Mini Course Integration" window as accessed via AI Chatbots > Integration > Mini Course. This is the main menu that activates the course generation API of Captivate, allowing an AI Chatbot to create Mini Courses when attached to an Athena Channel.</p></figcaption></figure>
+
+Users can now designate any AI Chatbot as a source of Mini Courses when attached to an Athena Channel.&#x20;
+
+Accessed within _**AI Chatbots > Integration > Mini Course**_, any AI Chatbot with this integration enabled can be used with an Athena, with the chat interface now allowing users to create 5-minute bite-sized Mini Courses about any information ingested by the chatbot.&#x20;
 
 
 
@@ -45,19 +207,22 @@ description: >-
 
 
     * **Atomization of edits:** Editing Chat Flows will now open a selector that lets you choose which specific Chat Flow component you want to edit - whether the AI Chatbot, Channel, Livechat, or all of them at once.
-    *   **Full Chat:**
-
-        * **Badges now available:** Passing a Knowledge Test now rewards users with a course Badge. They no longer will be able to retake the Knowledge Test.
+*   **Athena**
 
 
 
-        * **Add Feedback options:** Create a list of suggested subject lines and emails where user feedback is automatically sent, allowing you to respond to user suggestions and complaints much faster.
-        * **Add Terms and Conditions:** Attach Terms and Conditions to your Full Chat to accommodate specific legal requirements by your team.
-        * **Start Chat Toggle (You and AI):** Use a toggle to choose whether you or your AI Chatbot will start a conversation in your Full Chat. This is set to your AI Chatbot by default.
-        * **Multi-Select Languages:** Choose which languages you want your Full Chat to appear in, auto-translating components based on the language the user selects.          \
-          Back to Library button: Use a "Back" button inside a Mini Course to go back to your Mini Course Library.
-        * **Sidebar View Toggle:** Hide the Full Chat sidebar to get a more focused view of your current section.
-        * **Unread Chats now numbered: Y**ou can now see the number of unread chats in your Full Chat within the dedicated "Unread Chats" part of the interface.
+    *      **Product Rename:** The **"Full Chat"** Channel is now **Athena**, our AI sales execution platform. Create a mini-site within our platform that allows you to focus on selling, complete with our sales execution suite.&#x20;
+    * **Badges now available:** Passing a Knowledge Test now rewards users with a course Badge. They no longer will be able to retake the Knowledge Test.
+
+
+
+    * **Add Feedback options:** Create a list of suggested subject lines and emails where user feedback is automatically sent, allowing you to respond to user suggestions and complaints much faster.
+    * **Add Terms and Conditions:** Attach Terms and Conditions to your Full Chat to accommodate specific legal requirements by your team.
+    * **Start Chat Toggle (You and AI):** Use a toggle to choose whether you or your AI Chatbot will start a conversation in your Full Chat. This is set to your AI Chatbot by default.
+    * **Multi-Select Languages:** Choose which languages you want your Full Chat to appear in, auto-translating components based on the language the user selects.      \
+      Back to Library button: Use a "Back" button inside a Mini Course to go back to your Mini Course Library.
+    * **Sidebar View Toggle:** Hide the Full Chat sidebar to get a more focused view of your current section.
+    * **Unread Chats now numbered: Y**ou can now see the number of unread chats in your Full Chat within the dedicated "Unread Chats" part of the interface.
 
 ### 🟧 Changed
 
@@ -76,13 +241,24 @@ description: >-
 * **AI Chatbots**
   * **Incorrect token count:** Fixed instances of incorrect token counts being reflected on specific bots.    \
     Estimated Token Cost on Add Data: Fixed an error where ingested files are auto-computed for token consumption. Now, only selected files for pre-ingestion will get an Estimated Token Cost.
-* **Chat Flows**
-  * **Full Chat**
-    * **Visual fixes:** Adjusted the extra space to Tools selections, fixed theme color errors, correct profile images reflected across conversations and settings, renamed components for better UX.      \
-      Chat rename on refresh: Fixed instances where new chats are auto-renamed on refresh. New chats now automatically get renamed based on conversation context as users converse with AI Chatbots.
+*
+
+    **Athena**
+
+    * **Visual fixes:** Adjusted the extra space to Tools selections, fixed theme color errors, correct profile images reflected across conversations and settings, renamed components for better UX.
+    * **Chat rename on refresh:** Fixed instances where new chats are auto-renamed on refresh. New chats now automatically get renamed based on conversation context as users converse with AI Chatbots.
     * **Double language options**: Fixed a bug that causes the appearance of multiple instances of the same language in the Language selection dropdown.
 
+### 🆕 Full Chat is now Athena
 
+<figure><img src=".gitbook/assets/image (2).png" alt="A preview of the Captivate Athena interface, showcasing the view of the main Athena Chat alongside the Mini Course Library, and Feedback."><figcaption><p>A preview of the Captivate Athena interface, showcasing the view of the main Athena Chat alongside the Mini Course Library, and Feedback.</p></figcaption></figure>
+
+We've renamed our Full Chat channel into **Athena**, our AI sales execution platform.
+
+When you create an Athena inside _**Chat Flow > Channels**_, we will provide a "mini-site" you and your sales representatives can use to help your sales process. It comes with these features:
+
+* **Knowledge Base:** The AI Chatbot attached to the Athena will become the primary Knowledge Base of your Athena. Conversations here will be based on knowledge ingested by your AI Chatbot, so you can create a dedicated AI Chatbot for your Athena that will ingest your marketing and sales materials.&#x20;
+* **Mini Course:** Through the _**AI Chatbot > Integration > Mini Course**_ feature, your AI Chatbot can create bite-sized Mini Courses that Athena users can study in preparation for their sales calls. These Mini Courses will be based on your AI Chatbot's knowledge.
 
 ***
 
@@ -462,7 +638,7 @@ It's advisable for users to duplicate their existing Chat Flow before switching 
 
 ### Transcript Options
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1).png" alt="The Transcript page offers various features such as a Search function, as well as sorting through Filters such as Email, Channel, or Chat Flow. There are options to pick a Date to sort lists of conversations, as well as the option to check multiple conversations for deletion."><figcaption><p>The Transcript page offers various features such as a Search function, as well as sorting through Filters such as Email, Channel, or Chat Flow. There are options to pick a Date to sort lists of conversations, as well as the option to check multiple conversations for deletion.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="The Transcript page offers various features such as a Search function, as well as sorting through Filters such as Email, Channel, or Chat Flow. There are options to pick a Date to sort lists of conversations, as well as the option to check multiple conversations for deletion."><figcaption><p>The Transcript page offers various features such as a Search function, as well as sorting through Filters such as Email, Channel, or Chat Flow. There are options to pick a Date to sort lists of conversations, as well as the option to check multiple conversations for deletion.</p></figcaption></figure>
 
 The **Transcript** page now offers different options for users to sort conversations detected by the Captivate Chat platform. These include the following:
 

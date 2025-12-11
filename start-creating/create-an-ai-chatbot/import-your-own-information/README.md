@@ -26,9 +26,9 @@ Think of this process as building the encyclopedia your Chatbot will rely on whe
 The more resources you provide, the more information your Chatbot can access when creating responses!
 {% endhint %}
 
-To visit the _Import Your Own Information_ page, you need to click the !["Add Information" button on the side bar leads to "Import Your Own Information" page](<../../../.gitbook/assets/image (1) (1) (1) (1).png>) button on the side bar of the AI Chatbot creation process.
+To visit the _Import Your Own Information_ page, you need to click the !["Add Information" button on the side bar leads to "Import Your Own Information" page](<../../../.gitbook/assets/image (1) (1) (1) (1) (1).png>) button on the side bar of the AI Chatbot creation process.
 
-Start the import process by clicking the ![Click the "Import" button on the top of the "Import Your Own Information" page to start the importation process to build your AI Chatbot's knowledge base.](<../../../.gitbook/assets/image (2) (1) (1).png>) button.
+Start the import process by clicking the ![Click the "Import" button on the top of the "Import Your Own Information" page to start the importation process to build your AI Chatbot's knowledge base.](<../../../.gitbook/assets/image (2) (1) (1) (1).png>) button.
 
 ***
 
@@ -44,7 +44,7 @@ An _**Import**_ pop-up window should appear. You can either:
 
 Once you have completed the files or webpages you want to import click on the ![Use the blue "Import" button to open the "Import" menu in order to add files and/or URLs to your Chatbot's database](<../../../.gitbook/assets/image (25) (1) (1).png>)button.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="After you upload your data and click the &#x22;Import&#x22; button in the &#x22;Import&#x22; menu, you will be taken to the &#x22;Proceed with Ingestion?&#x22; window. You will be given an estimated number of tokens required to ingest the data you just uploaded. Click &#x22;Import Selected&#x22; to proceed."><figcaption><p>After you upload your data and click the "Import" button in the "Import" menu, you will be taken to the "Proceed with Ingestion?" window. You will be given an estimated number of tokens required to ingest the data you just uploaded. Click "Import Selected" to proceed.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="After you upload your data and click the &#x22;Import&#x22; button in the &#x22;Import&#x22; menu, you will be taken to the &#x22;Proceed with Ingestion?&#x22; window. You will be given an estimated number of tokens required to ingest the data you just uploaded. Click &#x22;Import Selected&#x22; to proceed."><figcaption><p>After you upload your data and click the "Import" button in the "Import" menu, you will be taken to the "Proceed with Ingestion?" window. You will be given an estimated number of tokens required to ingest the data you just uploaded. Click "Import Selected" to proceed.</p></figcaption></figure>
 
 You will be asked to pay a number of tokens to ingest the URL or PDF you've just uploaded. Click ![ Click "Import Selected" in "Proceed with Ingestion?" menu to start ingesting your uploaded information or data.](<../../../.gitbook/assets/image (255).png>) to proceed.
 
@@ -109,7 +109,7 @@ Another feature in our _Import Your Own Information_ page is the **Enables Citat
 
 #### Sample Citation
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt="A sample interaction with a bot with &#x22;Enable Citations&#x22; set to &#x22;Enabled.&#x22; Notice how it sends two responses - one with the answer to the user query, and another containing its sources."><figcaption><p>A sample interaction with a bot with "Enable Citations" set to "Enabled." Notice how it sends two responses - one with the answer to the user query, and another containing its sources.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="A sample interaction with a bot with &#x22;Enable Citations&#x22; set to &#x22;Enabled.&#x22; Notice how it sends two responses - one with the answer to the user query, and another containing its sources."><figcaption><p>A sample interaction with a bot with "Enable Citations" set to "Enabled." Notice how it sends two responses - one with the answer to the user query, and another containing its sources.</p></figcaption></figure>
 
 Above is a conversation with a Web Widget with "Enable Citations" set as "Enabled." Whenever AI Chatbot responds to the user, it sends two responses:
 
@@ -141,6 +141,6 @@ Once information has been ingested by your AI Chatbot, you can use the _Import Y
 
 Once your data has been imported, click![Click "Next" button from "Import Your Own Information" page to proceed to the next stage that involves choosing a template for the new AI Chatbot.](<../../../.gitbook/assets/image (370).png>).
 
-Or, click ![Clicking "Back" in the "Import Your Own Information" view will send users back to the "My AI Chatbots" page where they can select their AI Chatbot.](<../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png>) to go to the _**My AI Chatbots**_ page where you can choose your AI Chatbot or make a new one.
+Or, click ![Clicking "Back" in the "Import Your Own Information" view will send users back to the "My AI Chatbots" page where they can select their AI Chatbot.](<../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png>) to go to the _**My AI Chatbots**_ page where you can choose your AI Chatbot or make a new one.
 
 Alternatively, you can choose ![The "Finish" button at any stage in the AI Chatbot creation process will finish the editing process and return users to the Setup > My AI Chatbots menu.](<../../../.gitbook/assets/image (168).png>) to save your changes and go back to _**Setup > My AI Chatbots**_.
