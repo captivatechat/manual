@@ -1,7 +1,7 @@
 ---
 description: >-
-  All changes to the Captivate Hub will be added here. Guides will be updated
-  concurrently.
+  All changes to the Captivate platform will be added here. Guides will be
+  updated concurrently.
 ---
 
 # 📕 Changelog
