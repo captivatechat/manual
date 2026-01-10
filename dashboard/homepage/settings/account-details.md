@@ -1,6 +1,6 @@
 # Account Details
 
-<figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption><p>View the "Account Details" tab of your settings by clicking your profile picture on the upper-right side of the Captivate Chat internal dashboard and click "Account Details."</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption><p>View the "Account Details" tab of your settings by clicking your profile picture on the upper-right side of the Captivate Chat internal dashboard and click "Account Details."</p></figcaption></figure>
 
 Use the _**Account Details**_ tab of the account settings view to change advanced information about your Captivate Chat profile. To access this, do the following:
 
@@ -13,7 +13,7 @@ Use the _**Account Details**_ tab of the account settings view to change advance
 
 <figure><img src="../../../.gitbook/assets/image (365).png" alt="Use the &#x22;Account Details&#x22; tab under the settings view to change advanced components about your account like your Email Address, Password, Developer Mode, and even Delete Account."><figcaption><p>Use the "Account Details" tab under the settings view to change advanced components about your account like your Email Address, Password, Developer Mode, and even Delete Account.</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption><p>Use the "Account Details" tab under the settings view to change advanced components about your account like your Email Address, Password, Developer Mode, and even Delete Account.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption><p>Use the "Account Details" tab under the settings view to change advanced components about your account like your Email Address, Password, Developer Mode, and even Delete Account.</p></figcaption></figure>
 
 The _Account Details_ settings tab has the following components:
 

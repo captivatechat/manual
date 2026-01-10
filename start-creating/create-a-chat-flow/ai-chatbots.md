@@ -4,7 +4,7 @@ description: Select the AI Chatbot to accompany your Chat Flow
 
 # AI Chatbots
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="After setup, the &#x22;My AI Chatbots&#x22; window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the &#x22;+AI Chatbot&#x22; button."><figcaption><p>After setup, the "My AI Chatbots" window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the "+AI Chatbot" button.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="After setup, the &#x22;My AI Chatbots&#x22; window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the &#x22;+AI Chatbot&#x22; button."><figcaption><p>After setup, the "My AI Chatbots" window is the first step of creating a Chat Flow. In the context of Chat Flow creation, users can select an existing AI Chatbot or create a new one from scratch by clicking the "+AI Chatbot" button.</p></figcaption></figure>
 
 Once you name your Chat Flow, you will be taken to _**Step 1: AI Chatbot**_**.**&#x20;
 
@@ -44,7 +44,7 @@ After going through the steps of [#create-an-ai-chatbot](ai-chatbots.md#create-a
 
 ### If you selected an existing AI Chatbot
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 After selecting an existing AI Chatbot, click _**Step 2: Channel**_, as seen on the left side of the screen.
 

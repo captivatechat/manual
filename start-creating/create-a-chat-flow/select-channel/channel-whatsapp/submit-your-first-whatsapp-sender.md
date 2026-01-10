@@ -6,7 +6,7 @@ description: Set up your AI Assistant as a WhatsApp Chatbot
 
 <figure><img src="../../../../.gitbook/assets/image (30) (1).png" alt="When users create a WhatsApp sender in Twilio for the first time, they will be taken to a Guided Signup window."><figcaption><p>When users create a WhatsApp sender in Twilio for the first time, they will be taken to a Guided Signup window.</p></figcaption></figure>
 
-After creating a Twilio account and going to _Messaging > Senders > WhatsApp Senders_ for the first time, you will see a new _**Guided Signup**_ window. Click ![The "Create new sender" button in the Messaging > Senders > WhatsApp Senders page of Twilio will take users to the process of creating a WhatsApp Sender.](<../../../../.gitbook/assets/image (13) (1).png>).&#x20;
+After creating a Twilio account and going to _Messaging > Senders > WhatsApp Senders_ for the first time, you will see a new _**Guided Signup**_ window. Click ![The "Create new sender" button in the Messaging > Senders > WhatsApp Senders page of Twilio will take users to the process of creating a WhatsApp Sender.](<../../../../.gitbook/assets/image (13) (1) (1).png>).&#x20;
 
 {% hint style="warning" %}
 **This is the same form when you create new senders**
@@ -22,7 +22,7 @@ Follow the on-screen instructions on Twilio to apply for WhatsApp access. These 
 
 #### Client Information
 
-<figure><img src="../../../../.gitbook/assets/image (14) (1).png" alt="The first step of creating a first WhatsApp sender in Twilio is to fill up Client Information with the Business&#x27;s Legal Name, its email address, and its Meta Business Manager ID."><figcaption><p>The first step of creating a first WhatsApp sender in Twilio is to fill up Client Information with the Business's Legal Name, its email address, and its Meta Business Manager ID.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (14) (1) (1).png" alt="The first step of creating a first WhatsApp sender in Twilio is to fill up Client Information with the Business&#x27;s Legal Name, its email address, and its Meta Business Manager ID."><figcaption><p>The first step of creating a first WhatsApp sender in Twilio is to fill up Client Information with the Business's Legal Name, its email address, and its Meta Business Manager ID.</p></figcaption></figure>
 
 Fill up your company's information in this Twilio page.&#x20;
 

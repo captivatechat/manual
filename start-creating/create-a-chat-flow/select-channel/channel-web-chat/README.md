@@ -111,7 +111,7 @@ If you don't want to toggle _"Enable Work Hours,"_ you can still keep your Web W
 
 ### Embed Code
 
-<figure><img src="../../../../.gitbook/assets/image (14).png" alt="After modifying all options in &#x22;Configure Web Chat&#x22; page, users will see &#x22;Embed Web Widget.&#x22; This has the code that Web Administrators need to put in the user&#x27;s website for the Web Chat to appear as a Web Widget or In Page."><figcaption><p>After modifying all options in "Configure Web Chat" page, users will see "Embed Web Widget." This has the code that Web Administrators need to put in the user's website for the Web Chat to appear as a Web Widget or In Page.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (14) (1).png" alt="After modifying all options in &#x22;Configure Web Chat&#x22; page, users will see &#x22;Embed Web Widget.&#x22; This has the code that Web Administrators need to put in the user&#x27;s website for the Web Chat to appear as a Web Widget or In Page."><figcaption><p>After modifying all options in "Configure Web Chat" page, users will see "Embed Web Widget." This has the code that Web Administrators need to put in the user's website for the Web Chat to appear as a Web Widget or In Page.</p></figcaption></figure>
 
 After configuring your Web Chat, it becomes available for deployment with code provided in the _**Embed Code**_ section. It has two variants:
 

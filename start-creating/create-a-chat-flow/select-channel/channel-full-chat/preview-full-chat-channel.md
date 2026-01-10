@@ -6,7 +6,7 @@ description: >-
 
 # Preview Full Chat Channel
 
-<figure><img src="../../../../.gitbook/assets/image (9).png" alt="Clicking &#x22;Visit Site&#x22; in &#x22;Chat Channel Created Successfully&#x22; will reveal a full browser page dedicated to the Full Chat Channel. This version samples Athena, a prototype for Adobe. "><figcaption><p>Clicking "Visit Site" in "Chat Channel Created Successfully" will reveal a full browser page dedicated to the Full Chat Channel. This version samples Athena, a prototype for Adobe. </p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9) (1).png" alt="Clicking &#x22;Visit Site&#x22; in &#x22;Chat Channel Created Successfully&#x22; will reveal a full browser page dedicated to the Full Chat Channel. This version samples Athena, a prototype for Adobe. "><figcaption><p>Clicking "Visit Site" in "Chat Channel Created Successfully" will reveal a full browser page dedicated to the Full Chat Channel. This version samples Athena, a prototype for Adobe. </p></figcaption></figure>
 
 ***
 
@@ -18,9 +18,9 @@ Before you can access the Full Chat Channel, you have to login with a valid acco
 2. Click "Login to your account."
 3. Type your credentials and click "Login to your account."
 
-<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>The preview of the Full Chat Channel will ask you to select a language before you can access the full channel. After selecting your desired language, click "Login to your account."</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>The preview of the Full Chat Channel will ask you to select a language before you can access the full channel. After selecting your desired language, click "Login to your account."</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Enter your credentials in this login screen, then click "Login to your account."</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Enter your credentials in this login screen, then click "Login to your account."</p></figcaption></figure>
 
 ***
 

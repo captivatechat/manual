@@ -12,7 +12,7 @@ Use the _**Manage Plan**_ tab of the account settings view to see and/or change 
 
 ## Manage Plan Components
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt="Use the &#x22;Manage Plan&#x22; tab under the settings view to see and modify your current account plan with Captivate Chat. You can select a Basic, Pro, and Customized Plan with different benefits and choose to have the plans billed monthly or annually."><figcaption><p>Use the "Manage Plan" tab under the settings view to see and modify your current account plan with Captivate Chat. You can select a Basic, Pro, and Customized Plan with different benefits and choose to have the plans billed monthly or annually.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt="Use the &#x22;Manage Plan&#x22; tab under the settings view to see and modify your current account plan with Captivate Chat. You can select a Basic, Pro, and Customized Plan with different benefits and choose to have the plans billed monthly or annually."><figcaption><p>Use the "Manage Plan" tab under the settings view to see and modify your current account plan with Captivate Chat. You can select a Basic, Pro, and Customized Plan with different benefits and choose to have the plans billed monthly or annually.</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
 

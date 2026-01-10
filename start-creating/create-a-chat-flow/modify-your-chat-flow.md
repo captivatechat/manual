@@ -20,7 +20,7 @@ You can maintain an existing Chat Flow through these steps:
 
 <figure><img src="../../.gitbook/assets/image (112).png" alt="Clicking the hamburger menu beside any  Chat Flow allows users to edit, rename, and delete them."><figcaption><p>Clicking the hamburger menu beside any Chat Flow allows users to edit, rename, and delete them.</p></figcaption></figure>
 
-You can modify your Chat Flow by **clicking settings (** ![The hamburger icon in the Captivate Chat's Setup > Chat Flows view reveals modification options for the Chat Flow.](<../../.gitbook/assets/image (13) (1) (1).png>) **)** and choosing an action you want accomplish:&#x20;
+You can modify your Chat Flow by **clicking settings (** ![The hamburger icon in the Captivate Chat's Setup > Chat Flows view reveals modification options for the Chat Flow.](<../../.gitbook/assets/image (13) (1) (1) (1).png>) **)** and choosing an action you want accomplish:&#x20;
 
 * **Edit Chat Flow:** Adjust all parameters of the Chat Flow.
 * **Rename Chat Flow**
@@ -51,7 +51,7 @@ You can delete a Chat Flow using these steps:
 
 <figure><img src="../../.gitbook/assets/image (52).png" alt="The &#x22;Delete&#x22; is highlighted among the drop downs of  a Chat Flow&#x27;s hamburger menu settings. Clicking this permanently deletes the specified Chat Flow."><figcaption><p>The "Delete" is highlighted among the drop downs of a Chat Flow's hamburger menu settings. Clicking this permanently deletes the specified Chat Flow.</p></figcaption></figure>
 
-You can delete your Chat Flow by **clicking settings (** ![The hamburger icon in the Captivate Chat's Setup > Chat Flows view reveals modification options for the Chat Flow.](<../../.gitbook/assets/image (13) (1) (1).png>) **)** and choosing _**Delete**_ from the options.
+You can delete your Chat Flow by **clicking settings (** ![The hamburger icon in the Captivate Chat's Setup > Chat Flows view reveals modification options for the Chat Flow.](<../../.gitbook/assets/image (13) (1) (1) (1).png>) **)** and choosing _**Delete**_ from the options.
 
 ### Using the checkbox to delete a Chat Flow
 
