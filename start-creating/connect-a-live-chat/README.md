@@ -1,6 +1,5 @@
 ---
 description: Instruct your AI Chatbots to connect your Channel users to a Live Chat
-hidden: true
 ---
 
 # Connect a Live Chat
